@@ -1,0 +1,20 @@
+﻿[Run Information]
+Version=CSPro 7.0
+AppType=Export
+
+[Files]
+Application=.\Habitat.exf
+InputData=..\Data\household.csdb
+ExportedData=..\Data\Habitat.dat
+STATADescFile=.\Habitat.dct
+STATALabelsFile=.\Habitat.do
+Listing=.\Habitat.exf.lst
+
+[ExternalFiles]
+HOUSEHOLD_DICT=..\Data\household.csdb|CSPRODB
+
+[Parameters]
+ViewListing=OnError
+ViewResults=Yes
+InputOrder=Sequential
+

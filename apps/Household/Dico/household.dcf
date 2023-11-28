@@ -1,0 +1,1895 @@
+﻿[Dictionary]
+Version=CSPro 7.0
+Label=Dictionnaire ménage
+Name=HOUSEHOLD_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=Questionnaire ménage
+Name=HOUSEHOLD_QUEST
+
+[IdItems]
+
+[Item]
+Label=Commune
+Name=COMMUNE
+Start=2
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Commune
+Name=COMMUNE_VS1
+Value=1;Muha
+Value=2;Mukaza
+Value=3;Ntahangwa
+
+[Item]
+Label=Zone
+Name=ZONE
+Start=3
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Zone
+Name=ZONE_VS4
+Value=1;Kanyosha
+Value=2;Kinindo
+Value=3;Musaga
+Value=4;Buyenzi
+Value=5;Bwiza
+Value=6;Nyakabiga
+Value=7;Rohero
+Value=8;Buterere
+Value=9;Cibitoke
+Value=10;Gihosha
+Value=11;Kamenge
+Value=12;Kinama
+Value=13;Ngagara
+
+[ValueSet]
+Label=Zone
+Name=ZONE_VS3
+Value=8;Buterere
+Value=9;Cibitoke
+Value=10;Gihosha
+Value=11;Kamenge
+Value=12;Kinama
+Value=13;Ngagara
+
+[ValueSet]
+Label=Zone
+Name=ZONE_VS2
+Value=4;Buyenzi
+Value=5;Bwiza
+Value=6;Nyakabiga
+Value=7;Rohero
+
+[ValueSet]
+Label=Zone
+Name=ZONE_VS1
+Value=1;Kanyosha
+Value=2;Kinindo
+Value=3;Musaga
+
+[Item]
+Label=Colline
+Name=COLLINE
+Start=5
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Colline
+Name=COLLINE_VS14
+Value=1;Gisyo Nyabaranda
+Value=2;Kajiji
+Value=3;Kizingwe Bihara
+Value=4;Musama
+Value=5;Nkenga Busoro
+Value=6;Nyabugete
+Value=7;Ruziba
+Value=8;KIBENGA
+Value=9;KINANIRA I ET II
+Value=10;KINANIRA III
+Value=11;KININDO
+Value=12;OUA ZEIMET
+Value=13;GASEKEBUYE
+Value=14;GITARAMUKA
+Value=15;KAMESA
+Value=16;KINANIRA I
+Value=17;KINANIRA II
+Value=18;Q I
+Value=19;Q II
+Value=20;Q III
+Value=21;Q IV
+Value=22;Q V
+Value=23;Q VI
+Value=24;Q VII
+Value=25;QI
+Value=26;Q II
+Value=27;Q III
+Value=28;QIV
+Value=29;Q V
+Value=30;Q VI
+Value=31;Q VII
+Value=32;KIGWATI
+Value=33;NYAKABIGA I
+Value=34;NYAKABIGA II
+Value=35;NYAKABIGA III
+Value=36;Asiatique
+Value=37;Centre Ville
+Value=38;INSS
+Value=39;Kabondo
+Value=40;Kiriri Vugizo
+Value=41;Mutanga sud Sororezo Mugoboka
+Value=42;RoheroIGatoke
+Value=43;RoheroII
+Value=44;Buterere I
+Value=45;Buterere IIA
+Value=46;BUTERERE IIB
+Value=47;Kabusa
+Value=48;Kiyange I
+Value=49;Kiyange II
+Value=50;Maramvya
+Value=51;Mubone
+Value=52;Mugaruro
+Value=53;Q I
+Value=54;Q II
+Value=55;Q III
+Value=56;Q IV
+Value=57;Q V
+Value=58;Q VI
+Value=59;Q VII
+Value=60;Gihosha
+Value=61;Gikungu I
+Value=62;Gikungu II
+Value=63;Gikungu Gihosha Rural
+Value=64;Muyaga
+Value=65;Nyabagere
+Value=66;Taba
+Value=67;Winterekwa
+Value=68;Gikizi
+Value=69;Gituro
+Value=70;Heha
+Value=71;Kavumu
+Value=72;Mirango I
+Value=73;Mirango II
+Value=74;Songa
+Value=75;Teza
+Value=76;Twinyoni
+Value=77;Bubanza
+Value=78;Buhinyuza
+Value=79;Bukirasazi I
+Value=80;Bukirasazi II
+Value=81;Bururi
+Value=82;Carama
+Value=83;Gitega
+Value=84;Kanga
+Value=85;Muramvya
+Value=86;Muyinga
+Value=87;Ngozi
+Value=88;Ruyigi
+Value=89;Socarti
+Value=90;Q I
+Value=91;Q II
+Value=92;Q III
+Value=93;Q IV
+Value=94;Q V
+Value=95;Q VI
+Value=96;Q VII
+Value=97;Q VIII
+Value=98;Q IX
+Value=99;Q INDUSTRIEL
+
+[ValueSet]
+Label=Colline
+Name=COLLINE_VS13
+Value=90;Q I
+Value=91;Q II
+Value=92;Q III
+Value=93;Q IV
+Value=94;Q V
+Value=95;Q VI
+Value=96;Q VII
+Value=97;Q VIII
+Value=98;Q IX
+Value=99;Q INDUSTRIEL
+
+[ValueSet]
+Label=Colline
+Name=COLLINE_VS12
+Value=77;Bubanza
+Value=78;Buhinyuza
+Value=79;Bukirasazi I
+Value=80;Bukirasazi II
+Value=81;Bururi
+Value=82;Carama
+Value=83;Gitega
+Value=84;Kanga
+Value=85;Muramvya
+Value=86;Muyinga
+Value=87;Ngozi
+Value=88;Ruyigi
+Value=89;Socarti
+
+[ValueSet]
+Label=Colline
+Name=COLLINE_VS11
+Value=68;Gikizi
+Value=69;Gituro
+Value=70;Heha
+Value=71;Kavumu
+Value=72;Mirango I
+Value=73;Mirango II
+Value=74;Songa
+Value=75;Teza
+Value=76;Twinyoni
+
+[ValueSet]
+Label=Colline
+Name=COLLINE_VS10
+Value=60;Gihosha
+Value=61;Gikungu I
+Value=62;Gikungu II
+Value=63;Gikungu Gihosha Rural
+Value=64;Muyaga
+Value=65;Nyabagere
+Value=66;Taba
+Value=67;Winterekwa
+
+[ValueSet]
+Label=Colline
+Name=COLLINE_VS9
+Value=53;Q I
+Value=54;Q II
+Value=55;Q III
+Value=56;Q IV
+Value=57;Q V
+Value=58;Q VI
+Value=59;Q VII
+
+[ValueSet]
+Label=Colline
+Name=COLLINE_VS8
+Value=44;Buterere I
+Value=45;Buterere IIA
+Value=46;BUTERERE IIB
+Value=47;Kabusa
+Value=48;Kiyange I
+Value=49;Kiyange II
+Value=50;Maramvya
+Value=51;Mubone
+Value=52;Mugaruro
+
+[ValueSet]
+Label=Colline
+Name=COLLINE_VS7
+Value=36;Asiatique
+Value=37;Centre Ville
+Value=38;INSS
+Value=39;Kabondo
+Value=40;Kiriri Vugizo
+Value=41;Mutanga sud Sororezo Mugoboka
+Value=42;RoheroIGatoke
+Value=43;RoheroII
+
+[ValueSet]
+Label=Colline
+Name=COLLINE_VS6
+Value=32;KIGWATI
+Value=33;NYAKABIGA I
+Value=34;NYAKABIGA II
+Value=35;NYAKABIGA III
+
+[ValueSet]
+Label=Colline
+Name=COLLINE_VS5
+Value=25;QI
+Value=26;Q II
+Value=27;Q III
+Value=28;QIV
+Value=29;Q V
+Value=30;Q VI
+Value=31;Q VII
+
+[ValueSet]
+Label=Colline
+Name=COLLINE_VS4
+Value=18;Q I
+Value=19;Q II
+Value=20;Q III
+Value=21;Q IV
+Value=22;Q V
+Value=23;Q VI
+Value=24;Q VII
+
+[ValueSet]
+Label=Colline
+Name=COLLINE_VS3
+Value=13;GASEKEBUYE
+Value=14;GITARAMUKA
+Value=15;KAMESA
+Value=16;KINANIRA I
+Value=17;KINANIRA II
+
+[ValueSet]
+Label=Colline
+Name=COLLINE_VS2
+Value=8;KIBENGA
+Value=9;KINANIRA I ET II
+Value=10;KINANIRA III
+Value=11;KININDO
+Value=12;OUA ZEIMET
+
+[ValueSet]
+Label=Colline
+Name=COLLINE_VS1
+Value=1;Gisyo Nyabaranda
+Value=2;Kajiji
+Value=3;Kizingwe Bihara
+Value=4;Musama
+Value=5;Nkenga Busoro
+Value=6;Nyabugete
+Value=7;Ruziba
+
+[Item]
+Label=Numéro ZD
+Name=ZD
+Start=7
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro ZD
+Name=ZD_VS1
+Value=1:999;Valide
+
+[Item]
+Label=Numéro structure
+Name=STRUCTURE
+Start=10
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro structure
+Name=STRUCTURE_VS1
+Value=1:999;Valide
+
+[Item]
+Label=Numéro ménage
+Name=NUM_MENAGE
+Start=13
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro ménage
+Name=NUM_MENAGE_VS1
+Value=1:999;Valide
+
+[Record]
+Label=Interview
+Name=INTERVIEW
+RecordTypeValue='1'
+RecordLen=73
+
+[Item]
+Label=Code agent enquêteur
+Name=AGENT
+Start=16
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Code agent enquêteur
+Name=AGENT_VS1
+Value=0:99;Valide
+
+[Item]
+Label=Code agent enquêteur 02
+Name=AGENT02
+Start=18
+Len=2
+
+[Item]
+Label=Date d'ouverture du questionnaire
+Name=START_DATE
+Start=20
+Len=8
+
+[Item]
+Label=Année d'ouverture du questionnaire
+Name=START_YEAR
+Start=20
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année d'ouverture du questionnaire
+Name=START_YEAR_VS1
+Value=2017:2018;Valide
+
+[Item]
+Label=Mois d'ouverture du questionnaire
+Name=START_MONTH
+Start=24
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois d'ouverture du questionnaire
+Name=START_MONTH_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Aôut
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+
+[Item]
+Label=Jour d'ouverture du questionnaire
+Name=START_DAY
+Start=26
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour d'ouverture du questionnaire
+Name=START_DAY_VS1
+Value=1;1
+Value=2;2
+Value=3;3
+Value=4;4
+Value=5;5
+Value=6;6
+Value=7;7
+Value=8;8
+Value=9;9
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+Value=21;21
+Value=22;22
+Value=23;23
+Value=24;24
+Value=25;25
+Value=26;26
+Value=27;27
+Value=28;28
+Value=29;29
+Value=30;30
+Value=31;31
+
+[Item]
+Label=Date
+Name=DATE
+Start=28
+Len=8
+
+[Item]
+Label=Année
+Name=YEAR
+Start=28
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année
+Name=YEAR_VS1
+Value=2017:2018;Valide
+
+[Item]
+Label=Mois
+Name=MONTH
+Start=32
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois
+Name=MONTH_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Aôut
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+
+[Item]
+Label=Jour
+Name=DAY
+Start=34
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour
+Name=DAY_VS1
+Value=1;1
+Value=2;2
+Value=3;3
+Value=4;4
+Value=5;5
+Value=6;6
+Value=7;7
+Value=8;8
+Value=9;9
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+Value=21;21
+Value=22;22
+Value=23;23
+Value=24;24
+Value=25;25
+Value=26;26
+Value=27;27
+Value=28;28
+Value=29;29
+Value=30;30
+Value=31;31
+
+[Item]
+Label=Heure de début
+Name=START_TIME
+Start=36
+Len=4
+
+[Item]
+Label=Heure
+Name=START_HOUR
+Start=36
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Heure
+Name=START_HOUR_VS1
+Value=0:23;Valide
+
+[Item]
+Label=Minute
+Name=START_MINUTE
+Start=38
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Minute
+Name=START_MINUTE_VS1
+Value=0:59;Valide
+
+[Item]
+Label=Heure de fin
+Name=END_TIME
+Start=40
+Len=4
+
+[Item]
+Label=Heure
+Name=END_HOUR
+Start=40
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Heure
+Name=END_HOUR_VS1
+Value=0:23;Valide
+
+[Item]
+Label=Minute
+Name=END_MINUTE
+Start=42
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Minute
+Name=END_MINUTE_VS1
+Value=0:59;Valide
+
+[Item]
+Label=Durée de l'interview en minutes
+Name=SURVEY_DURATION
+Start=44
+Len=3
+
+[Item]
+Label=Coordonnées GPS
+Name=COORDONNEE_GPS
+Start=47
+Len=1
+
+[ValueSet]
+Label=Coordonnées GPS
+Name=COORDONNEE_GPS_VS1
+Value=1;Lire les coordonnées GPS
+Value=9;Ignorer la lecture des coordonnées GPS
+
+[ValueSet]
+Label=Coordonnées GPS
+Name=COORDONNEE_GPS_VS2
+Value=1;Lire les coordonnées GPS
+Value=2;Conserver les coordonnées GPS
+Value=9;Ignorer la lecture des coordonnées GPS
+
+[Item]
+Label=Latitude
+Name=LATITUDE
+Start=48
+Len=13
+Decimal=9
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Item]
+Label=Longitude
+Name=LONGITUDE
+Start=61
+Len=13
+Decimal=9
+DecimalChar=Yes
+ZeroFill=Yes
+
+[Record]
+Label=Environnement
+Name=ENVIRONNEMENT
+RecordTypeValue='2'
+Required=No
+RecordLen=289
+
+[Item]
+Label=Langue de l’interview
+Name=Q100
+Start=16
+Len=1
+
+[ValueSet]
+Label=Langue de l’interview
+Name=Q100_VS1
+Value=2;Kirundi
+Value=1;Français
+Name=DEFAULT,Special
+
+[Item]
+Label=Type d’habitat
+Name=Q101
+Start=17
+Len=1
+
+[ValueSet]
+Label=Type d’habitat
+Name=Q101_VS1
+Value=1;Maison isolée
+Value=2;Bâtiment à plusieurs logements
+Value=3;Appartement d’immeuble
+Value=4;Villa moderne
+Value=5;Concession / Saré
+Value=6;Autre
+
+[Item]
+Label=Autre type d'habitat
+Name=Q101A
+Start=18
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Matériau de toit
+Name=Q102
+Start=48
+Len=2
+
+[ValueSet]
+Label=Matériau de toit
+Name=Q102_VS1
+Value=1;Tôles/Métal/Eternit
+Value=2;Ciment/Béton
+Value=3;Nattes/Pailles
+Value=4;Tuiles céramiques
+Value=5;Tuiles en argile
+Value=6;Palmes/Bambou
+Value=7;Planche en bois
+Value=8;Cartons
+Value=9;Pas de toit
+Value=10;Autre (préciser)
+Value=11;NSP
+
+[Item]
+Label=Autre matériau de toit
+Name=Q102A
+Start=50
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Matériau du mur
+Name=Q103
+Start=80
+Len=2
+
+[ValueSet]
+Label=Matériau du mur
+Name=Q103_VS1
+Value=1;Béton /Parpaing
+Value=2;Pierres de taille
+Value=3;Briques de terre cuite
+Value=4;Briques de terre non cuite
+Value=5;Planches en bois
+Value=6;Bois
+Value=7;Contre-plaqué
+Value=8;Bambou avec boue
+Value=9;Bambou/Futs/Palmes
+Value=10;Carton
+Value=11;Pas de murs
+Value=12;Autre (préciser)
+Value=13;NSP
+
+[Item]
+Label=Autre matériau du mur
+Name=Q103A
+Start=82
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Revêtement du sol
+Name=Q104
+Start=112
+Len=2
+
+[ValueSet]
+Label=Revêtement du sol
+Name=Q104_VS1
+Value=1;Marbre
+Value=2;Carreaux (carrelage)
+Value=3;Ciment
+Value=4;Moquette
+Value=5;Bandes de vinyle/Asphalte
+Value=6;Planches en bois
+Value=7;Bambou/Palmes
+Value=8;Bouse
+Value=9;Terre/Sable
+Value=10;Autre
+Value=11;NSP
+
+[Item]
+Label=Autre revêtement du sol
+Name=Q104A
+Start=114
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Source d’énergie pour la cuisson
+Name=Q105
+Start=144
+Len=2
+
+[ValueSet]
+Label=Source d’énergie pour la cuisson
+Name=Q105_VS1
+Value=1;Electricité
+Value=2;Gaz propane liquéfié (GPL)
+Value=3;Gaz naturel
+Value=4;Biogaz
+Value=5;Kérosène
+Value=6;Bois de chauffe
+Value=7;Charbon de bois
+Value=8;Lignite, tourbe
+Value=9;Bouse
+Value=10;Paille/Branchages/Herbes
+Value=11;Résidus agricole
+Value=12;Pas de repas préparé dans le ménage
+Value=13;Autre
+Value=14;NSP
+
+[Item]
+Label=Autre source d’énergie pour la cuisson
+Name=Q105A
+Start=146
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Source d’énergie pour l‘éclairage
+Name=Q106
+Start=176
+Len=1
+
+[ValueSet]
+Label=Source d’énergie pour l‘éclairage
+Name=Q106_VS1
+Value=1;Electricité
+Value=2;Gaz
+Value=3;Pétrole
+Value=4;Energie solaire
+Value=5;Kérosène
+Value=6;Bois de chauffe
+Value=7;Autre
+Value=8;NSP
+
+[Item]
+Label=Autre source d’énergie pour l‘éclairage
+Name=Q106A
+Start=177
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Type de lieu d’aisance
+Name=Q107
+Start=207
+Len=1
+
+[ValueSet]
+Label=Type de lieu d’aisance
+Name=Q107_VS1
+Value=1;WC avec chasse d’eau
+Value=2;Latrines aménagée
+Value=3;Latrines non aménagée
+Value=4;Dans la nature/Brousse
+Value=5;Pas de toilettes
+Value=6;Autre (préciser)
+Value=7;NSP
+
+[Item]
+Label=Autre type de lieu d’aisance
+Name=Q107A
+Start=208
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Mode d’approvisionnement en eau de boisson
+Name=Q108
+Start=238
+Len=2
+
+[ValueSet]
+Label=Mode d’approvisionnement en eau de boisson
+Name=Q108_VS1
+Value=1;Eau dans le logement (Société nationale d’adduction d’eau potable)
+Value=2;Eau hors logement (Société nationale d’adduction d’eau potable)
+Value=3;Eau minérale
+Value=4;Puits aménagé
+Value=5;Puits non aménagé
+Value=6;Eau de source aménagée
+Value=7;Eau de source non aménagée
+Value=8;Eau de pluie
+Value=9;Eau de surface (rivière/barrage/Lac/Mare/Fleuve/canal d’irrigation)
+Value=10;Autre (préciser)
+Value=11;NSP
+
+[Item]
+Label=Autre mode d’approvisionnement en eau de boisson
+Name=Q108A
+Start=240
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Biens possédés
+Name=Q109
+Start=270
+Len=1
+Occurrences=20
+OccurrenceLabel=1,un poste radio
+OccurrenceLabel=2,un téléviseur
+OccurrenceLabel=3,un réfrigérateur / congélateur
+OccurrenceLabel=4,une charrue
+OccurrenceLabel=5,une bicyclette
+OccurrenceLabel=6,une moto / mobylette
+OccurrenceLabel=7,une auto / véhicule
+OccurrenceLabel=8,un téléphone fixe
+OccurrenceLabel=9,un téléphone portable
+OccurrenceLabel=10,un ordinateur
+OccurrenceLabel=11,une connexion Internet
+OccurrenceLabel=12,un câblage au réseau télé/satellite
+OccurrenceLabel=13,une cuisinière / Réchaud à gaz
+OccurrenceLabel=14,un climatiseur
+OccurrenceLabel=15,un ventilateur
+OccurrenceLabel=16,un moulin à grain
+OccurrenceLabel=17,un lecteur CD / DVD
+OccurrenceLabel=18,un mixeur
+OccurrenceLabel=19,un groupe électrogène/générateur
+OccurrenceLabel=20,une pompe à eau
+
+[ValueSet]
+Label=Biens possédés
+Name=Q109_VS1
+Value=1;Oui
+Value=2;Non
+
+[Record]
+Label=Membre
+Name=MEMBRE
+RecordTypeValue='3'
+Required=No
+MaxRecords=30
+RecordLen=154
+OccurrenceLabel=1,Chef de ménage
+OccurrenceLabel=2,2ème personne
+OccurrenceLabel=3,3ème personne
+OccurrenceLabel=4,4ème personne
+OccurrenceLabel=5,5ème personne
+OccurrenceLabel=6,6ème personne
+OccurrenceLabel=7,7ème personne
+OccurrenceLabel=8,8ème personne
+OccurrenceLabel=9,9ème personne
+OccurrenceLabel=10,10ème personne
+OccurrenceLabel=11,11ème personne
+OccurrenceLabel=12,12ème personne
+OccurrenceLabel=13,13ème personne
+OccurrenceLabel=14,14ème personne
+OccurrenceLabel=15,15ème personne
+OccurrenceLabel=16,16ème personne
+OccurrenceLabel=17,17ème personne
+OccurrenceLabel=18,18ème personne
+OccurrenceLabel=19,19ème personne
+OccurrenceLabel=20,20ème personne
+OccurrenceLabel=21,21ème personne
+OccurrenceLabel=22,22ème personne
+OccurrenceLabel=23,23ème personne
+OccurrenceLabel=24,24ème personne
+OccurrenceLabel=25,25ème personne
+OccurrenceLabel=26,26ème personne
+OccurrenceLabel=27,27ème personne
+OccurrenceLabel=28,28ème personne
+OccurrenceLabel=29,29ème personne
+OccurrenceLabel=30,30ème personne
+
+[Item]
+Label=Numéro d'ordre
+Name=Q111
+Start=16
+Len=1
+
+[Item]
+Label=Nom
+Name=Q110
+Start=17
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Membre supplémentaire
+Name=MEMBRE_SUPPL
+Start=47
+Len=1
+
+[ValueSet]
+Label=Membre supplémentaire
+Name=MEMBRE_SUPPL_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Sexe
+Name=Q112
+Start=48
+Len=1
+
+[ValueSet]
+Label=Sexe
+Name=Q112_VS1
+Value=1;Masculin
+Value=2;Féminin
+
+[Item]
+Label=Lien de parenté avec CM
+Name=Q113
+Start=49
+Len=1
+
+[ValueSet]
+Label=Lien de parenté avec CM
+Name=Q113_VS1
+Value=1;Chef du Ménage (CM)
+Value=2;Epouse ou époux du CM
+Value=3;Fils ou fille du CM
+Value=4;Père ou mère du CM
+Value=5;Beau-fils/Belle-fille
+Value=6;Neveu/nièce du CM
+Value=7;Frère/sœur du CM
+Value=8;Sans lien de parenté avec le CM
+Value=9;Autre parent du CM
+
+[Item]
+Label=Ménage actuelle comme lieu de résidence habituelle
+Name=Q114A
+Start=50
+Len=1
+
+[ValueSet]
+Label=Ménage actuelle comme lieu de résidence habituelle
+Name=Q114A_VS1
+Link=60339048
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Intention de résider au moins 6 mois
+Name=Q114B
+Start=51
+Len=1
+
+[ValueSet]
+Label=Intention de résider au moins 6 mois
+Name=Q114B_VS1
+Link=60339048
+
+[Item]
+Label=A passé la nuit dernière dans le  ménage
+Name=Q114C
+Start=52
+Len=1
+
+[ValueSet]
+Label=A passé la nuit dernière dans le  ménage
+Name=Q114C_VS1
+Link=60339048
+
+[Item]
+Label=Statut de résidence
+Name=Q114
+Start=53
+Len=1
+
+[ValueSet]
+Label=Statut de résidence
+Name=Q114_VS1
+Value=1;Résident Présent
+Value=2;Résident Absent
+Value=3;Visiteur
+
+[Item]
+Label=Date de naissance
+Name=Q115
+Start=54
+Len=6
+
+[Item]
+Label=Mois de naissance
+Name=Q115A
+Start=54
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois de naissance
+Name=Q115A_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Aôut
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+Value=98;Inconnu
+
+[Item]
+Label=Année de naissance
+Name=Q115B
+Start=56
+Len=4
+ItemType=SubItem
+
+[ValueSet]
+Label=Année de naissance
+Name=Q115B_VS1
+Value=1900:2018;Valide
+
+[Item]
+Label=Age
+Name=Q116
+Start=60
+Len=2
+
+[ValueSet]
+Label=Age
+Name=Q116_VS1
+Value=0:94;0 à 94 ans
+Value=95;95 ans et plus
+
+[Item]
+Label=Stituation matrimoniale
+Name=Q117
+Start=62
+Len=1
+
+[ValueSet]
+Label=Stituation matrimoniale
+Name=Q117_VS1
+Value=1;Célibataire
+Value=2;Marié(e) monogame
+Value=3;Marié(e) polygame
+Value=4;Union libre
+Value=5;Séparé(e)/Divorcé(e)/Union rompue
+Value=6;Veuf (ve)
+
+[Item]
+Label=Niveau d’instruction atteint
+Name=Q118
+Start=63
+Len=2
+
+[ValueSet]
+Label=Niveau d’instruction atteint
+Name=Q118_VS1
+Value=1;Jamais fréquenté l’école
+Value=2;Fondamental achevé
+Value=3;Fondamental inachevé
+Value=4;Primaire achevé
+Value=5;Primaire inachevé
+Value=6;Secondaire 1er cycle
+Value=7;Secondaire 2nd cycle
+Value=8;Sec Tech/Prof 1er cycle
+Value=9;Sec Tech/Prof 2e cycle
+Value=10;Supérieur
+Value=11;Ne répond pas
+
+[Item]
+Label=Travail rémunéré au cours des 30 derniers jours
+Name=Q119
+Start=65
+Len=1
+
+[ValueSet]
+Label=Travail rémunéré au cours des 30 derniers jours
+Name=Q119_VS1
+Value=1;Oui
+Value=2;Non
+Value=3;Ne répond pas
+
+[Item]
+Label=Port de lunettes médicales
+Name=Q120A
+Start=66
+Len=1
+
+[ValueSet]
+Label=Port de lunettes médicales
+Name=Q120A_VS1
+Value=1;Oui
+Value=2;Non
+Value=3;Ne répond pas
+
+[Item]
+Label=Difficultés à voir
+Name=Q120B
+Start=67
+Len=1
+
+[ValueSet]
+Label=Difficultés à voir
+Name=Q120B_VS1
+Value=1;Pas de difficultés
+Value=2;Quelques difficultés
+Value=3;Beaucoup de difficultés
+Value=4;Ne peut pas le faire du tout
+Value=5;Ne répond pas
+
+[Item]
+Label=Difficultés à voir depluis plus d‘un an
+Name=Q120C
+Start=68
+Len=1
+
+[ValueSet]
+Label=Difficultés à voir depluis plus d‘un an
+Name=Q120C_VS1
+Link=60339048
+
+[Item]
+Label=Personnes ayant répondu sur les difficultés à voir
+Name=Q120D
+Start=69
+Len=1
+
+[ValueSet]
+Label=Personnes ayant répondu sur les difficultés à voir
+Name=Q120D_VS1
+Value=1;La personne concernée
+Value=2;La personne concernée avec l’aide d’une autre personne
+Value=3;Une autre personne
+
+[Item]
+Label=Port d'appareils auditifs
+Name=Q121A
+Start=70
+Len=1
+
+[ValueSet]
+Label=Port d'appareils auditifs
+Name=Q121A_VS1
+Value=1;Oui
+Value=2;Non
+Value=3;Ne répond pas
+
+[Item]
+Label=Difficultés à entendre
+Name=Q121B
+Start=71
+Len=1
+
+[ValueSet]
+Label=Difficultés à entendre
+Name=Q121B_VS1
+Value=1;Pas de difficultés
+Value=2;Quelques difficultés
+Value=3;Beaucoup de difficultés
+Value=4;Ne peut pas le faire du tout
+Value=5;Ne répond pas
+
+[Item]
+Label=Difficultés à entendre depuis plus d‘un an
+Name=Q121C
+Start=72
+Len=1
+
+[ValueSet]
+Label=Difficultés à entendre depuis plus d‘un an
+Name=Q121C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Personnes ayant répondu sur les difficultés à entendre
+Name=Q121D
+Start=73
+Len=1
+
+[ValueSet]
+Label=Personnes ayant répondu sur les difficultés à entendre
+Name=Q121D_VS1
+Value=1;La personne concernée
+Value=2;La personne concernée avec l’aide d’une autre personne
+Value=3;Une autre personne
+
+[Item]
+Label=Difficultés à marcher
+Name=Q122A
+Start=74
+Len=1
+
+[ValueSet]
+Label=Difficultés à marcher
+Name=Q122A_VS1
+Value=1;Pas de difficultés
+Value=2;Quelques difficultés
+Value=3;Beaucoup de difficultés
+Value=4;Ne peut pas le faire du tout
+Value=5;Ne répond pas
+
+[Item]
+Label=Difficultés à marcher depuis plus d‘un an
+Name=Q122B
+Start=75
+Len=1
+
+[ValueSet]
+Label=Difficultés à marcher depuis plus d‘un an
+Name=Q122B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Personnes ayant répondu sur les difficultés à marcher
+Name=Q122C
+Start=76
+Len=1
+
+[ValueSet]
+Label=Personnes ayant répondu sur les difficultés à marcher
+Name=Q122C_VS1
+Value=1;La personne concernée
+Value=2;La personne concernée avec l’aide d’une autre personne
+Value=3;Une autre personne
+
+[Item]
+Label=Difficultés à se rappeller
+Name=Q123A
+Start=77
+Len=1
+
+[ValueSet]
+Label=Difficultés à se rappeller
+Name=Q123A_VS1
+Value=1;Pas de difficultés
+Value=2;Quelques difficultés
+Value=3;Beaucoup de difficultés
+Value=4;Ne peut pas le faire du tout
+Value=5;Ne répond pas
+
+[Item]
+Label=Difficultés à se rappeller depuis plus d‘un an
+Name=Q123B
+Start=78
+Len=1
+
+[ValueSet]
+Label=Difficultés à se rappeller depuis plus d‘un an
+Name=Q123B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Personnes ayant répondu sur les difficultés à rappeller
+Name=Q123C
+Start=79
+Len=1
+
+[ValueSet]
+Label=Personnes ayant répondu sur les difficultés à rappeller
+Name=Q123C_VS1
+Value=1;La personne concernée
+Value=2;La personne concernée avec l’aide d’une autre personne
+Value=3;Une autre personne
+
+[Item]
+Label=Difficultés à prendre soin de soi
+Name=Q124A
+Start=80
+Len=1
+
+[ValueSet]
+Label=Difficultés à prendre soin de soi
+Name=Q124A_VS1
+Value=1;Pas de difficultés
+Value=2;Quelques difficultés
+Value=3;Beaucoup de difficultés
+Value=4;Ne peut pas le faire du tout
+Value=5;Ne répond pas
+
+[Item]
+Label=Difficultés à prendre soin de soi depuis plus d‘un an
+Name=Q124B
+Start=81
+Len=1
+
+[ValueSet]
+Label=Difficultés à prendre soin de soi depuis plus d‘un an
+Name=Q124B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Personnes ayant répondu sur les difficultés à prendre soin de soi
+Name=Q124C
+Start=82
+Len=1
+
+[ValueSet]
+Label=Personnes ayant répondu sur les difficultés à prendre soin de soi
+Name=Q124C_VS1
+Value=1;La personne concernée
+Value=2;La personne concernée avec l’aide d’une autre personne
+Value=3;Une autre personne
+
+[Item]
+Label=Difficultés à communiquer
+Name=Q125A
+Start=83
+Len=1
+
+[ValueSet]
+Label=Difficultés à communiquer
+Name=Q125A_VS1
+Value=1;Pas de difficultés
+Value=2;Quelques difficultés
+Value=3;Beaucoup de difficultés
+Value=4;Ne peut pas le faire du tout
+Value=5;Ne répond pas
+
+[Item]
+Label=Difficultés à communiquer depuis plus d‘un an
+Name=Q125B
+Start=84
+Len=1
+
+[ValueSet]
+Label=Difficultés à communiquer depuis plus d‘un an
+Name=Q125B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Personnes ayant répondu sur les difficultés à communiquer
+Name=Q125C
+Start=85
+Len=1
+
+[ValueSet]
+Label=Personnes ayant répondu sur les difficultés à communiquer
+Name=Q125C_VS1
+Value=1;La personne concernée
+Value=2;La personne concernée avec l’aide d’une autre personne
+Value=3;Une autre personne
+
+[Item]
+Label=Utilise le langage des signes
+Name=Q126A
+Start=86
+Len=1
+
+[ValueSet]
+Label=Utilise le langage des signes
+Name=Q126A_VS1
+Value=1;Oui
+Value=2;Non
+Value=3;Ne répond pas
+
+[Item]
+Label=Difficultés à apprendre de nouvelles choses
+Name=Q126B
+Start=87
+Len=1
+
+[ValueSet]
+Label=Difficultés à apprendre de nouvelles choses
+Name=Q126B_VS1
+Value=1;Pas de difficultés
+Value=2;Quelques difficultés
+Value=3;Beaucoup de difficultés
+Value=4;Ne peut pas le faire du tout
+Value=5;Ne répond pas
+
+[Item]
+Label=Difficultés à apprendre de nouvelles choses depuis plus d‘un an
+Name=Q126C
+Start=88
+Len=1
+
+[ValueSet]
+Label=Difficultés à apprendre de nouvelles choses depuis plus d‘un an
+Name=Q126C_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Personnes ayant répondu sur les difficultés à apprendre de nouvelles choses
+Name=Q126D
+Start=89
+Len=1
+
+[ValueSet]
+Label=Personnes ayant répondu sur les difficultés à apprendre de nouvelles choses
+Name=Q126D_VS1
+Value=1;La personne concernée
+Value=2;La personne concernée avec l’aide d’une autre personne
+Value=3;Une autre personne
+
+[Item]
+Label=Difficultés à analyser et à trouver des solutions
+Name=Q127A
+Start=90
+Len=1
+
+[ValueSet]
+Label=Difficultés à analyser et à trouver des solutions
+Name=Q127A_VS1
+Value=1;Pas de difficultés
+Value=2;Quelques difficultés
+Value=3;Beaucoup de difficultés
+Value=4;Ne peut pas le faire du tout
+Value=5;Ne répond pas
+
+[Item]
+Label=Difficultés à analyser et à trouver des solutions depuis plus d‘un an
+Name=Q127B
+Start=91
+Len=1
+
+[ValueSet]
+Label=Difficultés à analyser et à trouver des solutions depuis plus d‘un an
+Name=Q127B_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Personnes ayant répondu sur les difficultés à analyser et à trouver des solutions
+Name=Q127C
+Start=92
+Len=1
+
+[ValueSet]
+Label=Personnes ayant répondu sur les difficultés à analyser et à trouver des solutions
+Name=Q127C_VS1
+Value=1;La personne concernée
+Value=2;La personne concernée avec l’aide d’une autre personne
+Value=3;Une autre personne
+
+[Item]
+Label=D'autres difficultés d'au moins un an
+Name=Q128
+Start=93
+Len=9
+DataType=Alpha
+
+[ValueSet]
+Label=D'autres difficultés d'au moins un an
+Name=Q128_VS1
+Value='1        ';Non
+Value='2        ';Oui, difficultés à faire des activités physiques ou motrices
+Value='3        ';Oui, difficultés à entendre (ouïe)
+Value='4        ';Oui, difficultés à voir (vision)
+Value='5        ';Oui, difficultés à communiquer (parler et se faire comprendre)
+Value='6        ';Oui, difficultés à prendre soin de soi
+Value='7        ';Oui, difficultés intellectuelles
+Value='8        ';Oui, difficultés psychiques (émotions, dépression, anxiété, délire, etc.)
+Value='9        ';Autre (spécifiez)
+
+[Item]
+Label=D'autres difficultés d'au moins un an
+Name=Q128A
+Start=102
+Len=1
+Occurrences=9
+OccurrenceLabel=1,Non
+OccurrenceLabel=2,Oui, difficultés à faire des activités physiques ou motrices
+OccurrenceLabel=3,Oui, difficultés à entendre (ouïe)
+OccurrenceLabel=4,Oui, difficultés à voir (vision)
+OccurrenceLabel=5,Oui, difficultés à communiquer (parler et se faire comprendre)
+OccurrenceLabel=6,Oui, difficultés à prendre soin de soi
+OccurrenceLabel=7,Oui, difficultés intellectuelles
+OccurrenceLabel=8,Oui, difficultés psychiques (émotions, dépression, anxiété, délire, etc.)
+OccurrenceLabel=9,Autre (spécifiez)
+
+[ValueSet]
+Label=D'autres difficultés d'au moins un an
+Name=Q128A_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Autre difficulté d'au moins un an
+Name=Q128B
+Start=111
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Personnes ayant répondu sur les autres difficultés d'au moins un an
+Name=Q128C
+Start=141
+Len=1
+
+[ValueSet]
+Label=Personnes ayant répondu sur les autres difficultés d'au moins un an
+Name=Q128C_VS1
+Value=1;La personne concernée
+Value=2;La personne concernée avec l’aide d’une autre personne
+Value=3;Une autre personne
+
+[Item]
+Label=Numéro de téléphone
+Name=Q129
+Start=142
+Len=8
+
+[ValueSet]
+Label=Numéro de téléphone
+Name=Q129_VS1
+Value=99999999;NON DECLARE
+Value=77000000:77999999;ONATEL
+Value=71000000:72999999;ECONET LEO
+Value=76000000:76999999;ECONET LEO
+Value=79000000:79999999;ECONET LEO
+Value=75000000:75999999;LACELL SU.
+Value=61000000:61999999;VIETTEL
+Value=68000000:69999999;VIETTEL
+Value=22000000:22999999;ONATEL
+Value=31000000:31999999;VIETTEL
+
+[Item]
+Label=Nombre de handicap majeur
+Name=HANDICAP_MAJEUR
+Start=150
+Len=2
+
+[Item]
+Label=Nombre de handicap mineur
+Name=HANDICAP_MINEUR
+Start=152
+Len=2
+
+[Item]
+Label=Eligible
+Name=ELIGIBLE
+Start=154
+Len=1
+
+[ValueSet]
+Label=Eligible
+Name=ELIGIBLE_VS1
+Value=1;Non éligible
+Value=2;Témoin
+Value=3;Possible personne handicapée
+Value=4;Personne handicapée
+
+[Record]
+Label=Récapitulatif
+Name=RECAPITULATIF
+RecordTypeValue='4'
+Required=No
+MaxRecords=3
+RecordLen=25
+OccurrenceLabel=1,Hommes
+OccurrenceLabel=2,Femmes
+OccurrenceLabel=3,Ensemble
+
+[Item]
+Label=Résidents Présents
+Name=Q010
+Start=16
+Len=2
+
+[Item]
+Label=Résidents Absents
+Name=Q011
+Start=18
+Len=2
+
+[Item]
+Label=Visiteurs
+Name=Q012
+Start=20
+Len=2
+
+[Item]
+Label=Total
+Name=Q013
+Start=22
+Len=2
+
+[Item]
+Label=Personnes éligibles
+Name=Q014
+Start=24
+Len=2
+
+[Record]
+Label=Contrôle
+Name=CONTROLE
+RecordTypeValue='5'
+Required=No
+RecordLen=96
+
+[Item]
+Label=Liste des erreurs signalées
+Name=ERREURS_SIGNALEES
+Start=16
+Len=3
+Occurrences=9
+ZeroFill=Yes
+OccurrenceLabel=1,Identification ménage
+OccurrenceLabel=2,Statut du chef de ménage
+OccurrenceLabel=3,Statut matrimonial du conjoint
+OccurrenceLabel=4,Sexe des conjoints
+OccurrenceLabel=5,Cohérence âge et date de naissance
+OccurrenceLabel=6,Ecart âge enfant du CM et CM
+OccurrenceLabel=7,Ecart âge parent du CM et CM
+OccurrenceLabel=8,Statut de résidence du chef de ménage
+OccurrenceLabel=9,Age du chef de ménage
+
+[Item]
+Label=Nombre d‘erreur détéctée
+Name=ERREURS_DETECTEES
+Start=43
+Len=3
+Occurrences=9
+ZeroFill=Yes
+OccurrenceLabel=1,Identification ménage
+OccurrenceLabel=2,Statut du chef de ménage
+OccurrenceLabel=3,Statut matrimonial du conjoint
+OccurrenceLabel=4,Sexe des conjoints
+OccurrenceLabel=5,Cohérence âge et date de naissance
+OccurrenceLabel=6,Ecart âge enfant du CM et CM
+OccurrenceLabel=7,Ecart âge parent du CM et CM
+OccurrenceLabel=8,Statut de résidence du chef de ménage
+OccurrenceLabel=9,Age du chef de ménage
+
+[Item]
+Label=Nombre d‘erreur détéctée et justifée
+Name=ERREURS_JUSTIFIEES
+Start=70
+Len=3
+Occurrences=9
+ZeroFill=Yes
+OccurrenceLabel=1,Identification ménage
+OccurrenceLabel=2,Statut du chef de ménage
+OccurrenceLabel=3,Statut matrimonial du conjoint
+OccurrenceLabel=4,Sexe des conjoints
+OccurrenceLabel=5,Cohérence âge et date de naissance
+OccurrenceLabel=6,Ecart âge enfant du CM et CM
+OccurrenceLabel=7,Ecart âge parent du CM et CM
+OccurrenceLabel=8,Statut de résidence du chef de ménage
+OccurrenceLabel=9,Age du chef de ménage
+
+[Record]
+Label=Supervision
+Name=SUPERVISION
+RecordTypeValue='6'
+Required=No
+RecordLen=138
+
+[Item]
+Label=Handicap
+Name=HANDICAP
+Start=16
+Len=1
+Occurrences=30
+
+[ValueSet]
+Label=Handicap
+Name=HANDICAP_VS1
+Value=1;Oui
+Value=2;Non
+Name=DEFAULT,Special
+
+[Item]
+Label=Statut enquête individu
+Name=STATUT_INDIVIDU
+Start=46
+Len=1
+Occurrences=30
+
+[ValueSet]
+Label=Statut enquête individu
+Name=STATUT_INDIVIDU_VS1
+Value=1;Disponible
+Value=2;Partiellement enquêté
+Value=3;Enquêté
+Value=4;Refus
+
+[Item]
+Label=Agent assigné
+Name=AGENT_ASSIGNE
+Start=76
+Len=2
+Occurrences=30
+
+[Item]
+Label=Nombre de modifications
+Name=NB_MODIFICATION
+Start=136
+Len=3
+ZeroFill=Yes
+
+[Record]
+Label=Auxiliaire
+Name=AUXILIAIRE
+RecordTypeValue='7'
+RecordLen=84
+
+[Item]
+Label=Individu oublié
+Name=MEMBER_FORGET
+Start=16
+Len=1
+
+[ValueSet]
+Label=Individu oublié
+Name=MEMBER_FORGET_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Nombre d'individus oubliés
+Name=NB_MEMBER_FORGET
+Start=17
+Len=2
+ZeroFill=Yes
+
+[Item]
+Label=Taille du ménage
+Name=TAILLE_MENAGE
+Start=19
+Len=3
+ZeroFill=Yes
+
+[Item]
+Label=Satut du ménage au dénombrement
+Name=H_STATUT
+Start=22
+Len=1
+
+[ValueSet]
+Label=Satut du ménage au dénombrement
+Name=H_STATUT_VS1
+Value=1;Disponible
+Value=2;Partiellement enquêté
+Value=3;Enquêté
+Value=4;Refus
+
+[Item]
+Label=ID device
+Name=DEVICE_ID
+Start=23
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Nom utilisateur tablette
+Name=TABNAME
+Start=53
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Confirmation
+Name=CONFIRMATION
+Start=83
+Len=1
+
+[ValueSet]
+Label=Confirmation
+Name=CONFIRMATION_VS1
+Value=1;Estime avoir correctement adminstré le questionnaire et corrigé ou justifée les éventuelles erreurs
+Value=2;Estime avoir un questionnaire partiel ou incomplet
+Value=3;Cohérence interne vérifiée par le programme
+
+[Item]
+Label=Réaffirmation
+Name=REAFFIRMATION
+Start=84
+Len=1
+
+[ValueSet]
+Label=Réaffirmation
+Name=REAFFIRMATION_VS1
+Value=1;Souhaite porter des corrections au questionnaire
+Value=2;Ne souhaite pas porter des corrections au questionnaire

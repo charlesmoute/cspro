@@ -1,0 +1,105 @@
+﻿[Dictionary]
+Version=CSPro 7.0
+Label=Menu
+Name=HANDISSR_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=Menu de HandiSSR
+Name=HANDISSR_QUEST
+
+[IdItems]
+
+[Item]
+Label=Identifiant du menu
+Name=HANDISSR_ID
+Start=2
+Len=1
+
+[Record]
+Label=Menu
+Name=HANDISSR_REC
+RecordTypeValue='1'
+RecordLen=53
+
+[Item]
+Label=Code agent
+Name=LOGIN
+Start=3
+Len=2
+
+[ValueSet]
+Label=Code agent
+Name=LOGIN_VS1
+Value=0:99;Valide
+
+[Item]
+Label=Menu agent enquêteur
+Name=INTERVIEWER_MENU
+Start=5
+Len=1
+
+[ValueSet]
+Label=Menu agent enquêteur
+Name=INTERVIEWER_HANDISSR_VS1
+Value=1;Ajouter un nouveau ménage
+Value=2;Modifier un ménage
+Value=3;Interviewer une personne handicapée
+Value=4;Modifier les données d'une personne handicapée
+Value=5;Interviewer un témoin
+Value=6;Modifier les données d'un témoin
+Value=7;Rapports sommaires
+Value=8;Synchronisation des données avec le superviseur
+Value=9;Quitter
+
+[Item]
+Label=Menu superviseur
+Name=SUPERVISOR_MENU
+Start=6
+Len=1
+
+[ValueSet]
+Label=Menu superviseur
+Name=SUPERVISOR_HANDISSR_VS1
+Value=1;Rapports sommaires
+Value=2;Synchronisation des données avec le serveur
+Value=3;Synchronisation des données avec  les agents
+Value=9;Quitter
+
+[Item]
+Label=Sélection ménage
+Name=CHOOSE_HOUSEHOLD
+Start=7
+Len=14
+DataType=Alpha
+
+[Item]
+Label=Sélection personne handicapée
+Name=CHOOSE_PH
+Start=21
+Len=16
+DataType=Alpha
+
+[Item]
+Label=Sélection témoin
+Name=CHOOSE_PT
+Start=37
+Len=16
+DataType=Alpha
+
+[Item]
+Label=Rapports sommaires
+Name=SUMMARY_REPORTS
+Start=53
+Len=1
+
+[ValueSet]
+Label=Rapports sommaires
+Name=SUMMARY_REPORTS_VS1
+Value=1;Rapport d'achévement
+Value=2;Rapport de la population totale
+Value=9;Précédent menu

@@ -1,0 +1,24 @@
+﻿Rapport sommaire de ménage du 31/08/2017
+--------------------------
+
+
+Commune Buyenzi : Colline Q I : ZD 123 : Structure 11 : Numéro de ménage 22
+
+
+Membres du ménage:
+
+Nom                            Sexe         Age  Lien de parenté                Eligible
+---                            ----         ---  ---------------                --------
+CHARLES                        Masculin      31  Chef du Ménage (CM)            Personne handicapée
+
+
+
+Total: 1    Hommes: 1     Femmes: 0
+
+Total éligible: 1    Hommes éligibles: 1     Femmes éligibles: 0
+
+
+Liste des erreurs:
+
+Erreur                                  Nombre détecté
+------                                  --------------

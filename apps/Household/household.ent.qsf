@@ -1,0 +1,1196 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 7.0
+
+[LANGUAGES]
+FR=Francais
+RN=Kirundi
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.AGENT
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez votre num\'e9ro agent\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez votre num\'e9ro agent\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.COLLINE
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Choisissez  la colline\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Choisissez  la colline\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.COMMUNE
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Choisissez  la commune\lang1036\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Choisissez  la commune\lang1036\i0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.MEMBER_FORGET
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% : demander au chef de m\'e9nage ou une autre personne ce qui suit :\par
+FR=\i0\par
+FR=\'ab \b J\rquote ai pu interroger\cf2\b0  \b\i %namesList%\cf1\i0 , y aurait-il une autre personne \'e2g\'e9e de 15 ans et plus qui auraient des difficult\'e9s importantes \'e0 r\'e9aliser ses activit\'e9s quotidienne \'e0 cause d\rquote un handicap ou d\rquote une maladie de longue dur\'e9e ? (c\rquote est-\'e0-dire des personnes handicap\'e9es ou des personnes avec une maladie de longue dur\'e9e).\b0  \'bb\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 HelveticaNeue;}}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\f0\fs24 Hari uwundi muntu arenza imyaka 15 muri uru rugo afise nkizi ngorane twaganiriyeko bivuye ku bumuga canke indwara zigihe kirekire ?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.MEMBRE_SUPPL
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 AGENT %codeAgent%, voulez-vous ajouter une personne suppl\'e9mentaire dans ce m\'e9nage ? \b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 AGENT %codeAgent%, voulez-vous ajouter une personne suppl\'e9mentaire dans ce m\'e9nage ? \b\i0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.NUM_MENAGE
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez le num\'e9ro du m\'e9nage enqu\cf0\f1\'eat\cf1\f0\'e9\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez le num\'e9ro du m\'e9nage enqu\cf0\f1\'eat\cf1\f0\'e9\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q101
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\cf1\lang1033\b\f0\fs24 Q101 : Type d\rquote habitat.\par
+FR=\pard\b0\i Observez le type d\rquote habitat et inscrivez la r\'e9ponse correspondante.\f1\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fswiss\fcharset0 ArialMT;}{\f2\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;\red26\green26\blue26;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\cf1\lang1033\b\f0\fs24 Q101 : \cf2\f1 Hiragana inyubako.\cf1\f0\par
+RN=\pard\b0\i Observez le type d\rquote habitat et inscrivez la r\'e9ponse correspondante.\f2\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q102
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q102 : Principal mat\'e9riau de toit du logement. \par
+FR=\b0\i Observez la toiture et inscrivez la r\'e9ponse correspondante. \i0 (\i s\rquote agissant d\rquote un b\'e2timent en \'e9tage, consid\'e9rer le dernier niveau.)\b\i0\f1\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q102 : Principal mat\'e9riau de toit du logement. \par
+RN=\b0\i Observez la toiture et inscrivez la r\'e9ponse correspondante. \i0 (\i s\rquote agissant d\rquote un b\'e2timent en \'e9tage, consid\'e9rer le dernier niveau.)\b\i0\f1\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q103
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\cf1\lang1033\b\f0\fs24 Q103 : Principal mat\'e9riau du mur.\par
+FR=\pard\b0\i Observez le mur et inscrivez la r\'e9ponse correspondante.\b\i0\f1\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\cf1\lang1033\b\f0\fs24 Q103 : Principal mat\'e9riau du mur.\par
+RN=\pard\b0\i Observez le mur et inscrivez la r\'e9ponse correspondante.\b\i0\f1\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q104
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\cf1\lang1033\b\f0\fs24 Q104 : Nature de rev\'eatement du sol de cette maison.\par
+FR=\b0\i Observez le sol et inscrivez la r\'e9ponse correspondante.\b\i0\f1\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\cf1\lang1033\b\f0\fs24 Q104 : Nature de rev\'eatement du sol de cette maison.\par
+RN=\pard\b0\i Observez le sol et inscrivez la r\'e9ponse correspondante.\b\i0\f1\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q105
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\cf1\lang1033\b\f0\fs24 Q105 : Quelle est la principale source d\rquote\'e9nergie utilis\'e9e pour la cuisson des aliments dans ce m\'e9nage ?\f1\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q105 : Quelle est la principale source d\rquote\'e9nergie utilis\'e9e pour la cuisson des aliments dans ce m\'e9nage ?\f1\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q106
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q106 : Quelle est la principale source d\rquote\'e9nergie utilis\'e9e pour l\rquote\'e9clairage de ce m\'e9nage ?\f1\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q106 : Ahanini mucana iki mukubonesha munzu ?\f1\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q107
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q107 : Quel type de lieu d\rquote aisance principal utilise votre m\'e9nage ?\f1\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q107 : Quel type de lieu d\rquote aisance principal utilise votre m\'e9nage ?\f1\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q108
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q108 : Quel est le principal mode d\rquote approvisionnement en eau de boisson dans ce m\'e9nage ?\f1\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q108 : Quel est le principal mode d\rquote approvisionnement en eau de boisson dans ce m\'e9nage ?\f1\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q109
+Occurrences=1:20
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q109 : Dans votre m\'e9nage, avez-vous au moins %getocclabel% ?\f1\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q109 : Dans votre m\'e9nage, avez-vous au moins %getocclabel% ?\f1\par
+RN=\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q110
+Condition=Q111<>1
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q110 : Quel est le nom et pr\'e9nom de la %Q111%\'e8me qui vit dans votre m\'e9nage\f1\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q110 : Quel est le nom et pr\'e9nom de la  %Q111%\'e8me qui vit dans votre m\'e9nage\f1\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q110
+Condition=Q111=1
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\cf1\lang1033\b\f0\fs24 Noms et pr\'e9noms des membres du m\'e9nage\par
+FR=\pard\b0 S\rquote il vous plait, donnez-moi le nom et pr\'e9nom du chef de m\'e9nage\b\f1\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 TimesNewRomanPSMT;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\cf1\lang1033\b\f0\fs24 Noms et pr\'e9noms des membres du m\'e9nage\par
+RN=\pard\b0 S\rquote il vous plait, donnez-moi le nom et pr\'e9nom du chef de m\'e9nage\b\f1\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q112
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\i\f0\fs24 Agent %codeAgent%\b0 , Quel est \cf0 le sexe de %Q110%\cf1\i0  \b\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\i\f0\fs24 Agent %codeAgent%\b0 , Quel est \cf0 le sexe de %Q110%\cf1\b\i0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q113
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q113: Qui est %Q110% pour le chef de m\'e9nage?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q113: Qui est %Q110% pour le chef de m\'e9nage?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q114
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q114 : Quel est le statut de r\'e9sidence de %Q110% ?\i\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q114 : Quel est le statut de r\'e9sidence de %Q110% ?\i\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q114A
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q114a : \f1 %Q110% \f0 vit-il habituellement dans ce m\'e9nage (au moins six mois) ?\lang1036\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q114a : \f1 %Q110% \f0 vit-il habituellement dans ce m\'e9nage (au moins six mois) ?\f1\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q114B
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q114b : \f1 %Q110% \f0 a-t-il l\rquote intention de faire au moins 6 mois\~?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q114b : \f1 %Q110% \f0 a-t-il l\rquote intention de faire au moins 6 mois\~?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q114C
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q114c :\f1 %Q110%\f0  a-t-il pass\'e9 la nuit derni\'e8re dans le  m\'e9nage\~?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q114c :\f1 %Q110%\f0  a-t-il pass\'e9 la nuit derni\'e8re dans le  m\'e9nage\~?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q115A
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q115 : Quel est le mois de naissance de %Q110% ?\par
+FR=\par
+FR=\b0\i Agent %codeAgent% :  accepter un mois inconnu (code 98) mais pas une ann\'e9e de naissance inconnue. \par
+FR=(Si la date de naissance a \'e9t\'e9 donn\'e9e spontan\'e9ment, ne posez plus les questions sur la date de naissance et l\rquote\'e2ge).\b\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q115 : Quel est le mois de naissance de %Q110% ?\par
+RN=\par
+RN=\b0\i Agent %codeAgent% :  accepter un mois inconnu (code 98) mais pas une ann\'e9e de naissance inconnue. \par
+RN=(Si la date de naissance a \'e9t\'e9 donn\'e9e spontan\'e9ment, ne posez plus les questions sur la date de naissance et l\rquote\'e2ge).\b\i0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q115B
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q115 : Quel est l'ann\'e9e de naissance de %Q110% ?\par
+FR=\par
+FR=\b0\i Agent %codeAgent% :  n'accepter pas une ann\'e9e inconnue. \par
+FR=(Si la date de naissance a \'e9t\'e9 donn\'e9e spontan\'e9ment, ne posez plus la question sur l\rquote\'e2ge).\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q115 : Quel est l'ann\'e9e de naissance de %Q110% ?\par
+RN=\par
+RN=\b0\i Agent %codeAgent% :  n'accepter pas une ann\'e9e inconnue. \par
+RN=(Si la date de naissance a \'e9t\'e9 donn\'e9e spontan\'e9ment, ne posez plus la question sur l\rquote\'e2ge).\b\i0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q116
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q116 : Quel est l\rquote\'e2ge de %Q110% ?\par
+FR=\par
+FR=\b0\i Saisir 90 pour les \'e2ges de 90 ans et plus\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q116 : Quel est l\rquote\'e2ge de %Q110% ?\par
+RN=\par
+RN=\b0\i Saisir 90 pour les \'e2ges de 90 ans et plus\b\i0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q117
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q117 : Quelle est la situation matrimoniale de %Q110% ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q117 : Quelle est la situation matrimoniale de %Q110% ?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q118
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q118 : Quel est le plus haut niveau d\rquote instruction atteint par %Q110%?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q118 : Quel est le plus haut niveau d\rquote instruction atteint par %Q110%?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q119
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q119 : Au cours des 30 derniers jours, est-ce que %Q110% a eu un travail r\'e9mun\'e9r\'e9 ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q119 : Au cours des 30 derniers jours, est-ce que %Q110% a eu un travail r\'e9mun\'e9r\'e9 ?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q120A
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q120A : Portez-vous (Porte t'il/elle) des lunettes m\'e9dicales ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q120A : Naka urambara amarori y\rquote indwara ?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q120B
+Condition=Q120A<>1
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q120B : Avez-vous (A-t-il/elle) des difficult\'e9s \'e0 voir ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q120B : Ko utambara amarori y\rquote indwara, ntangorane ufise yo kubona ?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q120B
+Condition=Q120A=1
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q120B : Avez-vous (A-t-il/elle) des difficult\'e9s \'e0 voir m\'eame avec vos (ses) lunettes m\'e9dicales?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q120B : Murafise ingorane zo kubona, naho mwoba mwambaye amarori y\rquote indwara ?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q120C
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q120C : Avez-vous (A-t-il/elle) ces difficult\'e9s depuis plus de 1 an ?\b0\i\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q120C : Izo ngorane mwoba muzimaranye igihe kirenga umwaka ?\b0\i\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q120D
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\b\i0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q121A
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q121A : Portez-vous (Porte t\rquote il/elle) des appareils auditifs qui vous aide \'e0 mieux entendre ?\b0\i\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q121A : Mwoba mufise utwuma two mumatwi tubafasha kwumva ?\b0\i\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q121B
+Condition=Q121A<>1
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q121B : Avez-vous (A-t-il/elle) des difficult\'e9s \'e0 entendre ?\b0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q121B : Hari ingorane zo kwumva mufise ?\b0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q121B
+Condition=Q121A=1
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q121B : Avez-vous (A-t-il/elle) des difficult\'e9s \'e0 mieux entendre m\'eame avec vos (ses) appareils ?\b0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q121B : Ko mufise utwuma two mumatwi ; tubafasha kwumva, mwoba hari ingorane zo kwumva mugifise ?\b0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q121C
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q121C :  Avez-vous (A-t-il/elle) ces difficult\'e9s depuis plus de 1 an ?\b0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q121C : Izo ngorane mwoba muzimaranye igihe kirenga umwaka ?\b0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q121D
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q122A
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q122A : Avez-vous (A-t-il/elle) des difficult\'e9s \'e0 marcher ou \'e0 monter des marches sans aide (cannes, b\'e9quilles, etc.) ?\b0\i\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q122A : Naka, urafise ingorane zo kugendagenda canke kurira ahantu atawugufashije canke atagikoresho mfashangingo canke nsimbura ngingo ukoresheje ?\b0\i\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q122B
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q122B : Avez-vous (A-t-il/elle) ces difficult\'e9s depuis plus de 1 an ?\b0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q122B : Izo ngorane mwoba muzimaranye igihe kirenga umwaka ?\b0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q122C
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q123A
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q123A : Avez-vous (A-t-il/elle) des difficult\'e9s \'e0 vous (se) rappeler de quelque chose ou \'e0 vous (se) concentrer ?\b0\i\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q123A : Murafise ingorane zo kwibagira ibintu canke muguma musamaye(musamaye) ?\b0\i\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q123B
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q123B : Avez-vous (A-t-il/elle) ces difficult\'e9s depuis plus de 1 an ?\b0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q123B : Izo ngorane muzimaranye igihe kirenga umwaka ?\b0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q123C
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q124A
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q124A : Avez-vous (A-t-il/elle) des difficult\'e9s \'e0 prendre soin de vous-m\'eame (lui/elle-m\'eame), par exemple \'e0 vous (se) laver ou \'e0 vous (s\rquote ) habiller tout seul ?\b0\i\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q124A : Mwoba mufise ingorane zo kwitunganya nko kwiyoza canke kwiyambika ?\b0\i\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q124B
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q124B : Avez-vous (A-t-il/elle) ces difficult\'e9s depuis plus de 1 an ?\b0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q124B : Izo ngorane muzimaranye igihe kirenga umwaka ?\b0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q124C
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q125A
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q125A : Dans votre (son) langage habituel, avez-vous (A-t- il/elle) des difficult\'e9s \'e0 communiquer, par exemple \'e0 comprendre ou \'e0 vous (se) faire comprendre? \'e0 comprendre ce que les autres veulent ou \'e0 faire comprendre aux autres ce que vous voulez ?\b0\i\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q125A : Muriko muravuga murafise ingorane zo gushikiriza iciyumvirocanyu nka karorero gutahura canke gutahurwa n\rquote abandi ?\b0\i\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q125B
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q125B : Avez-vous (A-t-il/elle) ces difficult\'e9s depuis plus de 1 an ?\b0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q125B : Izo ngorane muzimaranye igihe kirenga umwaka ?\b0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q125C
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q126A
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q126A : Utilisez-vous (t\rquote il/elle) le langage des signes ?\b0\i\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q126A : Mukuvuga, murakoresha ururimi rw\rquote ibimenyetso ?\b0\i\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q126B
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q126B : Avez-vous (A-t-il/elle) des difficult\'e9s \'e0 apprendre de nouvelles choses par exemple apprendre \'e0 aller \'e0 un nouveau lieu ?\par
+FR=\i Autre exemple : apprendre une nouvelle activit\'e9 (une recette de cuisine, une langue, les r\'e8gles d\rquote un nouveau sport)\b0\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q126B : Mwoba mufise ingorane zo kwiga canke gukora ibintu bishasha, akarorero kwiga gukinjika canke kugenda ahantu hashasha canke urukino rushasha?\b0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q126C
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q126C : Avez-vous (A-t-il/elle) ces difficult\'e9s depuis plus de 1 an ?\b0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q126C : Izo ngorane muzimaranye igihe kirenga umwaka ?\b0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q126D
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q127A
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q127A : Avez-vous (A-t-il/elle) des difficult\'e9s \'e0 analyser et trouver des solutions aux probl\'e8mes que vous (il/elle) rencontrez (rencontre) dans la vie de tous les jours ?\b0\i\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q127A : Mwoba mufise ingorane zo guca irya nino no gutorera inyishu ibibazo muhura mu buzima bwa minsi yose ?\b0\i\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q127B
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q127B : Avez-vous (A-t-il/elle) ces difficult\'e9s depuis plus de 1 an ?\b0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q127B : Izo ngorane muzimaranye igihe kirenga umwaka ?\b0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q127C
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q128
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q128 : Depuis au moins 1 an, avez-vous d\rquote autres difficult\'e9s importantes \'e0 r\'e9aliser certaines activit\'e9s quotidiennes \'e0 cause d\rquote un probl\'e8me de sant\'e9 ou d\rquote un handicap ?\b0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q128 : Hari izindi ngorane nyamukuru mufise zijanye no kurangura udukorwa twa minsi yose bivuye kundwara canke kubumuga mu gihe kirenga umwaka ?\b0\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q128C
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent%, qui a r\'e9pondu aux questions sur les %infos% et/ou les probl\'e8mes de sant\'e9 de longue dur\'e9e ?\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.Q129
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\f0\fs24 Q129 : Acceptez-vous (Accepte-t-il/elle) de nous donner votre (son) num\'e9ro de t\'e9l\'e9phone pour \'e9ventuellement vous (lui) poser d\rquote autres questions ?\b0\par
+FR=\par
+FR=\i Agent %codeAgent% si l'enqu\cf0\f1\'eat\'e9 n'accepte pas, reportez 99999999 comme r\'e9ponse. Dans le cas contraire saisir, pour un prochain rendez-vous, le num\'e9ro de t\'e9l\'e9phone communiqu\'e9.\cf1\f0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 HelveticaNeue;}{\f1\froman\fcharset0 Arial;}{\f2\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\b\f0\fs24 Q129 : Murashobora kumpa aka numero ka terefone yanyu kugira bibaye ngombwa dushobore kubahamagara tubabaze utundi tubazo?\par
+RN=\par
+RN=\cf1\lang1033\b0\i\f1 Agent %codeAgent% si l'enqu\cf0\f0\'eat\'e9 n'accepte pas, reportez 99999999 comme r\'e9ponse. Dans le cas contraire saisir, pour un prochain rendez-vous, le num\'e9ro de t\'e9l\'e9phone communiqu\'e9.\cf1\lang1036\b\i0\f2\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.STRUCTURE
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez le num\'e9ro sequentiel de la structure\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez le num\'e9ro sequentiel de la structure\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.ZD
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez le num\'e9ro sequentiel de la zone de d\'e9nombrement\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez le num\'e9ro sequentiel de la zone de d\'e9nombrement\par
+RN=}
+
+[QUESTION]
+Field=HOUSEHOLD_DICT.ZONE
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Choisissez  la zone pour la commune %NOM_COMMUNE%\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Choisissez  la zone pour la commune %NOM_COMMUNE%\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q110
+Condition=Q111<>1
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fprq2\fcharset0 Arial;}{\f2\froman\fcharset0 Traditional Arabic;}}
+FR={\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\lang1033\b\i\f0\fs24 Agent %codeAgent%, \lang1036\b0\i0\f1 inscrivez les noms des membres du m\'e9nage dans votre cahier de note et d\'e9terminez celui ou celle qui est le chef de m\'e9nage avant de commencer \'e0 les enregistrer dans le smartphone. \par
+FR=\lang1033\b\i\f0\par
+FR=\cf1\b0 Quand vous aurez fini de saisir les noms de tous les membres du m\'e9nage.\cf2\b\i0\f2\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fprq2\fcharset0 Arial;}{\f2\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\lang1033\b\i\f0\fs24 Agent %codeAgent%, \lang1036\b0\i0\f1 inscrivez les noms des membres du m\'e9nage dans votre cahier de note et d\'e9terminez celui ou celle qui est le chef de m\'e9nage avant de commencer \'e0 les enregistrer dans le smartphone. \par
+RN=\lang1033\b\i\f0\par
+RN=\cf1\b0 Quand vous aurez fini de saisir les noms de tous les membres du m\'e9nage.\cf2\lang1036\i0\f2\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q110
+Condition=Q111=1
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fprq2\fcharset0 Arial;}{\f2\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\lang1033\b\i\f0\fs24 Agent %AGENT%, \lang1036\b0\i0\f1 inscrivez les noms des membres du m\'e9nage dans votre cahier de note et d\'e9terminez celui ou celle qui est le chef de m\'e9nage avant de commencer \'e0 les enregistrer dans le smartphone. \par
+FR=\lang1033\b\i\f0\par
+FR=\cf1\b0 Quand vous aurez fini de saisir les noms de tous les membres du m\'e9nage, \b entrez un  nom vide pour  arr\'eater la saisie\b0 .\cf2\lang1036\i0\f2\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fprq2\fcharset0 Arial;}{\f2\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red255\green0\blue0;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\lang1033\b\i\f0\fs24 Agent %AGENT%, \lang1036\b0\i0\f1 inscrivez les noms des membres du m\'e9nage dans votre cahier de note et d\'e9terminez celui ou celle qui est le chef de m\'e9nage avant de commencer \'e0 les enregistrer dans le smartphone. \par
+RN=\lang1033\b\i\f0\par
+RN=\cf1\b0 Quand vous aurez fini de saisir les noms de tous les membres du m\'e9nage, \b entrez un  nom vide pour  arr\'eater la saisie\b0 .\cf2\lang1036\i0\f2\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q120B
+Condition=Q120A=1
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %AGENT% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %AGENT% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q120D
+Occurrences=1:30
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q121A
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q121B
+Condition=Q121A=1
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %AGENT% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %AGENT% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q121C
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q121D
+Occurrences=1:30
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q122A
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q122B
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q122C
+Occurrences=1:30
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q123A
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q123B
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q123C
+Occurrences=1:30
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q124A
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q124B
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q124C
+Occurrences=1:30
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q125A
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q125B
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q125C
+Occurrences=1:30
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q126A
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q126B
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q126C
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q126D
+Occurrences=1:30
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q127A
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q127B
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q127C
+Occurrences=1:30
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q128
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q128C
+Occurrences=1:30
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q129
+Occurrences=1:30
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q120B
+Condition=Q120A<>1
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+
+[HELP]
+Field=HOUSEHOLD_DICT.Q121B
+Condition=Q121A<>1
+Occurrences=1:30
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+FR=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+FR={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\fnil\fcharset2 Symbol;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\f0\fs24 Agent %codeAgent% \par
+RN=\pard{\pntext\f1\'B7\tab}{\*\pn\pnlvlblt\pnf1\pnindent0{\pntxtb\'B7}}\fi-720\li720 Il est important que les r\'e9ponses ne se r\'e9f\'e8rent pas au manque de ressource.\par
+RN={\pntext\f1\'B7\tab}Il est important que la personne qui r\'e9pond aux questions soit la personne concern\'e9e. Cependant, dans de rares situations, si la personne concern\'e9e n\rquote est pas en capacit\'e9 de r\'e9pondre, une tierce personne pourra r\'e9pondre \'e0 sa place. Dans ce cas, utilisez la formulation qui convient (entre parenth\'e8se). Mais il faut toujours essayer de communiquer directement avec la personne, quitte \'e0 demander \'e0 quelqu\rquote un de sa famille de traduire.\par
+RN=}
+

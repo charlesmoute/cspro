@@ -1,0 +1,30 @@
+﻿[CSPro Application]
+Version=CSPro 7.0
+Label=ELIGIBILITE
+Name=ELIGIBILITE
+AppType=DataEntry
+OperatorID=No
+ShowEndCaseDialog=No
+PartialSave=Yes
+CAPI=Yes
+CAPIFont1=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont2=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont1Color=0
+CAPIFont2Color=16711680
+CaseTree=Always
+CenterForms=Yes
+ShowFieldLabels=No
+ShowErrorMessageNumbers=No
+[External Dictionaries]
+File=..\Household\Dico\household.dcf
+[AppCode]
+File=.\eligibilite.ent.apc
+[Message]
+File=.\eligibilite.ent.mgf
+[Help]
+File=.\eligibilite.ent.qsf
+[Forms]
+File=.\eligibilite.fmf
+[Dictionary Types]
+Dict-Type=..\Household\Dico\household.dcf,External
+Dict-Type=.\Dico\eligibilite.dcf,Input,.\eligibilite.fmf

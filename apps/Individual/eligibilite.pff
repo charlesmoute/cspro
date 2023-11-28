@@ -1,0 +1,27 @@
+﻿[Run Information]
+Version=CSPro 7.0
+AppType=Entry
+
+
+[DataEntryInit]
+StartMode=add;
+AutoAdd=NO
+Lock=Delete,Verify,Stats
+Interactive=Ask
+Language=FRANCAIS
+ShowInApplicationListing=Never
+
+
+[Files]
+Application=../Individual/eligibilite.ent
+InputData=../Individual/Data/eligibilite.csdb|CSPRODB
+
+
+[ExternalFiles]
+HOUSEHOLD_DICT=..\Household\Data\household.csdb|CSPRODB
+[Parameters]
+STARTDATE=20170923
+ENDDATE=20181231
+ENDTIME=1730
+STARTTIME=0730
+CATEGORIE=1

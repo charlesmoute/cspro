@@ -1,0 +1,20 @@
+﻿[Run Information]
+Version=CSPro 7.0
+AppType=Export
+
+[Files]
+Application=.\Membres.exf
+InputData=..\Data\household.csdb
+ExportedData=..\Data\Membres.dat
+STATADescFile=.\Membres.dct
+STATALabelsFile=.\Membres.do
+Listing=.\Membres.exf.lst
+
+[ExternalFiles]
+HOUSEHOLD_DICT=..\Data\household.csdb|CSPRODB
+
+[Parameters]
+ViewListing=OnError
+ViewResults=Yes
+InputOrder=Sequential
+

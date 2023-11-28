@@ -1,0 +1,21 @@
+﻿Application     \\Mac\Home\Documents\My Biz\HandiVIH\handiSSR\Individual\eligibilite.ent
+Type            ENTRY
+Input Data      <<CSPro DB>> \\Mac\Home\Documents\My Biz\HandiVIH\handiSSR\Individual\Data\eligibilite.csdb
+External        HOUSEHOLD_DICT=<<CSPro DB>> \\Mac\Home\Documents\My Biz\HandiVIH\handiSSR\Household\Data\household.csdb
+<File>          PFFFILE=
+
+Date            Sep 23, 2017
+Start Time      10:41:09
+End Time        10:46:53
+
+CSPRO Process Summary
+
+User unnumbered messages:
+
+   Line    Freq  Pct.  Message text                                        Denom
+   ----    ----  ----  ------------                                        -----
+    382       1    -   [HandiSSR] Récapitulatif des critères d’inclusion       -
+    556       1    -   [HandiSSR] Agent %d, réalisez le processus du con       -
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

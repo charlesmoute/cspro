@@ -1,0 +1,18 @@
+﻿[Run Information]
+Version=CSPro 7.0
+AppType=Export
+
+[Files]
+Application=.\Eligibilite.exf
+InputData=..\Data\eligibilite.csdb
+ExportedData=..\Data\Eligibilite.csv
+Listing=.\Eligibilite.exf.lst
+
+[ExternalFiles]
+ELIGIBILITE_DICT=..\Data\eligibilite.csdb|CSPRODB
+
+[Parameters]
+ViewListing=OnError
+ViewResults=Yes
+InputOrder=Sequential
+

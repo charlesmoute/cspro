@@ -1,0 +1,21 @@
+﻿Application     \\Mac\Home\Documents\My Biz\HandiVIH\handiSSR\Individual\eligibilite.ent
+Type            ENTRY
+Input Data      <<Empty>>
+External        HOUSEHOLD_DICT=<<CSPro DB>> \\Mac\Home\Documents\My Biz\HandiVIH\handiSSR\Household\Data\household.csdb
+<File>          PFFFILE=
+
+Date            Sep 23, 2017
+Start Time      10:34:04
+End Time        10:34:10
+
+CSPRO Process Summary
+
+System messages:
+
+ Number    Frequency   Message text
+ ------    ---------   ------------
+  10102            1   Could not open the data source %s: %s            
+  10106            1   Due to errors, the data source for %s is set to a
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

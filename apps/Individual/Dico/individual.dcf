@@ -1,0 +1,5592 @@
+﻿[Dictionary]
+Version=CSPro 7.0
+Label=Dictionnaire individu
+Name=INDIVIDUAL_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=Questionnaire individuel
+Name=INDIVIDUAL_QUEST
+
+[IdItems]
+
+[Item]
+Label=Commune
+Name=H_COMMUNE
+Start=2
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Commune
+Name=H_COMMUNE_VS1
+Value=1;Muha
+Value=2;Mukaza
+Value=3;Ntahangwa
+
+[Item]
+Label=Zone
+Name=H_ZONE
+Start=3
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Zone
+Name=H_ZONE_VS1
+Value=1;Kanyosha
+Value=2;Kinindo
+Value=3;Musaga
+
+[ValueSet]
+Label=Zone
+Name=H_ZONE_VS2
+Value=4;Buyenzi
+Value=5;Bwiza
+Value=6;Nyakabiga
+Value=7;Rohero
+
+[ValueSet]
+Label=Zone
+Name=H_ZONE_VS3
+Value=8;Buterere
+Value=9;Cibitoke
+Value=10;Gihosha
+Value=11;Kamenge
+Value=12;Kinama
+Value=13;Ngagara
+
+[ValueSet]
+Label=Zone
+Name=H_ZONE_VS4
+Value=1;Kanyosha
+Value=2;Kinindo
+Value=3;Musaga
+Value=4;Buyenzi
+Value=5;Bwiza
+Value=6;Nyakabiga
+Value=7;Rohero
+Value=8;Buterere
+Value=9;Cibitoke
+Value=10;Gihosha
+Value=11;Kamenge
+Value=12;Kinama
+Value=13;Ngagara
+
+[Item]
+Label=Colline
+Name=H_COLLINE
+Start=5
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Colline
+Name=H_COLLINE_VS1
+Value=1;Gisyo Nyabaranda
+Value=2;Kajiji
+Value=3;Kizingwe Bihara
+Value=4;Musama
+Value=5;Nkenga Busoro
+Value=6;Nyabugete
+Value=7;Ruziba
+
+[ValueSet]
+Label=Colline
+Name=H_COLLINE_VS2
+Value=8;KIBENGA
+Value=9;KINANIRA I ET II
+Value=10;KINANIRA III
+Value=11;KININDO
+Value=12;OUA ZEIMET
+
+[ValueSet]
+Label=Colline
+Name=H_COLLINE_VS3
+Value=13;GASEKEBUYE
+Value=14;GITARAMUKA
+Value=15;KAMESA
+Value=16;KINANIRA I
+Value=17;KINANIRA II
+
+[ValueSet]
+Label=Colline
+Name=H_COLLINE_VS4
+Value=18;Q I
+Value=19;Q II
+Value=20;Q III
+Value=21;Q IV
+Value=22;Q V
+Value=23;Q VI
+Value=24;Q VII
+
+[ValueSet]
+Label=Colline
+Name=H_COLLINE_VS5
+Value=25;QI
+Value=26;Q II
+Value=27;Q III
+Value=28;QIV
+Value=29;Q V
+Value=30;Q VI
+Value=31;Q VII
+
+[ValueSet]
+Label=Colline
+Name=H_COLLINE_VS6
+Value=32;KIGWATI
+Value=33;NYAKABIGA I
+Value=34;NYAKABIGA II
+Value=35;NYAKABIGA III
+
+[ValueSet]
+Label=Colline
+Name=H_COLLINE_VS7
+Value=36;Asiatique
+Value=37;Centre Ville
+Value=38;INSS
+Value=39;Kabondo
+Value=40;Kiriri Vugizo
+Value=41;Mutanga sud Sororezo Mugoboka
+Value=42;RoheroIGatoke
+Value=43;RoheroII
+
+[ValueSet]
+Label=Colline
+Name=H_COLLINE_VS8
+Value=44;Buterere I
+Value=45;Buterere IIA
+Value=46;BUTERERE IIB
+Value=47;Kabusa
+Value=48;Kiyange I
+Value=49;Kiyange II
+Value=50;Maramvya
+Value=51;Mubone
+Value=52;Mugaruro
+
+[ValueSet]
+Label=Colline
+Name=H_COLLINE_VS9
+Value=53;Q I
+Value=54;Q II
+Value=55;Q III
+Value=56;Q IV
+Value=57;Q V
+Value=58;Q VI
+Value=59;Q VII
+
+[ValueSet]
+Label=Colline
+Name=H_COLLINE_VS10
+Value=60;Gihosha
+Value=61;Gikungu I
+Value=62;Gikungu II
+Value=63;Gikungu Gihosha Rural
+Value=64;Muyaga
+Value=65;Nyabagere
+Value=66;Taba
+Value=67;Winterekwa
+
+[ValueSet]
+Label=Colline
+Name=H_COLLINE_VS11
+Value=68;Gikizi
+Value=69;Gituro
+Value=70;Heha
+Value=71;Kavumu
+Value=72;Mirango I
+Value=73;Mirango II
+Value=74;Songa
+Value=75;Teza
+Value=76;Twinyoni
+
+[ValueSet]
+Label=Colline
+Name=H_COLLINE_VS12
+Value=77;Bubanza
+Value=78;Buhinyuza
+Value=79;Bukirasazi I
+Value=80;Bukirasazi II
+Value=81;Bururi
+Value=82;Carama
+Value=83;Gitega
+Value=84;Kanga
+Value=85;Muramvya
+Value=86;Muyinga
+Value=87;Ngozi
+Value=88;Ruyigi
+Value=89;Socarti
+
+[ValueSet]
+Label=Colline
+Name=H_COLLINE_VS13
+Value=90;Q I
+Value=91;Q II
+Value=92;Q III
+Value=93;Q IV
+Value=94;Q V
+Value=95;Q VI
+Value=96;Q VII
+Value=97;Q VIII
+Value=98;Q IX
+Value=99;Q INDUSTRIEL
+
+[ValueSet]
+Label=Colline
+Name=H_COLLINE_VS14
+Value=1;Gisyo Nyabaranda
+Value=2;Kajiji
+Value=3;Kizingwe Bihara
+Value=4;Musama
+Value=5;Nkenga Busoro
+Value=6;Nyabugete
+Value=7;Ruziba
+Value=8;KIBENGA
+Value=9;KINANIRA I ET II
+Value=10;KINANIRA III
+Value=11;KININDO
+Value=12;OUA ZEIMET
+Value=13;GASEKEBUYE
+Value=14;GITARAMUKA
+Value=15;KAMESA
+Value=16;KINANIRA I
+Value=17;KINANIRA II
+Value=18;Q I
+Value=19;Q II
+Value=20;Q III
+Value=21;Q IV
+Value=22;Q V
+Value=23;Q VI
+Value=24;Q VII
+Value=25;QI
+Value=26;Q II
+Value=27;Q III
+Value=28;QIV
+Value=29;Q V
+Value=30;Q VI
+Value=31;Q VII
+Value=32;KIGWATI
+Value=33;NYAKABIGA I
+Value=34;NYAKABIGA II
+Value=35;NYAKABIGA III
+Value=36;Asiatique
+Value=37;Centre Ville
+Value=38;INSS
+Value=39;Kabondo
+Value=40;Kiriri Vugizo
+Value=41;Mutanga sud Sororezo Mugoboka
+Value=42;RoheroIGatoke
+Value=43;RoheroII
+Value=44;Buterere I
+Value=45;Buterere IIA
+Value=46;BUTERERE IIB
+Value=47;Kabusa
+Value=48;Kiyange I
+Value=49;Kiyange II
+Value=50;Maramvya
+Value=51;Mubone
+Value=52;Mugaruro
+Value=53;Q I
+Value=54;Q II
+Value=55;Q III
+Value=56;Q IV
+Value=57;Q V
+Value=58;Q VI
+Value=59;Q VII
+Value=60;Gihosha
+Value=61;Gikungu I
+Value=62;Gikungu II
+Value=63;Gikungu Gihosha Rural
+Value=64;Muyaga
+Value=65;Nyabagere
+Value=66;Taba
+Value=67;Winterekwa
+Value=68;Gikizi
+Value=69;Gituro
+Value=70;Heha
+Value=71;Kavumu
+Value=72;Mirango I
+Value=73;Mirango II
+Value=74;Songa
+Value=75;Teza
+Value=76;Twinyoni
+Value=77;Bubanza
+Value=78;Buhinyuza
+Value=79;Bukirasazi I
+Value=80;Bukirasazi II
+Value=81;Bururi
+Value=82;Carama
+Value=83;Gitega
+Value=84;Kanga
+Value=85;Muramvya
+Value=86;Muyinga
+Value=87;Ngozi
+Value=88;Ruyigi
+Value=89;Socarti
+Value=90;Q I
+Value=91;Q II
+Value=92;Q III
+Value=93;Q IV
+Value=94;Q V
+Value=95;Q VI
+Value=96;Q VII
+Value=97;Q VIII
+Value=98;Q IX
+Value=99;Q INDUSTRIEL
+
+[Item]
+Label=Numéro ZD
+Name=H_ZD
+Start=7
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro ZD
+Name=H_ZD_VS1
+Value=1:999;Valide
+
+[Item]
+Label=Numéro structure
+Name=H_STRUCTURE
+Start=10
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro structure
+Name=H_STRUCTURE_VS1
+Value=1:999;Valide
+
+[Item]
+Label=Numéro ménage
+Name=H_NUMMENAGE
+Start=13
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro ménage
+Name=H_NUMMENAGE_VS1
+Value=1:999;Valide
+
+[Item]
+Label=Numéro d'ordre individu
+Name=H_NUMINDIVIDU
+Start=16
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro d'ordre individu
+Name=H_NUMINDIVIDU_VS1
+Value=1:99;Valide
+
+[Record]
+Label=Interview
+Name=H_INTERVIEW
+RecordTypeValue='1'
+RecordLen=49
+
+[Item]
+Label=Code agent enquêteur
+Name=H_AGENT
+Start=18
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Code agent enquêteur
+Name=H_AGENT_VS1
+Value=0:99;Valide
+
+[Item]
+Label=Code agent enquêteur affecté
+Name=H_AGENT02
+Start=20
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Code agent enquêteur affecté
+Name=H_AGENT02_VS1
+Value=0:99;Valide
+
+[Item]
+Label=Catégorie de l'individu
+Name=H_CATEGORIE
+Start=22
+Len=1
+
+[ValueSet]
+Label=Catégorie de l'individu
+Name=H_CATEGORIE_VS1
+Value=1;Personne Handicapée
+Value=2;Personne Témoin
+
+[Item]
+Label=Date d'ouverture du questionnaire
+Name=H_STARTDATE
+Start=23
+Len=8
+
+[Item]
+Label=Année d'ouverture du questionnaire
+Name=H_STARTYEAR
+Start=23
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année d'ouverture du questionnaire
+Name=H_STARTYEAR_VS1
+Value=2017:2018;Valide
+
+[Item]
+Label=Mois d'ouverture du questionnaire
+Name=H_STARTMONTH
+Start=27
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois d'ouverture du questionnaire
+Name=H_STARTMONTH_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Aôut
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+
+[Item]
+Label=Jour d'ouverture du questionnaire
+Name=H_STARTDAY
+Start=29
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour d'ouverture du questionnaire
+Name=H_STARTDAY_VS1
+Value=1;1
+Value=2;2
+Value=3;3
+Value=4;4
+Value=5;5
+Value=6;6
+Value=7;7
+Value=8;8
+Value=9;9
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+Value=21;21
+Value=22;22
+Value=23;23
+Value=24;24
+Value=25;25
+Value=26;26
+Value=27;27
+Value=28;28
+Value=29;29
+Value=30;30
+Value=31;31
+
+[Item]
+Label=Date
+Name=H_DATE
+Start=31
+Len=8
+
+[Item]
+Label=Année
+Name=H_YEAR
+Start=31
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année
+Name=H_YEAR_VS1
+Value=2017:2018;Valide
+
+[Item]
+Label=Mois
+Name=H_MONTH
+Start=35
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois
+Name=H_MONTH_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Aôut
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+
+[Item]
+Label=Jour
+Name=H_DAY
+Start=37
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour
+Name=H_DAY_VS1
+Value=1;1
+Value=2;2
+Value=3;3
+Value=4;4
+Value=5;5
+Value=6;6
+Value=7;7
+Value=8;8
+Value=9;9
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+Value=21;21
+Value=22;22
+Value=23;23
+Value=24;24
+Value=25;25
+Value=26;26
+Value=27;27
+Value=28;28
+Value=29;29
+Value=30;30
+Value=31;31
+
+[Item]
+Label=Heure de début
+Name=H_STARTTIME
+Start=39
+Len=4
+
+[Item]
+Label=Heure
+Name=H_STARTHOUR
+Start=39
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Heure
+Name=H_STARTHOUR_VS1
+Value=0:23;Valide
+
+[Item]
+Label=Minute
+Name=H_STARTMINUTE
+Start=41
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Minute
+Name=H_STARTMINUTE_VS1
+Value=0:59;Valide
+
+[Item]
+Label=Heure de fin
+Name=H_ENDTIME
+Start=43
+Len=4
+
+[Item]
+Label=Heure
+Name=H_ENDHOUR
+Start=43
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Heure
+Name=H_ENDHOUR_VS1
+Value=0:23;Valide
+
+[Item]
+Label=Minute
+Name=H_ENDMINUTE
+Start=45
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Minute
+Name=H_ENDMINUTE_VS1
+Value=0:59;Valide
+
+[Item]
+Label=Durée de l'interview en minutes
+Name=H_SURVEYDURATION
+Start=47
+Len=3
+
+[Record]
+Label=Données démographiques
+Name=CARACTERISTIQUES
+RecordTypeValue='2'
+Required=No
+RecordLen=109
+
+[Item]
+Label=Année de naissance
+Name=H100
+Start=18
+Len=4
+
+[ValueSet]
+Label=Année de naissance
+Name=H100_VS1
+Value=1969:2002;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R100
+Start=22
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R100_VS1
+Link=80102272
+Value=1;Personne concernée
+Value=2;Avec aide
+Value=3;Tierce personne
+
+[Item]
+Label=Age au jour de la collecte
+Name=HAGE
+Start=23
+Len=2
+
+[ValueSet]
+Label=Age au jour de la collecte
+Name=HAGE_VS1
+Value=15:49;Valide
+
+[Item]
+Label=Sexe
+Name=H101
+Start=25
+Len=1
+
+[ValueSet]
+Label=Sexe
+Name=H101_VS1
+Value=1;Femme
+Value=2;Homme
+
+[Item]
+Label=Répondant à la question
+Name=R101
+Start=26
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R101_VS1
+Link=80102272
+
+[Item]
+Label=Province
+Name=H102
+Start=27
+Len=2
+
+[ValueSet]
+Label=Province
+Name=H102_VS1
+Value=1;Mairie de Bjumbura
+Value=2;Bujumbura rural
+Value=3;Rumonge
+Value=4;Bubanza
+Value=5;Ruyigi
+Value=6;Bukuru
+Value=7;Cankuzo
+Value=8;Cibitoke
+Value=9;Gitega
+Value=10;Karusi
+Value=11;Kayanga
+Value=12;Kirundo
+Value=13;Makamba
+Value=14;Muramvya
+Value=15;Muyinga
+Value=16;Mwaro
+Value=17;Ngozi
+Value=18;Rutana
+Value=19;Etranger
+Value=20;Ne sait pas
+
+[Item]
+Label=Répondant à la question
+Name=R102
+Start=29
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R102_VS1
+Link=80102272
+
+[Item]
+Label=Religion
+Name=H103
+Start=30
+Len=1
+
+[ValueSet]
+Label=Religion
+Name=H103_VS1
+Value=1;Catholique
+Value=2;Protestant
+Value=3;Autre Religion Chrétienne
+Value=4;Musulman
+Value=5;Animiste
+Value=6;Sans religion
+Value=7;Autre
+
+[Item]
+Label=Autre religion
+Name=H103A
+Start=31
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Répondant à la question
+Name=R103
+Start=61
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R103_VS1
+Link=80102272
+
+[Item]
+Label=Corésident(s) à la naissance
+Name=H105
+Start=62
+Len=7
+DataType=Alpha
+
+[ValueSet]
+Label=Corésident(s) à la naissance
+Name=H105_VS1
+Value='1      ';Père
+Value='2      ';Mère
+Value='3      ';Autre membre de la famille
+Value='4      ';Ami(s) de la famille
+Value='5      ';Dans une institution
+Value='6      ';Autre
+Value='7      ';Ne sait pas
+
+[Item]
+Label=Autre corésident(s)  à la naissance
+Name=H105A
+Start=69
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Corésident(s)  à la naissance
+Name=H105B
+Start=99
+Len=1
+Occurrences=7
+OccurrenceLabel=1,Père
+OccurrenceLabel=2,Mère
+OccurrenceLabel=3,Autre membre de la famille
+OccurrenceLabel=4,Ami(s) de la famille
+OccurrenceLabel=5,Dans une institution
+OccurrenceLabel=6,Autre
+OccurrenceLabel=7,Ne sait pas
+
+[ValueSet]
+Label=Corésident(s)  à la naissance
+Name=H105B_VS1
+Link=162401224
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Répondant à la question
+Name=R105
+Start=106
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R105_VS1
+Link=80102272
+
+[Item]
+Label=Age de fin de période
+Name=H106
+Start=107
+Len=2
+
+[ValueSet]
+Label=Age de fin de période
+Name=H106_VS1
+Value=0:50;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R106
+Start=109
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R106_VS1
+Link=80102272
+
+[Record]
+Label=Environnement de vie
+Name=ENVIRONNEMENT
+RecordTypeValue='3'
+Required=No
+MaxRecords=50
+RecordLen=73
+
+[Item]
+Label=Corésident pendant la période
+Name=H107
+Start=18
+Len=11
+DataType=Alpha
+
+[ValueSet]
+Label=Corésident pendant la période
+Name=H107_VS1
+Value='1          ';Père
+Value='2          ';Mère
+Value='3          ';Autre membre de la famille
+Value='4          ';Ami(s) de la famille
+Value='5          ';Dans une institution
+Value='6          ';Seul
+Value='7          ';Avec votre conjoint
+Value='8          ';Avec votre/vos enfants
+Value='9          ';Avec des amis
+Value='A          ';Autre
+Value='B          ';Ne sait pas
+
+[Item]
+Label=Répondant à la question
+Name=R107
+Start=29
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R107_VS1
+Link=80102272
+
+[Item]
+Label=Corésident pendant la période
+Name=H107A
+Start=30
+Len=1
+Occurrences=11
+OccurrenceLabel=1,Père
+OccurrenceLabel=2,Mère
+OccurrenceLabel=3,Autre membre de la famille
+OccurrenceLabel=4,Ami(s) de la famille
+OccurrenceLabel=5,Dans une institution
+OccurrenceLabel=6,Seul
+OccurrenceLabel=7,Avec votre conjoint
+OccurrenceLabel=8,Avec votre/vos enfants
+OccurrenceLabel=9,Avec des amis
+OccurrenceLabel=10,Autre
+OccurrenceLabel=11,Ne sait pas
+
+[ValueSet]
+Label=Corésident pendant la période
+Name=H107A_VS1
+Link=162401224
+
+[Item]
+Label=Autre corésident pendant la période
+Name=H107B
+Start=41
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Age de fin de période
+Name=H108
+Start=71
+Len=2
+
+[ValueSet]
+Label=Age de fin de période
+Name=H108_VS1
+Value=0:50;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R108
+Start=73
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R108_VS1
+Link=80102272
+
+[Record]
+Label=Parcours entourage
+Name=ENTOURAGE
+RecordTypeValue='4'
+Required=No
+MaxRecords=3
+RecordLen=98
+OccurrenceLabel=1,Père
+OccurrenceLabel=2,Mère
+OccurrenceLabel=3,Parent adoptif
+
+[Item]
+Label=Lien de parenté
+Name=H020
+Start=18
+Len=1
+
+[ValueSet]
+Label=Lien de parenté
+Name=H020_VS1
+Value=1;Père
+
+[ValueSet]
+Label=Lien de parenté
+Name=H020_VS2
+Value=2;Mère
+
+[ValueSet]
+Label=Lien de parenté
+Name=H020_VS3
+Value=3;Tante
+Value=4;Oncle
+Value=5;Grand mère
+Value=6;Grand père
+Value=7;Amis de la famille
+Value=8;Autre
+
+[ValueSet]
+Label=Lien de parenté
+Name=H020_VS4
+Value=1;Père
+Value=2;Mère
+Value=3;Tante
+Value=4;Oncle
+Value=5;Grand mère
+Value=6;Grand père
+Value=7;Amis de la famille
+Value=8;Autre
+
+[Item]
+Label=Autre lien de parenté
+Name=H020A
+Start=19
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Répondant à la question
+Name=R020
+Start=49
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R020_VS1
+Link=80102272
+
+[Item]
+Label=Fréquentation scolaire du parent
+Name=H021
+Start=50
+Len=2
+
+[ValueSet]
+Label=Fréquentation scolaire du parent
+Name=H021_VS1
+Value=1;Oui
+Value=2;Non
+Value=88;NSP
+
+[Item]
+Label=Répondant à la question
+Name=R021
+Start=52
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R021_VS1
+Link=80102272
+
+[Item]
+Label=Plus haut niveau d'étude atteint
+Name=H022
+Start=53
+Len=2
+
+[ValueSet]
+Label=Plus haut niveau d'étude atteint
+Name=H022_VS1
+Value=1;< Primaire
+Value=2;Primaire
+Value=3;Secondaire
+Value=4;Supérieur
+Value=88;Ne sait pas
+
+[Item]
+Label=Répondant à la question
+Name=R022
+Start=55
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R022_VS1
+Link=80102272
+
+[Item]
+Label=Activité principale du parent
+Name=H023
+Start=56
+Len=2
+
+[ValueSet]
+Label=Activité principale du parent
+Name=H023_VS1
+Value=1;Travail salarié
+Value=2;Travail indépendant
+Value=3;Travail non rémunéré
+Value=4;Petits métiers
+Value=5;Femme au foyer
+Value=6;Sans travail
+Value=7;Autre
+Value=88;Ne sait pas
+
+[Item]
+Label=Autre activité principale du parent
+Name=H023A
+Start=58
+Len=30
+DataType=Alpha
+
+[ValueSet]
+Label=Autre activité principale du parent
+Name=H023A_VS1
+Value='1                             ';Travail salarié
+Value='2                             ';Travail indépendant
+Value='3                             ';Travail non rémunéré
+Value='4                             ';Petits métiers
+Value='5                             ';Femme au foyer
+Value='6                             ';Sans travail
+Value='7                             ';Autre
+Value='88                            ';Ne sait pas
+
+[Item]
+Label=Répondant à la question
+Name=R023
+Start=88
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R023_VS1
+Link=80102272
+
+[Item]
+Label=Périodes d’inactivités
+Name=H024
+Start=89
+Len=2
+
+[ValueSet]
+Label=Périodes d’inactivités
+Name=H024_VS1
+Value=1;Oui
+Value=2;Non
+Value=88;NSP
+
+[Item]
+Label=Répondant à la question
+Name=R024
+Start=91
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R024_VS1
+Link=80102272
+
+[Item]
+Label=Parent encore vivant
+Name=H025A
+Start=92
+Len=2
+
+[ValueSet]
+Label=Parent encore vivant
+Name=H025A_VS1
+Value=1;Oui
+Value=2;Non
+Value=88;NSP
+
+[Item]
+Label=Année de décès du parent
+Name=H025B
+Start=94
+Len=4
+
+[ValueSet]
+Label=Année de décès du parent
+Name=H025B_VS1
+Value=1900:2018;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R025
+Start=98
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R025_VS1
+Link=80102272
+
+[Record]
+Label=Activités et ressources
+Name=ACTIVITES_RESSOURCES
+RecordTypeValue='5'
+Required=No
+RecordLen=151
+
+[Item]
+Label=Occupation principale à l'âge de 10 ans
+Name=H109
+Start=18
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Répondant à la question
+Name=R109
+Start=48
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R109_VS1
+Link=80102272
+
+[Item]
+Label=Age à  la fin de l'activité
+Name=H110
+Start=49
+Len=2
+
+[ValueSet]
+Label=Age à  la fin de l'activité
+Name=H110_VS1
+Value=10:50;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R110
+Start=51
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R110_VS1
+Link=80102272
+
+[Item]
+Label=Source de revenus à l'âge de 10 ans
+Name=H113_0
+Start=52
+Len=9
+DataType=Alpha
+
+[ValueSet]
+Label=Source de revenus à l'âge de 10 ans
+Name=H113_0_VS1
+Value='1        ';De votre activité
+Value='2        ';Pension / allocation
+Value='3        ';Soutien par la famille
+Value='4        ';De l’activité de votre partenaire
+Value='5        ';Mendicité
+Value='6        ';Aucune ressource
+Value='7        ';Autre
+Value='8        ';Ne sait pas
+Value='9        ';Ne souhaite pas répondre
+
+[Item]
+Label=Autre source de revenus à l'âge de 10 ans
+Name=H113_0A
+Start=61
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Source de revenus à l'âge de 10 ans
+Name=H113_0B
+Start=91
+Len=1
+Occurrences=9
+
+[ValueSet]
+Label=Source de revenus à l'âge de 10 ans
+Name=H113_0B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R113_0
+Start=100
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R113_0_VS1
+Link=80102272
+
+[Item]
+Label=Age au changement de source de revenus
+Name=H113_0C
+Start=101
+Len=2
+
+[ValueSet]
+Label=Age au changement de source de revenus
+Name=H113_0C_VS1
+Value=10:50;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R113_0C
+Start=103
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R113_0C_VS1
+Link=80102272
+
+[Item]
+Label=Préoccupé par la santé  à l'âge de 10 ans
+Name=H114A_0
+Start=104
+Len=1
+
+[ValueSet]
+Label=Préoccupé par la santé  à l'âge de 10 ans
+Name=H114A_0_VS1
+Link=84040808
+Value=1;Très préoccupé
+Value=2;Moyennement préoccupé
+Value=3;Pas préoccupé
+
+[Item]
+Label=Répondant à la question
+Name=R114A_0
+Start=105
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R114A_0_VS1
+Link=80102272
+
+[Item]
+Label=Préoccupé par avoir à manger à l'âge de 10 ans
+Name=H114B_0
+Start=106
+Len=1
+
+[ValueSet]
+Label=Préoccupé par avoir à manger à l'âge de 10 ans
+Name=H114B_0_VS1
+Link=84040808
+
+[Item]
+Label=Répondant à la question
+Name=R114B_0
+Start=107
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R114B_0_VS1
+Link=80102272
+
+[Item]
+Label=Préoccupé par avoir un travail à l'âge de 10 ans
+Name=H114C_0
+Start=108
+Len=1
+
+[ValueSet]
+Label=Préoccupé par avoir un travail à l'âge de 10 ans
+Name=H114C_0_VS1
+Link=84040808
+
+[Item]
+Label=Répondant à la question
+Name=R114C_0
+Start=109
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R114C_0_VS1
+Link=80102272
+
+[Item]
+Label=Préoccupé par se loger à l'âge de 10 ans
+Name=H114D_0
+Start=110
+Len=1
+
+[ValueSet]
+Label=Préoccupé par se loger à l'âge de 10 ans
+Name=H114D_0_VS1
+Link=84040808
+
+[Item]
+Label=Répondant à la question
+Name=R114D_0
+Start=111
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R114D_0_VS1
+Link=80102272
+
+[Item]
+Label=Age au changement de période
+Name=H114_0
+Start=112
+Len=2
+
+[ValueSet]
+Label=Age au changement de période
+Name=H114_0_VS1
+Value=10:50;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R114_0
+Start=114
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R114_0_VS1
+Link=80102272
+
+[Item]
+Label=Synthèses des études
+Name=H115
+Start=115
+Len=1
+
+[ValueSet]
+Label=Synthèses des études
+Name=H115_VS1
+Value=1;Vous n’avez jamais été à l’école
+Value=2;Vous avez été seulement à l’école coranique
+Value=3;Vous avez été à l’école
+
+[Item]
+Label=Répondant à la question
+Name=R115
+Start=116
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R115_VS1
+Link=80102272
+
+[Item]
+Label=Niveau d’étude le plus élevé
+Name=H116
+Start=117
+Len=1
+
+[ValueSet]
+Label=Niveau d’étude le plus élevé
+Name=H116_VS1
+Value=1;< Primaire
+Value=2;Primaire
+Value=3;Secondaire 1er cycle
+Value=4;Secondaire 2ème cycle
+Value=5;Supérieur
+Value=6;Ne sait pas
+
+[Item]
+Label=Répondant à la question
+Name=R116
+Start=118
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R116_VS1
+Link=80102272
+
+[Item]
+Label=Activité actuelle
+Name=H117
+Start=119
+Len=2
+
+[ValueSet]
+Label=Activité actuelle
+Name=H117_VS1
+Value=1;Salarié gouvernement
+Value=2;Salarié autre que gouvernement
+Value=3;Employeur
+Value=4;Travail indépendant
+Value=5;Petits métiers
+Value=6;Travail non rémunéré
+Value=7;Etudiant
+Value=8;Femme/homme au foyer
+Value=9;Sans travail pour raisons de santé
+Value=10;Sans travail pour autres raisons
+Value=11;Autre
+Value=12;Ne sait pas
+
+[Item]
+Label=Autre activité actuelle
+Name=H117A
+Start=121
+Len=30
+DataType=Alpha
+
+[ValueSet]
+Label=Autre activité actuelle
+Name=H117A_VS1
+Value='1                             ';Salarié gouvernement
+Value='2                             ';Salarié autre que gouvernement
+Value='3                             ';Employeur
+Value='4                             ';Travail indépendant
+Value='5                             ';Petits métiers
+Value='6                             ';Travail non rémunéré
+Value='7                             ';Etudiant
+Value='8                             ';Femme/homme au foyer
+Value='9                             ';Sans travail pour raisons de santé
+Value='10                            ';Sans travail pour autres raisons
+Value='11                            ';Autre
+Value='12                            ';Ne sait pas
+
+[Item]
+Label=Répondant à la question
+Name=R117
+Start=151
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R117_VS1
+Link=80102272
+
+[Record]
+Label=Activités
+Name=ACTIVITES
+RecordTypeValue='6'
+Required=No
+MaxRecords=50
+RecordLen=23
+
+[Item]
+Label=Activité suivante
+Name=H111
+Start=18
+Len=2
+
+[ValueSet]
+Label=Activité suivante
+Name=H111_VS1
+Value=1;Travail salarié
+Value=2;Travail non rémunéré
+Value=3;Etudiant
+Value=4;Petits métiers
+Value=5;Femme/homme au foyer
+Value=6;Sans travail
+Value=7;Autre
+Value=8;Ne sait pas
+
+[Item]
+Label=Répondant à la question
+Name=R111
+Start=20
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R111_VS1
+Link=80102272
+
+[Item]
+Label=Age à la fin de l'activité
+Name=H112
+Start=21
+Len=2
+
+[ValueSet]
+Label=Age à la fin de l'activité
+Name=H112_VS1
+Value=10:50;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R112
+Start=23
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R112_VS1
+Link=80102272
+
+[Record]
+Label=Ressources
+Name=RESSOURCES
+RecordTypeValue='7'
+Required=No
+MaxRecords=50
+RecordLen=69
+
+[Item]
+Label=Source de revenus
+Name=H113
+Start=18
+Len=9
+DataType=Alpha
+
+[ValueSet]
+Label=Source de revenus
+Name=H113_VS1
+Value='1        ';De votre activité
+Value='2        ';Pension / allocation (préciser)
+Value='3        ';Soutien par la famille
+Value='4        ';De l’activité de votre partenaire
+Value='5        ';Mendicité
+Value='6        ';Aucune ressource
+Value='7        ';Autre
+Value='8        ';Ne sait pas
+Value='9        ';Ne souhaite pas répondre
+
+[Item]
+Label=Autre source de revenus
+Name=H113A
+Start=27
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Source de revenus
+Name=H113B
+Start=57
+Len=1
+Occurrences=9
+OccurrenceLabel=1,De votre activité
+OccurrenceLabel=2,Pension / allocation
+OccurrenceLabel=3,Soutien par la famille
+OccurrenceLabel=4,De l’activité de votre partenaire
+OccurrenceLabel=5,Mendicité
+OccurrenceLabel=6,Aucune ressource
+OccurrenceLabel=7,Autre
+OccurrenceLabel=8,Ne sait pas
+OccurrenceLabel=9,Ne souhaite pas répondre
+
+[ValueSet]
+Label=Source de revenus
+Name=H113B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R113
+Start=66
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R113_VS1
+Link=80102272
+
+[Item]
+Label=Age à la fin de période
+Name=H113C
+Start=67
+Len=2
+
+[ValueSet]
+Label=Age à la fin de période
+Name=H113C_VS1
+Value=10:50;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R113C
+Start=69
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R113C_VS1
+Link=80102272
+
+[Record]
+Label=Préoccupations
+Name=PREOCCUPATIONS
+RecordTypeValue='8'
+Required=No
+MaxRecords=50
+RecordLen=28
+
+[Item]
+Label=Préoccupé par la santé
+Name=H114A
+Start=18
+Len=1
+
+[ValueSet]
+Label=Préoccupé par la santé
+Name=H114A_VS1
+Link=84089208
+Value=1;Très préoccupé
+Value=2;Moyennement préoccupé
+Value=3;Pas préoccupé
+
+[Item]
+Label=Répondant à la question
+Name=R114A
+Start=19
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R114A_VS1
+Link=80102272
+
+[Item]
+Label=Préoccupé par avoir à manger
+Name=H114B
+Start=20
+Len=1
+
+[ValueSet]
+Label=Préoccupé par avoir à manger
+Name=H114B_VS1
+Link=84089208
+
+[Item]
+Label=Répondant à la question
+Name=R114B
+Start=21
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R114B_VS1
+Link=80102272
+
+[Item]
+Label=Préoccupé par avoir un travail
+Name=H114C
+Start=22
+Len=1
+
+[ValueSet]
+Label=Préoccupé par avoir un travail
+Name=H114C_VS1
+Link=84089208
+
+[Item]
+Label=Répondant à la question
+Name=R114C
+Start=23
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R114C_VS1
+Link=80102272
+
+[Item]
+Label=Préoccupé par se loger
+Name=H114D
+Start=24
+Len=1
+
+[ValueSet]
+Label=Préoccupé par se loger
+Name=H114D_VS1
+Link=84089208
+
+[Item]
+Label=Répondant à la question
+Name=R114D
+Start=25
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R114D_VS1
+Link=80102272
+
+[Item]
+Label=Age à la fin de période
+Name=H114E
+Start=26
+Len=2
+
+[ValueSet]
+Label=Age à la fin de période
+Name=H114E_VS1
+Value=10:50;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R114E
+Start=28
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R114E_VS1
+Link=80102272
+
+[Record]
+Label=Réseau social et autres
+Name=SOCIAL01
+RecordTypeValue='9'
+Required=No
+MaxRecords=17
+RecordLen=21
+OccurrenceLabel=1,Opportunités de travail
+OccurrenceLabel=2,Niveau de travail
+OccurrenceLabel=3,Participation financière
+OccurrenceLabel=4,Sortie du quartier
+OccurrenceLabel=5,Assistance à d'autres personnes
+OccurrenceLabel=6,Participation à des loisirs ou des activités sociales
+OccurrenceLabel=7,Actif dans la communauté
+OccurrenceLabel=8,Visite les autres
+OccurrenceLabel=9,A l’aise avec de  nouvelles personnes
+OccurrenceLabel=10,Sentiment d'être respecté par les autres
+OccurrenceLabel=11,Librement déplacement dans la maison ou dans le quartier
+OccurrenceLabel=12,Librement déplacement dans les lieux publics du quartier
+OccurrenceLabel=13,Possibilité de prendre soin de soi-même
+OccurrenceLabel=14,Participation aux  tâches ménagères
+OccurrenceLabel=15,Aucune différence dans les couverts utilisés
+OccurrenceLabel=16,Participation à des cérémonies ou rites
+OccurrenceLabel=17,Facilités à apprendre quelque chose de nouveau
+
+[Item]
+Label=Participation sociale
+Name=H200A
+Start=18
+Len=1
+
+[ValueSet]
+Label=Participation sociale
+Name=H200A_VS1
+Value=1;Pas de réponse
+Value=2;Oui
+Value=3;Parfois
+Value=4;Non
+Value=5;NA : Ne veut pas / Ne peut pas
+
+[Item]
+Label=Répondant à la question
+Name=R200A
+Start=19
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R200A_VS1
+Link=80102272
+
+[Item]
+Label=Niveau de difficulté
+Name=H200B
+Start=20
+Len=1
+
+[ValueSet]
+Label=Niveau de difficulté
+Name=H200B_VS1
+Value=1;Pas de problème
+Value=2;Petit
+Value=3;Moyen
+Value=4;Gros
+
+[Item]
+Label=Répondant à la question
+Name=R200B
+Start=21
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R200B_VS1
+Link=80102272
+
+[Record]
+Label=Réseau social et autres
+Name=SOCIAL02
+RecordTypeValue='L'
+Required=No
+RecordLen=38
+
+[Item]
+Label=Nombre de parents proches
+Name=H218
+Start=18
+Len=2
+
+[ValueSet]
+Label=Nombre de parents proches
+Name=H218_VS1
+Value=0:99;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R218
+Start=20
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R218_VS1
+Link=80102272
+
+[Item]
+Label=Nombre de parents proches vivant à Bujumbura
+Name=H219
+Start=21
+Len=2
+
+[ValueSet]
+Label=Nombre de parents proches vivant à Bujumbura
+Name=H219_VS1
+Value=0:99;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R219
+Start=23
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R219_VS1
+Link=80102272
+
+[Item]
+Label=Nombre de parents proches à Bujumbura visités au moins 1 fois par mois
+Name=H220
+Start=24
+Len=2
+
+[ValueSet]
+Label=Nombre de parents proches à Bujumbura visités au moins 1 fois par mois
+Name=H220_VS1
+Value=0:99;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R220
+Start=26
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R220_VS1
+Link=80102272
+
+[Item]
+Label=Nombre d'amis proches
+Name=H221
+Start=27
+Len=2
+
+[ValueSet]
+Label=Nombre d'amis proches
+Name=H221_VS1
+Value=0:99;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R221
+Start=29
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R221_VS1
+Link=80102272
+
+[Item]
+Label=Nombre d'amis proches atteints d'un handicap
+Name=H222
+Start=30
+Len=2
+
+[ValueSet]
+Label=Nombre d'amis proches atteints d'un handicap
+Name=H222_VS1
+Value=0:99;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R222
+Start=32
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R222_VS1
+Link=80102272
+
+[Item]
+Label=Nombre d'amis proches atteinds d'un handicap vivant à Bujumbura
+Name=H223
+Start=33
+Len=2
+
+[ValueSet]
+Label=Nombre d'amis proches atteinds d'un handicap vivant à Bujumbura
+Name=H223_VS1
+Value=0:99;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R223
+Start=35
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R223_VS1
+Link=80102272
+
+[Item]
+Label=Nombre d'amis proches atteints d'un handicap vivant à Bujumbura et visités au moins 1 fois par  mois
+Name=H224
+Start=36
+Len=2
+
+[ValueSet]
+Label=Nombre d'amis proches atteints d'un handicap vivant à Bujumbura et visités au moins 1 fois par  mois
+Name=H224_VS1
+Value=0:99;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R224
+Start=38
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R224_VS1
+Link=80102272
+
+[Record]
+Label=Capital social
+Name=CAPITAL_SOCIAL01
+RecordTypeValue='K'
+Required=No
+RecordLen=206
+
+[Item]
+Label=Membre actif d'un groupe
+Name=H225A
+Start=18
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=Membre actif d'un groupe
+Name=H225A_VS1
+Link=83998128
+Value='1       ';Syndicat / association liée au travail
+Value='2       ';Association communautaire /coopérative
+Value='3       ';Groupe de femmes
+Value='4       ';Groupe politique
+Value='5       ';Groupe religieux
+Value='6       ';Microcrédit / tontine
+Value='7       ';Association sportive
+Value='8       ';Autre
+
+[Item]
+Label=Membre actif d'un groupe
+Name=H225B
+Start=26
+Len=1
+Occurrences=8
+OccurrenceLabel=1,Syndicat / association liée au travail
+OccurrenceLabel=2,Association communautaire / coopérative
+OccurrenceLabel=3,Groupe de femmes
+OccurrenceLabel=4,Groupe politique
+OccurrenceLabel=5,Groupe religieux
+OccurrenceLabel=6,Microcrédit / tontine
+OccurrenceLabel=7,Association sportive
+OccurrenceLabel=8,Autre
+
+[ValueSet]
+Label=Membre actif d'un groupe
+Name=H225B_VS1
+Link=162401224
+
+[Item]
+Label=Autre groupe
+Name=H225A_8
+Start=34
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Répondant à la question
+Name=R225A
+Start=64
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R225A_VS1
+Link=80102272
+
+[Item]
+Label=Soutien reçu de groupes
+Name=H226A
+Start=65
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=Soutien reçu de groupes
+Name=H226A_VS1
+Link=83998128
+
+[Item]
+Label=Soutien reçu de groupes
+Name=H226B
+Start=73
+Len=1
+Occurrences=8
+OccurrenceLabel=1,Syndicat / association liée au travail
+OccurrenceLabel=2,Association communautaire / coopérative
+OccurrenceLabel=3,Groupe de femmes
+OccurrenceLabel=4,Groupe politique
+OccurrenceLabel=5,Groupe religieux
+OccurrenceLabel=6,Microcrédit / tontine
+OccurrenceLabel=7,Association sportive
+OccurrenceLabel=8,Autre
+
+[ValueSet]
+Label=Soutien reçu de groupes
+Name=H226B_VS1
+Link=162401224
+
+[Item]
+Label=Autre soutien reçu de groupes
+Name=H226A_8
+Start=81
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Répondant à la question
+Name=R226A
+Start=111
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R226A_VS1
+Link=80102272
+
+[Item]
+Label=Soutien reçu de personnes
+Name=H227A
+Start=112
+Len=9
+DataType=Alpha
+
+[ValueSet]
+Label=Soutien reçu de personnes
+Name=H227A_VS1
+Value='1        ';Famille
+Value='2        ';Voisins
+Value='3        ';Amis (non voisins)
+Value='4        ';Leaders communautaires
+Value='5        ';Leaders religieux
+Value='6        ';Hommes politiques
+Value='7        ';Représentant du gouvernement / service publique
+Value='8        ';ONG / églises
+Value='9        ';Autre
+
+[Item]
+Label=Soutien reçu de personnes
+Name=H227B
+Start=121
+Len=1
+Occurrences=9
+OccurrenceLabel=1,Famille
+OccurrenceLabel=2,Voisins
+OccurrenceLabel=3,Amis (non voisins)
+OccurrenceLabel=4,Leaders communautaires
+OccurrenceLabel=5,Leaders religieux
+OccurrenceLabel=6,Hommes politiques
+OccurrenceLabel=7,Représentant du gouvernement/service publique
+OccurrenceLabel=8,ONG/églises
+OccurrenceLabel=9,Autre
+
+[ValueSet]
+Label=Soutien reçu de personnes
+Name=H227B_VS1
+Link=162401224
+
+[Item]
+Label=Autre soutien reçu de personnes
+Name=H227A_8
+Start=130
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Répondant à la question
+Name=R227A
+Start=160
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R227A_VS1
+Link=80102272
+
+[Item]
+Label=Associé à d’autres membres de votre communauté
+Name=H228
+Start=161
+Len=1
+
+[ValueSet]
+Label=Associé à d’autres membres de votre communauté
+Name=H228_VS1
+Link=83992672
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Répondant à la question
+Name=R228
+Start=162
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R228_VS1
+Link=80102272
+
+[Item]
+Label=Sollicitation d'un service publique ou autre
+Name=H229
+Start=163
+Len=1
+
+[ValueSet]
+Label=Sollicitation d'un service publique ou autre
+Name=H229_VS1
+Link=83992672
+
+[Item]
+Label=Répondant à la question
+Name=R229
+Start=164
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R229_VS1
+Link=80102272
+
+[Item]
+Label=Confiance aux personnes de la communauté
+Name=H230
+Start=165
+Len=1
+
+[ValueSet]
+Label=Confiance aux personnes de la communauté
+Name=H230_VS1
+Link=83992672
+
+[Item]
+Label=Répondant à la question
+Name=R230
+Start=166
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R230_VS1
+Link=80102272
+
+[Item]
+Label=Refus d'assistance de la personne responsable de vous
+Name=H230B_01
+Start=167
+Len=1
+
+[ValueSet]
+Label=Refus d'assistance de la personne responsable de vous
+Name=H230B_01_VS1
+Link=83992672
+
+[Item]
+Label=Répondant à la question
+Name=R230B_01
+Start=168
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R230B_01_VS1
+Link=80102272
+
+[Item]
+Label=Personne responsable de vous
+Name=H230B_02
+Start=169
+Len=1
+
+[ValueSet]
+Label=Personne responsable de vous
+Name=H230B_02_VS1
+Value=1;Partenaire / conjoint
+Value=2;Membre de la famille
+Value=3;Voisin
+Value=4;Autre
+Value=5;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R230B_02
+Start=170
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R230B_02_VS1
+Link=80102272
+
+[Item]
+Label=Autre personne responsable de vous
+Name=H230B_02A
+Start=171
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Bonnes relations entre les membres de la communauté
+Name=H231
+Start=201
+Len=1
+
+[ValueSet]
+Label=Bonnes relations entre les membres de la communauté
+Name=H231_VS1
+Link=83992672
+
+[Item]
+Label=Répondant à la question
+Name=R231
+Start=202
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R231_VS1
+Link=80102272
+
+[Item]
+Label=Sentiment d'appartenance à la communauté
+Name=H232
+Start=203
+Len=1
+
+[ValueSet]
+Label=Sentiment d'appartenance à la communauté
+Name=H232_VS1
+Link=83992672
+
+[Item]
+Label=Répondant à la question
+Name=R232
+Start=204
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R232_VS1
+Link=80102272
+
+[Item]
+Label=Sentiment de méfiance à l'égard des membres de la communauté
+Name=H233
+Start=205
+Len=1
+
+[ValueSet]
+Label=Sentiment de méfiance à l'égard des membres de la communauté
+Name=H233_VS1
+Link=83992672
+
+[Item]
+Label=Répondant à la question
+Name=R233
+Start=206
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R233_VS1
+Link=80102272
+
+[Record]
+Label=Capital social
+Name=CAPITAL_SOCIAL02
+RecordTypeValue='M'
+Required=No
+MaxRecords=9
+RecordLen=21
+OccurrenceLabel=1,Transport
+OccurrenceLabel=2,Environnement naturel
+OccurrenceLabel=3,Autres aspects du milieu
+OccurrenceLabel=4,Indisponibilité de l'information
+OccurrenceLabel=5,Indisponibilité des services de soins de santé
+OccurrenceLabel=6,Assistance difficile à la maison
+OccurrenceLabel=7,Attitude de l'entourage comme source de problème à la maison
+OccurrenceLabel=8,Attitude de l'entourage comme source de problème à l'école ou au travail
+OccurrenceLabel=9,Victime d'un préjudice ou d'une discrimination
+
+[Item]
+Label=Facteur de limitation de la participation de l'individu
+Name=H234A
+Start=18
+Len=1
+
+[ValueSet]
+Label=Facteur de limitation de la participation de l'individu
+Name=H234A_VS1
+Value=1;Chaque jour
+Value=2;Chaque semaine
+Value=3;Chaque mois
+Value=4;<1 fois/mois
+Value=8;Jamais
+Value=9;NA
+
+[Item]
+Label=Répondant à la question
+Name=R234A
+Start=19
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R234A_VS1
+Link=80102272
+
+[Item]
+Label=Niveau de difficulté
+Name=H234B
+Start=20
+Len=1
+
+[ValueSet]
+Label=Niveau de difficulté
+Name=H234B_VS1
+Value=1;Gros problème
+Value=2;Petit problème
+
+[Item]
+Label=Répondant à la question
+Name=R234B
+Start=21
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R234B_VS1
+Link=80102272
+
+[Record]
+Label=Activités sexuelles
+Name=ACTIVITES_SEXUELLES
+RecordTypeValue='A'
+Required=No
+RecordLen=523
+
+[Item]
+Label=Echanges sur la sexualité
+Name=H301
+Start=18
+Len=1
+
+[ValueSet]
+Label=Echanges sur la sexualité
+Name=H301_VS1
+Value=1;Oui
+Value=2;Non
+Value=3;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R301
+Start=19
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R301_VS1
+Link=80102272
+
+[Item]
+Label=Personnes avec qui les échanges sur la sexualité se sont tenus
+Name=H302
+Start=20
+Len=14
+DataType=Alpha
+
+[ValueSet]
+Label=Personnes avec qui les échanges sur la sexualité se sont tenus
+Name=H302_VS1
+Link=83984576
+Value='1             ';Parents
+Value='2             ';Frère, sœur
+Value='3             ';Famille autre
+Value='4             ';Copains, amis
+Value='5             ';Partenaire de vie/concubin
+Value='6             ';Enseignant
+Value='7             ';Pairs éducateurs
+Value='8             ';Personnel santé
+Value='9             ';TV
+Value='A             ';Radio
+Value='B             ';Journaux
+Value='C             ';Internet
+Value='D             ';Autre
+Value='E             ';Ne souhaite pas répondre
+
+[Item]
+Label=Autre personne avec qui les échanges sur la sexualité se sont tenus
+Name=H302A
+Start=34
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Personnes avec qui les échanges sur la sexualité se sont tenus
+Name=H302B
+Start=64
+Len=1
+Occurrences=14
+OccurrenceLabel=1,Parents
+OccurrenceLabel=2,Frère, sœur
+OccurrenceLabel=3,Famille autre
+OccurrenceLabel=4,Copains, amis
+OccurrenceLabel=5,Partenaire de vie/concubin
+OccurrenceLabel=6,Enseignant
+OccurrenceLabel=7,Pairs éducateurs
+OccurrenceLabel=8,Personnel santé
+OccurrenceLabel=9,TV
+OccurrenceLabel=10,Radio
+OccurrenceLabel=11,Journaux
+OccurrenceLabel=12,Internet
+OccurrenceLabel=13,Autre
+OccurrenceLabel=14,Ne souhaite pas répondre
+
+[ValueSet]
+Label=Personnes avec qui les échanges sur la sexualité se sont tenus
+Name=H302B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R302
+Start=78
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R302_VS1
+Link=80102272
+
+[Item]
+Label=Canaux préférés d'informations sur la sexualité
+Name=H303
+Start=79
+Len=14
+DataType=Alpha
+
+[ValueSet]
+Label=Canaux préférés d'informations sur la sexualité
+Name=H303_VS1
+Link=83984576
+
+[Item]
+Label=Autre canal préféré d'informations sur la sexualité
+Name=H303A
+Start=93
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Canaux préférés d'informations sur la sexualité
+Name=H303B
+Start=123
+Len=1
+Occurrences=14
+OccurrenceLabel=1,Parents
+OccurrenceLabel=2,Frère, sœur
+OccurrenceLabel=3,Famille autre
+OccurrenceLabel=4,Copains, amis
+OccurrenceLabel=5,Partenaire de vie/concubin
+OccurrenceLabel=6,Enseignant
+OccurrenceLabel=7,Pairs éducateurs
+OccurrenceLabel=8,Personnel santé
+OccurrenceLabel=9,TV
+OccurrenceLabel=10,Radio
+OccurrenceLabel=11,Journaux
+OccurrenceLabel=12,Internet
+OccurrenceLabel=13,Autre
+OccurrenceLabel=14,Ne souhaite pas répondre
+
+[ValueSet]
+Label=Canaux préférés d'informations sur la sexualité
+Name=H303B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R303
+Start=137
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R303_VS1
+Link=80102272
+
+[Item]
+Label=Victime d'une violence dans l'enfance
+Name=H304
+Start=138
+Len=1
+
+[ValueSet]
+Label=Victime d'une violence dans l'enfance
+Name=H304_VS1
+Link=83982024
+Value=1;Oui parfois
+Value=2;Oui souvent
+Value=3;Non
+Value=4;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R304
+Start=139
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R304_VS1
+Link=80102272
+
+[Item]
+Label=Victime d'une violence depuis l'âge de 15 ans
+Name=H305
+Start=140
+Len=1
+
+[ValueSet]
+Label=Victime d'une violence depuis l'âge de 15 ans
+Name=H305_VS1
+Link=83982024
+
+[Item]
+Label=Répondant à la question
+Name=R305
+Start=141
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R305_VS1
+Link=80102272
+
+[Item]
+Label=Violence survenue au cours des 12 derniers mois
+Name=H305A
+Start=142
+Len=1
+
+[ValueSet]
+Label=Violence survenue au cours des 12 derniers mois
+Name=H305A_VS1
+Link=83982024
+
+[Item]
+Label=Répondant à la question
+Name=R305A
+Start=143
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R305A_VS1
+Link=80102272
+
+[Item]
+Label=Auteur de la violence au cours des 12 derniers mois
+Name=H305B
+Start=144
+Len=1
+
+[ValueSet]
+Label=Auteur de la violence au cours des 12 derniers mois
+Name=H305B_VS1
+Value=1;Partenaire / conjoint
+Value=2;Membre de la famille
+Value=3;Membre du voisinage
+Value=4;Soignant
+Value=5;Autre
+Value=6;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R305B
+Start=145
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R305B_VS1
+Link=80102272
+
+[Item]
+Label=Autre auteur de la violence au cours des 12 derniers mois
+Name=H305B_5
+Start=146
+Len=30
+DataType=Alpha
+
+[ValueSet]
+Label=Autre auteur de la violence au cours des 12 derniers mois
+Name=H305B_5_VS1
+Value='1                             ';Partenaire / conjoint
+Value='2                             ';Membre de la famille
+Value='3                             ';Membre du voisinage
+Value='4                             ';Soignant
+Value='5                             ';Autre
+Value='6                             ';Ne souhaite pas répondre
+
+[Item]
+Label=A eu déjà eu des rapports sexuels
+Name=H306
+Start=176
+Len=1
+
+[ValueSet]
+Label=A eu déjà eu des rapports sexuels
+Name=H306_VS1
+Link=83979472
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Répondant à la question
+Name=R306
+Start=177
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R306_VS1
+Link=80102272
+
+[Item]
+Label=A eu au moins une relation de plus d'un an avec rapports sexuels
+Name=H306A
+Start=178
+Len=1
+
+[ValueSet]
+Label=A eu au moins une relation de plus d'un an avec rapports sexuels
+Name=H306A_VS1
+Link=83979472
+
+[Item]
+Label=Répondant à la question
+Name=R306A
+Start=179
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R306A_VS1
+Link=80102272
+
+[Item]
+Label=A eu au moins une relation courte avec rapports sexuels
+Name=H312
+Start=180
+Len=1
+
+[ValueSet]
+Label=A eu au moins une relation courte avec rapports sexuels
+Name=H312_VS1
+Value=1;Oui
+Value=2;Non
+Value=3;Ne sait pas
+Value=4;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R312
+Start=181
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R312_VS1
+Link=80102272
+
+[Item]
+Label=A eu au moins une relation homosexuelle
+Name=H313
+Start=182
+Len=1
+
+[ValueSet]
+Label=A eu au moins une relation homosexuelle
+Name=H313_VS1
+Value=1;Oui
+Value=2;Non
+Value=3;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R313
+Start=183
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R313_VS1
+Link=80102272
+
+[Item]
+Label=Age au premier rapport sexuel
+Name=H314
+Start=184
+Len=2
+
+[ValueSet]
+Label=Age au premier rapport sexuel
+Name=H314_VS1
+Value=0:50;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R314
+Start=186
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R314_VS1
+Link=80102272
+
+[Item]
+Label=Relation avec le premier partenaire sexuel
+Name=H315
+Start=187
+Len=1
+
+[ValueSet]
+Label=Relation avec le premier partenaire sexuel
+Name=H315_VS1
+Value=1;Conjoint
+Value=2;Petit(e) ami(e)
+Value=3;Connaissance, copain, ami, camarade
+Value=4;Rencontre occasionnelle
+Value=5;Membre de ma famille
+Value=6;Prostitué(e)
+Value=7;Autre
+Value=8;Ne souhaite pas répondre
+
+[Item]
+Label=Autre relation avec le premier partenaire sexuel
+Name=H315A
+Start=188
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Répondant à la question
+Name=R315
+Start=218
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R315_VS1
+Link=80102272
+
+[Item]
+Label=Ecart d'âge avec le premier partenaire sexuel
+Name=H316
+Start=219
+Len=3
+
+[ValueSet]
+Label=Ecart d'âge avec le premier partenaire sexuel
+Name=H316_VS1
+Value=-99:99;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R316
+Start=222
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R316_VS1
+Link=80102272
+
+[Item]
+Label=Condition de survenue du premier rapport sexuel
+Name=H317
+Start=223
+Len=1
+
+[ValueSet]
+Label=Condition de survenue du premier rapport sexuel
+Name=H317_VS1
+Value=1;J’ai forcé mon/ma partenaire à avoir un rapport sexuel avec moi
+Value=2;J’ai persuadé mon/ma partenaire à avoir un rapport sexuel avec moi
+Value=3;Mon/ma partenaire m’a persuadé d’avoir un rapport sexuel
+Value=4;Mon/ma partenaire m’a forcé à avoir un rapport sexuel
+Value=5;Nous étions tous les deux d’accord de la même façon
+Value=6;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R317
+Start=224
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R317_VS1
+Link=80102272
+
+[Item]
+Label=Raisons du premier rapport sexuel
+Name=H318
+Start=225
+Len=11
+DataType=Alpha
+
+[ValueSet]
+Label=Raisons du premier rapport sexuel
+Name=H318_VS1
+Value='1          ';Curiosité
+Value='2          ';Amour
+Value='3          ';Pour faire comme les autres
+Value='4          ';Mes ami(e)s
+Value='5          ';Des membres de la famille
+Value='6          ';Mes collègues de travail
+Value='7          ';Autre personne handicapée
+Value='8          ';Petit(e) ami(e)
+Value='9          ';Autre
+Value='A          ';Ne sait pas
+Value='B          ';Ne souhaite pas répondre
+
+[Item]
+Label=Autre raison du premier rapport sexuel
+Name=H318A
+Start=236
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Raisons du premier rapport sexuel
+Name=H318B
+Start=266
+Len=1
+Occurrences=11
+OccurrenceLabel=1,Curiosité
+OccurrenceLabel=2,Amour
+OccurrenceLabel=3,Pour faire comme les autres
+OccurrenceLabel=4,Mes ami(e)s
+OccurrenceLabel=5,Des membres de la famille
+OccurrenceLabel=6,Mes collègues de travail
+OccurrenceLabel=7,Autre personne handicapée
+OccurrenceLabel=8,Petit(e) ami(e)
+OccurrenceLabel=9,Autre
+OccurrenceLabel=10,Ne sait pas
+OccurrenceLabel=11,Ne souhaite pas répondre
+
+[ValueSet]
+Label=Raisons du premier rapport sexuel
+Name=H318B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R318
+Start=277
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R318_VS1
+Link=80102272
+
+[Item]
+Label=Utilisation d'un préservatif lors du premier rapport sexuel
+Name=H319
+Start=278
+Len=1
+
+[ValueSet]
+Label=Utilisation d'un préservatif lors du premier rapport sexuel
+Name=H319_VS1
+Value=1;Oui
+Value=2;Non
+Value=3;Ne sait pas
+
+[Item]
+Label=Répondant à la question
+Name=R319
+Start=279
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R319_VS1
+Link=80102272
+
+[Item]
+Label=Raisons de l'utilisation d'un préservatif lors du premier rapport sexuel
+Name=H320
+Start=280
+Len=4
+DataType=Alpha
+
+[ValueSet]
+Label=Raisons de l'utilisation d'un préservatif lors du premier rapport sexuel
+Name=H320_VS1
+Value='1   ';Pour éviter d’attraper une infection sexuellement transmissible ou le VIH
+Value='2   ';Pour éviter une grossesse
+Value='3   ';Parce que mon/ma partenaire a demandé
+Value='4   ';Autre
+
+[Item]
+Label=Autre raison de l'utilisation d'un préservatif lors du premier rapport sexuel
+Name=H320A
+Start=284
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Raisons de l'utilisation d'un préservatif lors du premier rapport sexuel
+Name=H320B
+Start=314
+Len=1
+Occurrences=4
+OccurrenceLabel=1,Pour éviter d’attraper une infection sexuellement transmissible ou le VIH
+OccurrenceLabel=2,Pour éviter une grossesse
+OccurrenceLabel=3,Parce que mon/ma partenaire a demandé
+OccurrenceLabel=4,Autre
+
+[ValueSet]
+Label=Raisons de l'utilisation d'un préservatif lors du premier rapport sexuel
+Name=H320B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R320
+Start=318
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R320_VS1
+Link=80102272
+
+[Item]
+Label=Raisons de la non-utilisation d'un préservatif lors du premier rapport sexuel
+Name=H321
+Start=319
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=Raisons de la non-utilisation d'un préservatif lors du premier rapport sexuel
+Name=H321_VS1
+Value='1         ';Il s’agissait de mon mari/ma femme/ d’un partenaire stable
+Value='2         ';Ce rapport n’était pas prévu
+Value='3         ';Pas de préservatif disponible
+Value='4         ';Préservatif trop cher
+Value='5         ';Mon partenaire était opposé
+Value='6         ';Je n’ai pas osé proposer
+Value='7         ';Ce rapport était forcé
+Value='8         ';Je ne connaissais pas cette méthode
+Value='9         ';Je n’aime pas cette méthode
+Value='A         ';Autre
+
+[Item]
+Label=Autre raison de la non-utilisation d'un préservatif lors du premier rapport sexuel
+Name=H321A
+Start=329
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Raisons de la non-utilisation d'un préservatif lors du premier rapport sexuel
+Name=H321B
+Start=359
+Len=1
+Occurrences=10
+OccurrenceLabel=1,Il s’agissait de mon mari/ma femme/d’un partenaire stable
+OccurrenceLabel=2,Ce rapport n’était pas prévu
+OccurrenceLabel=3,Pas de préservatif disponible
+OccurrenceLabel=4,Préservatif trop cher
+OccurrenceLabel=5,Mon partenaire était opposé
+OccurrenceLabel=6,Je n’ai pas osé proposer
+OccurrenceLabel=7,Ce rapport était forcé
+OccurrenceLabel=8,Je ne connaissais pas cette méthode
+OccurrenceLabel=9,Je n’aime pas cette méthode
+OccurrenceLabel=10,Autre
+
+[ValueSet]
+Label=Raisons de la non-utilisation d'un préservatif lors du premier rapport sexuel
+Name=H321B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R321
+Start=369
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R321_VS1
+Link=80102272
+
+[Item]
+Label=Période du dernier rapport sexuel
+Name=H322A
+Start=370
+Len=1
+
+[ValueSet]
+Label=Période du dernier rapport sexuel
+Name=H322A_VS1
+Value=1;≤ 1 semaine
+Value=2;≤ 1 mois
+Value=3;≤ 1 an
+Value=4;> 1 an
+
+[Item]
+Label=Répondant à la question
+Name=R322A
+Start=371
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R322A_VS1
+Link=80102272
+
+[Item]
+Label=Date du dernier rapport sexuel
+Name=H322B
+Start=372
+Len=2
+
+[ValueSet]
+Label=Date du dernier rapport sexuel
+Name=H322B_VS1
+Value=1:99;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R322B
+Start=374
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R322B_VS1
+Link=80102272
+
+[Item]
+Label=Relation avec le dernier partenaire sexuel
+Name=H323
+Start=375
+Len=1
+
+[ValueSet]
+Label=Relation avec le dernier partenaire sexuel
+Name=H323_VS1
+Value=1;Conjoint
+Value=2;Petit(e) ami(e)
+Value=3;Connaissance, copain, ami, camarade
+Value=4;Rencontre occasionnelle
+Value=5;Membre de la famille
+Value=6;Prostitué(e)
+Value=7;Autre
+Value=8;Ne sait pas ou Ne souhaite pas répondre
+
+[Item]
+Label=Autre relation avec le dernier partenaire sexuel
+Name=H323A
+Start=376
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Répondant à la question
+Name=R323
+Start=406
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R323_VS1
+Link=80102272
+
+[Item]
+Label=Ecart d'âge avec le dernier partenaire sexuel
+Name=H326
+Start=407
+Len=3
+
+[ValueSet]
+Label=Ecart d'âge avec le dernier partenaire sexuel
+Name=H326_VS1
+Value=-99:99;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R326
+Start=410
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R326_VS1
+Link=80102272
+
+[Item]
+Label=Condition de survenue du dernier rapport sexuel
+Name=H327
+Start=411
+Len=1
+
+[ValueSet]
+Label=Condition de survenue du dernier rapport sexuel
+Name=H327_VS1
+Value=1;Oui
+Value=2;Non
+Value=3;Ne sait pas ou Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R327
+Start=412
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R327_VS1
+Link=80102272
+
+[Item]
+Label=Utilisation d'un préservatif lors du dernier rapport sexuel
+Name=H328
+Start=413
+Len=1
+
+[ValueSet]
+Label=Utilisation d'un préservatif lors du dernier rapport sexuel
+Name=H328_VS1
+Value=1;Oui
+Value=2;Non
+Value=3;Ne sait pas
+
+[Item]
+Label=Répondant à la question
+Name=R328
+Start=414
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R328_VS1
+Link=80102272
+
+[Item]
+Label=Raisons de l'utilisation d'un préservatif lors du dernier rapport sexuel
+Name=H329
+Start=415
+Len=5
+DataType=Alpha
+
+[ValueSet]
+Label=Raisons de l'utilisation d'un préservatif lors du dernier rapport sexuel
+Name=H329_VS1
+Value='1    ';Pour éviter d’attraper une infection sexuellement transmissible ou le VIH
+Value='2    ';Pour éviter une grossesse
+Value='3    ';Parce que mon/ma partenaire a demandé
+Value='4    ';Autre
+Value='5    ';Ne sait pas ou ne souhaite pas répondre
+
+[Item]
+Label=Autre raison de l'utilisation d'un préservatif  lors du dernier rapport sexuel
+Name=H329A
+Start=420
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Raisons de l'utilisation d'un préservatif  lors du dernier rapport sexuel
+Name=H329B
+Start=450
+Len=1
+Occurrences=5
+OccurrenceLabel=1,Pour éviter d’attraper une infection Pour éviter d’attraper une infection
+OccurrenceLabel=2,Pour éviter une grossesse
+OccurrenceLabel=3,Parce que mon/ma partenaire a demandé
+OccurrenceLabel=4,Autre
+OccurrenceLabel=5,Ne sait pas ou ne souhaite pas répondre
+
+[ValueSet]
+Label=Raisons de l'utilisation d'un préservatif  lors du dernier rapport sexuel
+Name=H329B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R329
+Start=455
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R329_VS1
+Link=80102272
+
+[Item]
+Label=Raisons de la non-utilisation d'un préservatif  lors du dernier rapport sexuel
+Name=H330
+Start=456
+Len=12
+DataType=Alpha
+
+[ValueSet]
+Label=Raisons de la non-utilisation d'un préservatif  lors du dernier rapport sexuel
+Name=H330_VS1
+Value='1           ';Il s’agissait de mon mari/ma femme/d’un partenaire stable
+Value='2           ';Je souhaite avoir un enfant
+Value='3           ';Ce rapport n’était pas prévu
+Value='4           ';Pas de préservatif disponible
+Value='5           ';Préservatif trop cher
+Value='6           ';Mon partenaire était opposé
+Value='7           ';Je n’ai pas osé proposer
+Value='8           ';Ce rapport était forcé
+Value='9           ';Je ne connaissais pas cette méthode
+Value='A           ';Je n’aime pas cette méthode
+Value='B           ';Autre
+Value='C           ';Ne sait pas ou ne souhaite pas répondre
+
+[Item]
+Label=Autre raison de la non-utilisation d'un préservatif  lors du dernier rapport sexuel
+Name=H330A
+Start=468
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Raisons de la non-utilisation d'un préservatif  lors du dernier rapport sexuel
+Name=H330B
+Start=498
+Len=1
+Occurrences=12
+OccurrenceLabel=1,Il s’agissait de mon mari/ma femme/d’un partenaire stable
+OccurrenceLabel=2,Je souhaite avoir un enfant
+OccurrenceLabel=3,Ce rapport n’était pas prévu
+OccurrenceLabel=4,Pas de préservatif disponible
+OccurrenceLabel=5,Préservatif trop cher
+OccurrenceLabel=6,Mon partenaire était opposé
+OccurrenceLabel=7,Je n’ai pas osé proposer
+OccurrenceLabel=8,Ce rapport était forcé
+OccurrenceLabel=9,Je ne connaissais pas cette méthode
+OccurrenceLabel=10,Je n’aime pas cette méthode
+OccurrenceLabel=11,Autre
+OccurrenceLabel=12,Ne sait pas ou ne souhaite pas répondre
+
+[ValueSet]
+Label=Raisons de la non-utilisation d'un préservatif  lors du dernier rapport sexuel
+Name=H330B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R330
+Start=510
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R330_VS1
+Link=80102272
+
+[Item]
+Label=A eu au moins une relation payée
+Name=H331
+Start=511
+Len=1
+
+[ValueSet]
+Label=A eu au moins une relation payée
+Name=H331_VS1
+Link=84073104
+Value=1;Oui
+Value=2;Non
+Value=3;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R331
+Start=512
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R331_VS1
+Link=80102272
+
+[Item]
+Label=A eu au moins une relation transactionnelle
+Name=H332
+Start=513
+Len=1
+
+[ValueSet]
+Label=A eu au moins une relation transactionnelle
+Name=H332_VS1
+Link=84073104
+
+[Item]
+Label=Répondant à la question
+Name=R332
+Start=514
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R332_VS1
+Link=80102272
+
+[Item]
+Label=A eu au moins une relation payante
+Name=H333
+Start=515
+Len=1
+
+[ValueSet]
+Label=A eu au moins une relation payante
+Name=H333_VS1
+Link=84073104
+
+[Item]
+Label=Répondant à la question
+Name=R333
+Start=516
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R333_VS1
+Link=80102272
+
+[Item]
+Label=Agression sexuelle sans pénétration
+Name=H334
+Start=517
+Len=1
+
+[ValueSet]
+Label=Agression sexuelle sans pénétration
+Name=H334_VS1
+Value=1;Oui parfois
+Value=2;Oui souvent
+Value=3;Non
+Value=4;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R334
+Start=518
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R334_VS1
+Link=80102272
+
+[Item]
+Label=Viol avec pénétration
+Name=H335
+Start=519
+Len=1
+
+[ValueSet]
+Label=Viol avec pénétration
+Name=H335_VS1
+Value=1;Oui
+Value=2;Non
+Value=3;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R335
+Start=520
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R335_VS1
+Link=80102272
+
+[Item]
+Label=Nombre de partenaires sexuels les 12 derniers mois
+Name=H336
+Start=521
+Len=2
+
+[ValueSet]
+Label=Nombre de partenaires sexuels les 12 derniers mois
+Name=H336_VS1
+Value=0:98;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R336
+Start=523
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R336_VS1
+Link=80102272
+
+[Record]
+Label=Relations longues
+Name=RELATIONS
+RecordTypeValue='B'
+Required=No
+MaxRecords=50
+RecordLen=90
+
+[Item]
+Label=Age au début de la relation
+Name=H307
+Start=18
+Len=2
+
+[ValueSet]
+Label=Age au début de la relation
+Name=H307_VS1
+Value=0:50;Valide
+
+[Item]
+Label=Prénom du partenaire
+Name=H307A
+Start=20
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Répondant à la question
+Name=R307
+Start=50
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R307_VS1
+Link=80102272
+
+[Item]
+Label=Relation encours
+Name=H308
+Start=51
+Len=1
+
+[ValueSet]
+Label=Relation encours
+Name=H308_VS1
+Value=1;Oui
+Value=2;Non
+Value=3;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R308
+Start=52
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R308_VS1
+Link=80102272
+
+[Item]
+Label=Age de fin de la relation
+Name=H309
+Start=53
+Len=2
+
+[ValueSet]
+Label=Age de fin de la relation
+Name=H309_VS1
+Value=0:50;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R309
+Start=55
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R309_VS1
+Link=80102272
+
+[Item]
+Label=Raison de l'interruption de la relation
+Name=H310
+Start=56
+Len=1
+
+[ValueSet]
+Label=Raison de l'interruption de la relation
+Name=H310_VS1
+Value=1;Séparation (S)
+Value=2;Divorce (D)
+Value=3;Décès (DC)
+Value=4;Autre
+Value=5;Ne sait plus
+Value=6;Ne souhaite pas répondre
+
+[Item]
+Label=Autre raison de l'interruption de la relation
+Name=H310A
+Start=57
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Répondant à la question
+Name=R310
+Start=87
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R310_VS1
+Link=80102272
+
+[Item]
+Label=Multipartenariat sexuelle pendant la relation
+Name=H311
+Start=88
+Len=1
+
+[ValueSet]
+Label=Multipartenariat sexuelle pendant la relation
+Name=H311_VS1
+Value=1;Oui
+Value=2;Non
+Value=3;Ne sait pas
+Value=4;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R311
+Start=89
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R311_VS1
+Link=80102272
+
+[Item]
+Label=Autre relation de plus d'un an
+Name=MORE_RELATION
+Start=90
+Len=1
+
+[ValueSet]
+Label=Autre relation de plus d'un an
+Name=MORE_RELATION_VS1
+Link=162401224
+
+[Record]
+Label=Relations courtes
+Name=RCO
+RecordTypeValue='C'
+Required=No
+MaxRecords=50
+RecordLen=22
+
+[Item]
+Label=Age au début de la période
+Name=H312A
+Start=18
+Len=2
+
+[ValueSet]
+Label=Age au début de la période
+Name=H312A_VS1
+Value=0:50;Valide
+
+[Item]
+Label=Age à la fin de la période
+Name=H312B
+Start=20
+Len=2
+
+[ValueSet]
+Label=Age à la fin de la période
+Name=H312B_VS1
+Value=0:50;Valide
+
+[Item]
+Label=Autre période de relations courtes
+Name=MORE_RC0
+Start=22
+Len=1
+
+[ValueSet]
+Label=Autre période de relations courtes
+Name=MORE_RC0_VS1
+Link=162401224
+
+[Record]
+Label=Relations payées
+Name=RPAYES
+RecordTypeValue='N'
+Required=No
+MaxRecords=50
+RecordLen=22
+
+[Item]
+Label=Age de début de la période
+Name=H331A
+Start=18
+Len=2
+
+[ValueSet]
+Label=Age de début de la période
+Name=H331A_VS1
+Value=0:50;Valide
+
+[Item]
+Label=Age de fin de période
+Name=H331B
+Start=20
+Len=2
+
+[ValueSet]
+Label=Age de fin de période
+Name=H331B_VS1
+Value=0:50;Valide
+
+[Item]
+Label=Autre relation payée
+Name=MORE_RPAYES
+Start=22
+Len=1
+
+[ValueSet]
+Label=Autre relation payée
+Name=MORE_RPAYES_VS1
+Link=162401224
+
+[Record]
+Label=Relations transactionnelle
+Name=RTRANSAC
+RecordTypeValue='D'
+Required=No
+MaxRecords=50
+RecordLen=22
+
+[Item]
+Label=Age de début de la période
+Name=H332A
+Start=18
+Len=2
+
+[ValueSet]
+Label=Age de début de la période
+Name=H332A_VS1
+Value=0:50;Valide
+
+[Item]
+Label=Age de fin de période
+Name=H332B
+Start=20
+Len=2
+
+[ValueSet]
+Label=Age de fin de période
+Name=H332B_VS1
+Value=0:50;Valide
+
+[Item]
+Label=Autre relation transactionnelle
+Name=MORE_RTRANSAC
+Start=22
+Len=1
+
+[ValueSet]
+Label=Autre relation transactionnelle
+Name=MORE_RTRANSAC_VS1
+Link=162401224
+
+[Record]
+Label=Relations payantes
+Name=RPAYANTES
+RecordTypeValue='O'
+Required=No
+MaxRecords=50
+RecordLen=22
+
+[Item]
+Label=Age de début de la période
+Name=H333A
+Start=18
+Len=2
+
+[ValueSet]
+Label=Age de début de la période
+Name=H333A_VS1
+Value=0:50;Valide
+
+[Item]
+Label=Age de fin de période
+Name=H333B
+Start=20
+Len=2
+
+[ValueSet]
+Label=Age de fin de période
+Name=H333B_VS1
+Value=0:50;Valide
+
+[Item]
+Label=Autre relation payante
+Name=MORE_RPAYANTES
+Start=22
+Len=1
+
+[ValueSet]
+Label=Autre relation payante
+Name=MORE_RPAYANTES_VS1
+Link=162401224
+
+[Record]
+Label=Relations forcées
+Name=RFORCES
+RecordTypeValue='P'
+Required=No
+MaxRecords=50
+RecordLen=53
+
+[Item]
+Label=Age de début de l'agression sexuelle
+Name=H335A
+Start=18
+Len=2
+
+[ValueSet]
+Label=Age de début de l'agression sexuelle
+Name=H335A_VS1
+Value=0:50;Valide
+
+[Item]
+Label=Age de fin de l'agression sexuelle
+Name=H335B
+Start=20
+Len=2
+
+[ValueSet]
+Label=Age de fin de l'agression sexuelle
+Name=H335B_VS1
+Value=0:50;Valide
+
+[Item]
+Label=Auteur de l'agression sexuelle
+Name=H335C_01
+Start=22
+Len=1
+
+[ValueSet]
+Label=Auteur de l'agression sexuelle
+Name=H335C_01_VS1
+Value=1;Partenaire intime / conjoint
+Value=2;Membre de la famille
+Value=3;Soignant / aidant
+Value=4;Voisin
+Value=5;Autre
+
+[Item]
+Label=Autre auteur de l'agression sexuelle
+Name=H335C_02
+Start=23
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Autre période d'agression sexuelle
+Name=MORE_RFORCES
+Start=53
+Len=1
+
+[ValueSet]
+Label=Autre période d'agression sexuelle
+Name=MORE_RFORCES_VS1
+Link=162401224
+
+[Record]
+Label=Non sexuellement actifs
+Name=INACTIF_SEXUEL
+RecordTypeValue='E'
+Required=No
+RecordLen=126
+
+[Item]
+Label=Raisons de l'abstinence sexuelle
+Name=H337
+Start=18
+Len=5
+DataType=Alpha
+
+[ValueSet]
+Label=Raisons de l'abstinence sexuelle
+Name=H337_VS1
+Value='1    ';Je ne me sens pas prêt(e) à avoir des rapports sexuels
+Value='2    ';Je n’ai pas eu l’occasion d’avoir des rapports sexuels
+Value='3    ';J’ai peur de tomber enceinte / de devenir père
+Value='4    ';J’ai peur d’attraper le VIH/SIDA ou une autre infection sexuellement transmissible
+Value='5    ';Autre
+
+[Item]
+Label=Autre raison de l'abstinence sexuelle
+Name=H337A
+Start=23
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Raisons de l'abstinence sexuelle
+Name=H337B
+Start=53
+Len=1
+Occurrences=5
+OccurrenceLabel=1,Je ne me sens pas prêt(e) à avoir des rapports sexuels
+OccurrenceLabel=2,Je n’ai pas eu l’occasion d’avoir des rapports sexuels
+OccurrenceLabel=3,J’ai peur de tomber enceinte / de devenir père
+OccurrenceLabel=4,J’ai peur d’attraper le VIH/SIDA ou une autre infection sexuellement transmissible
+OccurrenceLabel=5,Autre
+
+[ValueSet]
+Label=Raisons de l'abstinence sexuelle
+Name=H337B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R337
+Start=58
+Len=1
+
+[Item]
+Label=Projets de rapports sexuels
+Name=H338
+Start=59
+Len=1
+
+[ValueSet]
+Label=Projets de rapports sexuels
+Name=H338_VS1
+Value=1;Je prévois d’attendre jusqu’au mariage
+Value=2;Je prévois d’attendre d’être fiancé(e)
+Value=3;Je prévois d’attendre de trouver quelqu’un que j’aime
+Value=4;Je prévois d’avoir un rapport sexuel quand l’occasion se présentera
+Value=5;Je ne souhaite pas avoir de rapports sexuels
+Value=6;Autre
+Value=7;Ne sait pas
+Value=8;Ne souhaite pas répondre
+
+[Item]
+Label=Autre projet de rapports sexuels
+Name=H338A
+Start=60
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Répondant à la question
+Name=R338
+Start=90
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R338_VS1
+Link=80102272
+
+[Item]
+Label=Pression pour  débuter les rapports sexuels
+Name=H339
+Start=91
+Len=1
+
+[ValueSet]
+Label=Pression pour  débuter les rapports sexuels
+Name=H339_VS1
+Value=1;Beaucoup
+Value=2;Un peu
+Value=3;Pas du tout
+Value=4;Ne sait pas
+Value=5;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R339
+Start=92
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R339_VS1
+Link=80102272
+
+[Item]
+Label=Auteur de la pression à débuter les rapports sexuels
+Name=H340
+Start=93
+Len=1
+
+[ValueSet]
+Label=Auteur de la pression à débuter les rapports sexuels
+Name=H340_VS1
+Value=1;Ami(e)s
+Value=2;Membres de la famille
+Value=3;Collègues de travail
+Value=4;Partenaire/ami(e) intime
+Value=5;Autre
+Value=6;Ne sait pas
+Value=7;Ne souhaite pas répondre
+
+[Item]
+Label=Autre auteur de la pression à débuter les rapports sexuels
+Name=H340A
+Start=94
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Répondant à la question
+Name=R340
+Start=124
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R340_VS1
+Link=80102272
+
+[Item]
+Label=Agression sexuelle sans pénétration
+Name=H341
+Start=125
+Len=1
+
+[ValueSet]
+Label=Agression sexuelle sans pénétration
+Name=H341_VS1
+Value=1;Oui parfois
+Value=2;Oui souvent
+Value=3;Non
+Value=4;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R341
+Start=126
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R341_VS1
+Link=80102272
+
+[Record]
+Label=VIH/Sida
+Name=VIH
+RecordTypeValue='F'
+Required=No
+RecordLen=336
+
+[Item]
+Label=Connaissance de la maladie VIH/ Sida
+Name=H401
+Start=18
+Len=1
+
+[ValueSet]
+Label=Connaissance de la maladie VIH/ Sida
+Name=H401_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Répondant à la question
+Name=R401
+Start=19
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R401_VS1
+Link=80102272
+
+[Item]
+Label=Méthodes de transmission du VIH/Sida
+Name=H402
+Start=20
+Len=7
+DataType=Alpha
+
+[ValueSet]
+Label=Méthodes de transmission du VIH/Sida
+Name=H402_VS1
+Value='1      ';Transmission par voie sexuelle non protégée
+Value='2      ';Transmission de la mère à l’enfant
+Value='3      ';Injection avec du matériel non stérile
+Value='4      ';Transfusion non vérifiée
+Value='5      ';En utilisant une lame de rasoir non stérile
+Value='6      ';Autre
+
+[Item]
+Label=Autre méthode de transmission du VIH/Sida
+Name=H402A
+Start=27
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Méthodes de transmission du VIH/Sida
+Name=H402B
+Start=57
+Len=1
+Occurrences=7
+OccurrenceLabel=1,Transmission par voie sexuelle non protégée
+OccurrenceLabel=2,Transmission de la mère à l’enfant
+OccurrenceLabel=3,Injection avec du matériel non stérile
+OccurrenceLabel=4,Transfusion non vérifiée
+OccurrenceLabel=5,En utilisant une lame de rasoir non stérile
+OccurrenceLabel=6,Autre
+OccurrenceLabel=7,Ne sait pas
+
+[ValueSet]
+Label=Méthodes de transmission du VIH/Sida
+Name=H402B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R402
+Start=64
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R402_VS1
+Link=80102272
+
+[Item]
+Label=Connaissance de méthodes de prévention du  VIH/Sida
+Name=H403
+Start=65
+Len=1
+
+[ValueSet]
+Label=Connaissance de méthodes de prévention du  VIH/Sida
+Name=H403_VS1
+Value=1;Oui
+Value=2;Non
+Value=3;Ne sait pas
+
+[Item]
+Label=Répondant à la question
+Name=R403
+Start=66
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R403_VS1
+Link=80102272
+
+[Item]
+Label=Méthodes de prévention du VIH/Sida
+Name=H404
+Start=67
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=Méthodes de prévention du VIH/Sida
+Name=H404_VS1
+Value='1       ';S’abstenir de rapport sexuel
+Value='2       ';Utiliser des préservatifs
+Value='3       ';Rester fidèle à un partenaire non infecté
+Value='4       ';Limiter le nombre de partenaires sexuels
+Value='5       ';Vérifier les transfusions (pas de virus dans le sang transfusé)
+Value='6       ';Prévention de la transmission de la mère à l’enfant (ARV pendant la grossesse et/ou l’accouchement, césarienne, ARV chez le nourrisson, etc.)
+Value='7       ';Stériliser le matériel invasif (injection/chirurgie, lames de rasoir, etc...) et/ou utiliser du matériel invasif stérile (injection/chirurgie, lames de rasoir, etc...)
+Value='8       ';Autre
+
+[Item]
+Label=Autre méthode de prévention du VIH/Sida
+Name=H404A
+Start=75
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Méthodes de prévention du VIH/Sida
+Name=H404B
+Start=105
+Len=1
+Occurrences=8
+OccurrenceLabel=1,S’abstenir de rapport sexuel
+OccurrenceLabel=2,Utiliser des préservatifs
+OccurrenceLabel=3,Rester fidèle à un partenaire non infecté
+OccurrenceLabel=4,Limiter le nombre de partenaires sexuels
+OccurrenceLabel=5,Vérifier les transfusions (pas de virus dans le sang transfusé)
+OccurrenceLabel=6,Prévention de la transmission de la mère à l’enfant (ARV pendant la grossesse et/ou l’accouchement, césarienne, ARV chez le nourrisson, etc.)
+OccurrenceLabel=7,Stériliser le matériel invasif (injection/chirurgie, lames de rasoir, etc...) et/ou utiliser du matériel invasif stérile (injection/chirurgie, lames de rasoir, etc...)
+OccurrenceLabel=8,Autre
+
+[ValueSet]
+Label=Méthodes de prévention du VIH/Sida
+Name=H404B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R404
+Start=113
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R404_VS1
+Link=80102272
+
+[Item]
+Label=Sources d'informations sur le VIH/Sida
+Name=H405
+Start=114
+Len=18
+DataType=Alpha
+
+[ValueSet]
+Label=Sources d'informations sur le VIH/Sida
+Name=H405_VS1
+Value='1                 ';TV
+Value='2                 ';Radio
+Value='3                 ';Journaux
+Value='4                 ';Magazines
+Value='5                 ';Internet
+Value='6                 ';Posters
+Value='7                 ';Organisations de personnes handicapées
+Value='8                 ';Centres de santé, personnel de santé
+Value='9                 ';Agent de Santé communautaire, pair-éducateur
+Value='A                 ';Leader communautaire
+Value='B                 ';Réunion de la communauté
+Value='C                 ';Organisations religieuses
+Value='D                 ';Collègues
+Value='E                 ';Enseignants
+Value='F                 ';Amis
+Value='G                 ';Parents
+Value='H                 ';Proches
+Value='I                 ';Autre
+
+[Item]
+Label=Autre source d'informations sur le VIH/Sida
+Name=H405A
+Start=132
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Sources d'informations sur le VIH/Sida
+Name=H405B
+Start=162
+Len=1
+Occurrences=18
+OccurrenceLabel=1,TV
+OccurrenceLabel=2,Radio
+OccurrenceLabel=3,Journaux
+OccurrenceLabel=4,Magazines
+OccurrenceLabel=5,Internet
+OccurrenceLabel=6,Posters
+OccurrenceLabel=7,Organisations de personnes handicapées
+OccurrenceLabel=8,Centres de santé, personnel de santé
+OccurrenceLabel=9,Agent de Santé communautaire, pair-éducateur
+OccurrenceLabel=10,Leader communautaire
+OccurrenceLabel=11,Réunion de la communauté
+OccurrenceLabel=12,Organisations religieuses
+OccurrenceLabel=13,Collègues
+OccurrenceLabel=14,Enseignants
+OccurrenceLabel=15,Amis
+OccurrenceLabel=16,Parents
+OccurrenceLabel=17,Proches
+OccurrenceLabel=18,Autres (spécifiez)
+
+[ValueSet]
+Label=Sources d'informations sur le VIH/Sida
+Name=H405B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R405
+Start=180
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R405_VS1
+Link=80102272
+
+[Item]
+Label=Test du VIH/Sida
+Name=H407
+Start=181
+Len=1
+
+[ValueSet]
+Label=Test du VIH/Sida
+Name=H407_VS1
+Value=1;Oui
+Value=2;Non
+Value=3;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R407
+Start=182
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R407_VS1
+Link=80102272
+
+[Item]
+Label=Date du la dernière test du VIH/Sida
+Name=H408
+Start=183
+Len=1
+
+[ValueSet]
+Label=Date du la dernière test du VIH/Sida
+Name=H408_VS1
+Value=1;Il y a moins de 12 mois
+Value=2;Entre 12 et 24 mois
+Value=3;Il y a plus de 2 ans
+
+[Item]
+Label=Répondant à la question
+Name=R408
+Start=184
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R408_VS1
+Link=80102272
+
+[Item]
+Label=Lieu du dernier test du VIH/Sida
+Name=H409
+Start=185
+Len=2
+
+[ValueSet]
+Label=Lieu du dernier test du VIH/Sida
+Name=H409_VS1
+Value=1;Hôpital public
+Value=2;Centre de Santé publique
+Value=3;Centre de Dépistage
+Value=4;Structure de planning familial
+Value=5;Unité mobile de dépistage
+Value=6;Agent de santé communautaire
+Value=7;Ecole/université
+Value=8;Hôpital/clinique privé
+Value=9;Médecin privé
+Value=10;Centre de dépistage privé
+Value=11;Pharmacie
+Value=12;Unité mobile de dépistage privée (ONG...)
+Value=13;Agent de santé
+Value=14;Ecole/université
+Value=15;Structure de planification familiale
+Value=16;Autre
+
+[Item]
+Label=Autre lieu du dernier test du VIH/Sida
+Name=H409_16
+Start=187
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Répondant à la question
+Name=R409
+Start=217
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R409_VS1
+Link=80102272
+
+[Item]
+Label=Obtention des résultats du dernier test du VIH/Sida
+Name=H410
+Start=218
+Len=1
+
+[ValueSet]
+Label=Obtention des résultats du dernier test du VIH/Sida
+Name=H410_VS1
+Value=1;Oui
+Value=2;Non
+Value=3;Ne sait pas
+Value=4;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R410
+Start=219
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R410_VS1
+Link=80102272
+
+[Item]
+Label=Raisons de la non-obtention des résultats du dernier test du VIH/Sida
+Name=H411
+Start=220
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=Raisons de la non-obtention des résultats du dernier test du VIH/Sida
+Name=H411_VS1
+Value='1       ';Ne veut pas le savoir
+Value='2       ';Pas encore disponible
+Value='3       ';Peur d’un résultat positif
+Value='4       ';Pas eu le temps
+Value='5       ';Pas confiance en la qualité du test
+Value='6       ';Manque de confidentialité
+Value='7       ';Autre
+Value='8       ';Ne souhaite pas répondre
+
+[Item]
+Label=Autre raison de la non-obtention des résultats du dernier test du VIH/Sida
+Name=H411A
+Start=228
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Raisons de la non-obtention des résultats du dernier test du VIH/Sida
+Name=H411B
+Start=258
+Len=1
+Occurrences=8
+OccurrenceLabel=1,Ne veut pas le savoir
+OccurrenceLabel=2,Pas encore disponible
+OccurrenceLabel=3,Peur d’un résultat positif
+OccurrenceLabel=4,Pas eu le temps
+OccurrenceLabel=5,Pas confiance en la qualité du test
+OccurrenceLabel=6,Manque de confidentialité
+OccurrenceLabel=7,Autre
+OccurrenceLabel=8,Ne souhaite pas répondre
+
+[ValueSet]
+Label=Raisons de la non-obtention des résultats du dernier test du VIH/Sida
+Name=H411B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R411
+Start=266
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R411_VS1
+Link=80102272
+
+[Item]
+Label=Partage des résultats avec le partenaire du moment
+Name=H412
+Start=267
+Len=1
+
+[ValueSet]
+Label=Partage des résultats avec le partenaire du moment
+Name=H412_VS1
+Value=1;Oui à tous
+Value=2;Oui à certain(e)s
+Value=3;Non
+Value=4;Non Applicable
+
+[Item]
+Label=Répondant à la question
+Name=R412
+Start=268
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R412_VS1
+Link=80102272
+
+[Item]
+Label=Disposé à effectuer un test de dépistage
+Name=H413
+Start=269
+Len=1
+
+[ValueSet]
+Label=Disposé à effectuer un test de dépistage
+Name=H413_VS1
+Value=1;Oui
+Value=2;Non
+Value=3;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R413
+Start=270
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R413_VS1
+Link=80102272
+
+[Item]
+Label=Raison principale du refus de se faire dépister
+Name=H414
+Start=271
+Len=1
+
+[ValueSet]
+Label=Raison principale du refus de se faire dépister
+Name=H414_VS1
+Value=1;Je ne veux pas connaître mon statut
+Value=2;Le test est trop cher
+Value=3;J’ai peur d’un résultat positif
+Value=4;Je n’ai pas de rapport sexuel à risque
+Value=5;Je n’ai pas confiance en la qualité du test
+Value=6;Les centres de dépistages manquent de confidentialité
+Value=7;Je sais déjà que j’ai le VIH
+Value=8;Autre
+Value=9;Ne souhaite pas répondre
+
+[Item]
+Label=Autre raison principale du refus de se faire dépister
+Name=H414A
+Start=272
+Len=30
+DataType=Alpha
+
+[ValueSet]
+Label=Autre raison principale du refus de se faire dépister
+Name=H414A_VS1
+Value='1                             ';Je ne veux pas connaître mon statut
+Value='2                             ';Le test est trop cher
+Value='3                             ';J’ai peur d’un résultat positif
+Value='4                             ';Je n’ai pas de rapport sexuel à risque
+Value='5                             ';Je n’ai pas confiance en la qualité du test
+Value='6                             ';Les centres de dépistages manquent de confidentialité
+Value='7                             ';Je sais déjà que j’ai le VIH
+Value='8                             ';Autre
+Value='9                             ';Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R414
+Start=302
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R414_VS1
+Link=80102272
+
+[Item]
+Label=Sentiment d’être potentiellement infecté par le VIH/Sida
+Name=H415
+Start=303
+Len=1
+
+[ValueSet]
+Label=Sentiment d’être potentiellement infecté par le VIH/Sida
+Name=H415_VS1
+Value=1;Non, pas du tout
+Value=2;Oui, risque élevé
+Value=3;Oui, risque faible
+Value=4;Séropositif/ve
+Value=5;Ne sait pas
+
+[Item]
+Label=Répondant à la question
+Name=R415
+Start=304
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R415_VS1
+Link=80102272
+
+[Item]
+Label=Raison de ce sentiment d’être potentiellement infecté par le VIH/Sida
+Name=H416
+Start=305
+Len=1
+
+[ValueSet]
+Label=Raison de ce sentiment d’être potentiellement infecté par le VIH/Sida
+Name=H416_VS1
+Value=1;Parce que je suis handicapé (e)
+Value=2;Parce que j’ai des comportements à haut risque
+Value=3;Parce que mon partenaire a des comportements à haut risque
+Value=4;Autre
+
+[Item]
+Label=Autre raison de ce sentiment d’infection par le VIH/Sida
+Name=H416A
+Start=306
+Len=30
+DataType=Alpha
+
+[ValueSet]
+Label=Autre raison de ce sentiment d’infection par le VIH/Sida
+Name=H416A_VS1
+Value='1                             ';Parce que je suis handicapé (e)
+Value='2                             ';Parce que j’ai des comportements à haut risque
+Value='3                             ';Parce que mon partenaire a des comportements à haut risque
+Value='4                             ';Autre
+
+[Item]
+Label=Répondant à la question
+Name=R416
+Start=336
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R416_VS1
+Link=80102272
+
+[Record]
+Label=Contraception
+Name=CONTRACEPTION
+RecordTypeValue='G'
+Required=No
+RecordLen=207
+
+[Item]
+Label=Connaissance d'une méthode contraceptive
+Name=H500
+Start=18
+Len=1
+
+[ValueSet]
+Label=Connaissance d'une méthode contraceptive
+Name=H500_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Répondant à la question
+Name=R500
+Start=19
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R500_VS1
+Link=80102272
+
+[Item]
+Label=Méthodes contraceptives
+Name=H501
+Start=20
+Len=13
+DataType=Alpha
+
+[ValueSet]
+Label=Méthodes contraceptives
+Name=H501_VS1
+Value='1            ';Pilule
+Value='2            ';DIU/Stérilet
+Value='3            ';Injections (« 3 mois »)
+Value='4            ';Implants (« Norplants »)
+Value='5            ';Condom masculin
+Value='6            ';Condom féminin
+Value='7            ';Méthode de l’allaitement et de l’aménorrhée (MAMA)
+Value='8            ';Rythme/abstinence périodique/température
+Value='9            ';Stérilisation féminine
+Value='A            ';Stérilisation masculine
+Value='B            ';Retrait/ coït interrompu
+Value='C            ';Pilule du lendemain
+Value='D            ';Autre
+
+[Item]
+Label=Autre méthode contraceptive
+Name=H501A
+Start=33
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Méthodes contraceptives
+Name=H501B
+Start=63
+Len=1
+Occurrences=13
+OccurrenceLabel=1,Pilule
+OccurrenceLabel=2,DIU/Stérilet
+OccurrenceLabel=3,Injections (« 3 mois »)
+OccurrenceLabel=4,Implants (« Norplants »)
+OccurrenceLabel=5,Condom masculin
+OccurrenceLabel=6,Condom féminin
+OccurrenceLabel=7,Méthode de l’allaitement et de l’aménorrhée (MAMA)
+OccurrenceLabel=8,Rythme/abstinence périodique/température
+OccurrenceLabel=9,Stérilisation féminine
+OccurrenceLabel=10,Stérilisation masculine
+OccurrenceLabel=11,Retrait/ coït interrompu
+OccurrenceLabel=12,Pilule du lendemain
+OccurrenceLabel=13,Autre
+
+[ValueSet]
+Label=Méthodes contraceptives
+Name=H501B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R501
+Start=76
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R501_VS1
+Link=80102272
+
+[Item]
+Label=Méthodes contraceptives utilisées pour éviter une grossesse
+Name=H502
+Start=77
+Len=14
+DataType=Alpha
+
+[ValueSet]
+Label=Méthodes contraceptives utilisées pour éviter une grossesse
+Name=H502_VS1
+Value='1             ';Pilule contraceptive orale
+Value='2             ';DIU/Stérilet
+Value='3             ';Injections (« 3 mois »)
+Value='4             ';Implants (« Norplants »)
+Value='5             ';Condom masculin
+Value='6             ';Condom féminin
+Value='7             ';Méthode de l’allaitement et de l’aménorrhée (MAMA)
+Value='8             ';Rythme/abstinence périodique/température
+Value='9             ';Stérilisation féminine
+Value='A             ';Stérilisation masculine
+Value='B             ';Retrait/ coït interrompu
+Value='C             ';Pilule du lendemain
+Value='D             ';Autre
+Value='E             ';Aucune
+
+[Item]
+Label=Autre méthode contraceptive utilisée pour éviter une grossesse
+Name=H502A
+Start=91
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Méthodes contraceptives utilisées pour éviter une grossesse
+Name=H502B
+Start=121
+Len=1
+Occurrences=14
+OccurrenceLabel=1,Pilule contraceptive orale
+OccurrenceLabel=2,DIU/Stérilet
+OccurrenceLabel=3,Injections (« 3 mois »)
+OccurrenceLabel=4,Implants (« Norplants »)
+OccurrenceLabel=5,Condom masculin
+OccurrenceLabel=6,Condom féminin
+OccurrenceLabel=7,Méthode de l’allaitement et de l’aménorrhée (MAMA)
+OccurrenceLabel=8,Rythme/abstinence périodique/ température
+OccurrenceLabel=9,Stérilisation féminine
+OccurrenceLabel=10,Stérilisation masculine
+OccurrenceLabel=11,Retrait/ coït interrompu
+OccurrenceLabel=12,Pilule du lendemain
+OccurrenceLabel=13,Autre
+OccurrenceLabel=14,Aucune
+
+[ValueSet]
+Label=Méthodes contraceptives utilisées pour éviter une grossesse
+Name=H502B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R502
+Start=135
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R502_VS1
+Link=80102272
+
+[Item]
+Label=Raisons de la non-utilisation de méthode contraceptive
+Name=H503
+Start=136
+Len=17
+DataType=Alpha
+
+[ValueSet]
+Label=Raisons de la non-utilisation de méthode contraceptive
+Name=H503_VS1
+Value='1                ';Marié / partenaire stable
+Value='2                ';Souhaite un enfant
+Value='3                ';Pas de rapport sexuel
+Value='4                ';Rapports sexuels rares
+Value='5                ';Ménopause / hystérectomie
+Value='6                ';Pas de règle depuis la dernière grossesse
+Value='7                ';Allaitement
+Value='8                ';Je suis opposé à cela
+Value='9                ';Mon mari/femme est opposé à cela
+Value='A                ';D’autres personnes sont opposées
+Value='B                ';Interdit religieux
+Value='C                ';Ne connaît pas les méthodes
+Value='D                ';Ne sait pas où me procurer
+Value='E                ';Peur des effets secondaires
+Value='F                ';Difficultés à obtenir
+Value='G                ';Méthode trop coûteuse
+Value='H                ';Autre
+
+[Item]
+Label=Autre raison de la non-utilisation de méthode contraceptive
+Name=H503A
+Start=153
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Raisons de la non-utilisation de méthode contraceptive
+Name=H503B
+Start=183
+Len=1
+Occurrences=17
+OccurrenceLabel=1,Marié / partenaire stable
+OccurrenceLabel=2,Souhaite un enfant
+OccurrenceLabel=3,Pas de rapport sexuel
+OccurrenceLabel=4,Rapports sexuels rares
+OccurrenceLabel=5,Ménopause / hystérectomie
+OccurrenceLabel=6,Pas de règle depuis la dernière grossesse
+OccurrenceLabel=7,Allaitement
+OccurrenceLabel=8,Je suis opposé à cela
+OccurrenceLabel=9,Mon mari/femme est opposé à cela
+OccurrenceLabel=10,D’autres personnes sont opposées
+OccurrenceLabel=11,Interdit religieux
+OccurrenceLabel=12,Ne connaît pas les méthodes
+OccurrenceLabel=13,Ne sait pas où me procurer
+OccurrenceLabel=14,Peur des effets secondaires
+OccurrenceLabel=15,Difficultés à obtenir
+OccurrenceLabel=16,Méthode trop coûteuse
+OccurrenceLabel=17,Autre (spécifier)
+
+[ValueSet]
+Label=Raisons de la non-utilisation de méthode contraceptive
+Name=H503B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R503
+Start=200
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R503_VS1
+Link=80102272
+
+[Item]
+Label=Entrée en vie reproductuve
+Name=H504
+Start=201
+Len=1
+
+[ValueSet]
+Label=Entrée en vie reproductuve
+Name=H504_VS1
+Link=80357656
+Value=1;Oui
+Value=2;Non
+Value=3;Ne sait pas
+Value=4;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R504
+Start=202
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R504_VS1
+Link=80102272
+
+[Item]
+Label=Entrée en vie féconde
+Name=H507
+Start=203
+Len=1
+
+[ValueSet]
+Label=Entrée en vie féconde
+Name=H507_VS1
+Link=80357656
+
+[Item]
+Label=Répondant à la question
+Name=R507
+Start=204
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R507_VS1
+Link=80102272
+
+[Item]
+Label=Nombre total d'enfants
+Name=H512
+Start=205
+Len=2
+
+[ValueSet]
+Label=Nombre total d'enfants
+Name=H512_VS1
+Value=0:98;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R512
+Start=207
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R512_VS1
+Link=80102272
+
+[Record]
+Label=Enfant
+Name=ENFANT
+RecordTypeValue='Q'
+Required=No
+MaxRecords=50
+RecordLen=23
+
+[Item]
+Label=Age à la naissance de l'enfant
+Name=H505
+Start=18
+Len=2
+
+[Item]
+Label=Répondant à la question
+Name=R505
+Start=20
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R505_VS1
+Link=80102272
+
+[Item]
+Label=Enfant désiré
+Name=H506
+Start=21
+Len=1
+
+[ValueSet]
+Label=Enfant désiré
+Name=H506_VS1
+Value=1;Vous ne vous posiez pas la question
+Value=2;Pas du tout
+Value=3;Vous vouliez un enfant mais plus tard
+Value=4;Vous vouliez un enfant mais plus tôt
+Value=5;Oui, à ce moment là
+Value=6;Ne sait plus
+Value=7;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R506
+Start=22
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R506_VS1
+Link=80102272
+
+[Item]
+Label=Autre enfant déclaré
+Name=MORE_CHILD
+Start=23
+Len=1
+
+[ValueSet]
+Label=Autre enfant déclaré
+Name=MORE_CHILD_VS1
+Link=162401224
+
+[Record]
+Label=Grossesse
+Name=GROSSESSE
+RecordTypeValue='H'
+Required=No
+MaxRecords=50
+RecordLen=56
+
+[Item]
+Label=Age à la grossesse
+Name=H508
+Start=18
+Len=2
+
+[ValueSet]
+Label=Age à la grossesse
+Name=H508_VS1
+Value=0:50;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R508
+Start=20
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R508_VS1
+Link=80102272
+
+[Item]
+Label=Issue de la grossesse
+Name=H509
+Start=21
+Len=1
+
+[ValueSet]
+Label=Issue de la grossesse
+Name=H509_VS1
+Value=1;Fausse couche (FC)
+Value=2;Enfant mort-né (MN)
+Value=3;Avortement provoqué (AV)
+Value=4;Grossesse en cours (EC)
+Value=5;Autre (A)
+Value=6;Ne sait pas (NSP)
+Value=7;Ne souhaite pas répondre (PR)
+
+[Item]
+Label=Autre issue de la grossesse
+Name=H509A
+Start=22
+Len=30
+DataType=Alpha
+
+[ValueSet]
+Label=Autre issue de la grossesse
+Name=H509A_VS1
+Value='1                             ';Fausse couche (FC)
+Value='2                             ';Enfant mort-né (MN)
+Value='3                             ';Avortement provoqué (AV)
+Value='4                             ';Grossesse en cours (EC)
+Value='5                             ';Autre (A)
+Value='6                             ';Ne sait pas (NSP)
+Value='7                             ';Ne souhaite pas répondre (PR)
+
+[Item]
+Label=Répondant à la question
+Name=R509
+Start=52
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R509_VS1
+Link=80102272
+
+[Item]
+Label=Grossesse désirée en ce moment-là
+Name=H510
+Start=53
+Len=1
+
+[ValueSet]
+Label=Grossesse désirée en ce moment-là
+Name=H510_VS1
+Value=1;Vous ne vous posiez pas la question
+Value=2;Pas du tout
+Value=3;Vous vouliez un enfant mais plus tard
+Value=4;Vous vouliez un enfant mais plus tôt
+Value=5;Oui, à ce moment là
+Value=6;Ne sait plus
+Value=7;Ne souhaite pas répondre
+
+[Item]
+Label=Répondant à la question
+Name=R510
+Start=54
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R510_VS1
+Link=80102272
+
+[Item]
+Label=Autre grossesse déclarée
+Name=H511
+Start=55
+Len=1
+
+[ValueSet]
+Label=Autre grossesse déclarée
+Name=H511_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R511
+Start=56
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R511_VS1
+Link=80102272
+
+[Record]
+Label=Santé sexuelle et reproductive
+Name=SSR
+RecordTypeValue='I'
+Required=No
+RecordLen=188
+
+[Item]
+Label=Services de SSR utilisés
+Name=H600
+Start=18
+Len=12
+DataType=Alpha
+
+[ValueSet]
+Label=Services de SSR utilisés
+Name=H600_VS1
+Value='1           ';Planification familiale
+Value='2           ';Consultation prénatale
+Value='3           ';Accouchement - Maternité
+Value='4           ';Soins après l’accouchement
+Value='5           ';Prise en charge d’une infection sexuellement transmissible
+Value='6           ';Test VIH
+Value='7           ';Prise en charge pour un viol (agression sexuelle)
+Value='8           ';Service de prise en charge du VIH
+Value='9           ';Consultation gynécologique/sexuelle
+Value='A           ';Consultation urologique/sexuelle
+Value='B           ';Autre service
+Value='C           ';Aucun
+
+[Item]
+Label=Autre service
+Name=H600A
+Start=30
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Services de SSR utilisés
+Name=H600B
+Start=60
+Len=1
+Occurrences=12
+OccurrenceLabel=1,Planification familiale
+OccurrenceLabel=2,Consultation prénatale
+OccurrenceLabel=3,Accouchement - Maternité
+OccurrenceLabel=4,Soins après l’accouchement
+OccurrenceLabel=5,Prise en charge d’une infection sexuellement transmissible
+OccurrenceLabel=6,Test VIH
+OccurrenceLabel=7,Prise en charge pour un viol (agression sexuelle)
+OccurrenceLabel=8,Service de prise en charge du VIH
+OccurrenceLabel=9,Consultation gynécologique/sexuelle
+OccurrenceLabel=10,Consultation urologique/sexuelle
+OccurrenceLabel=11,Autre service
+OccurrenceLabel=12,Aucun ? aller à module VII
+
+[ValueSet]
+Label=Services de SSR utilisés
+Name=H600B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R600
+Start=72
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R600_VS1
+Link=80102272
+
+[Item]
+Label=Dernier service utilisé
+Name=H601
+Start=73
+Len=2
+
+[ValueSet]
+Label=Dernier service utilisé
+Name=H601_VS1
+Value=1;Planification familiale
+Value=2;Consultation prénatale
+Value=3;Accouchement - Maternité
+Value=4;Soins après l’accouchement
+Value=5;Prise en charge d’une infection sexuellement transmissible
+Value=6;Test VIH
+Value=7;Prise en charge pour un viol (agression sexuelle)
+Value=8;Service de prise en charge du VIH
+Value=9;Consultation gynécologique/sexuelle
+Value=10;Consultation urologique/sexuelle
+Value=11;Autre service
+
+[Item]
+Label=Répondant à la question
+Name=R601
+Start=75
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R601_VS1
+Link=80102272
+
+[Item]
+Label=Difficultés lors du dernier accès au service de SSR
+Name=H602
+Start=76
+Len=9
+DataType=Alpha
+
+[ValueSet]
+Label=Difficultés lors du dernier accès au service de SSR
+Name=H602_VS1
+Value='1        ';Aucun problème
+Value='2        ';Distance au service / transport
+Value='3        ';Accessibilité du service
+Value='4        ';Attitude du personnel
+Value='5        ';Communication avec soignant
+Value='6        ';Attente / Présence d’un soignant
+Value='7        ';Coût
+Value='8        ';Autre
+Value='9        ';Ne sait plus
+
+[Item]
+Label=Autre difficulté lors du dernier accès au service de SSR
+Name=H602A
+Start=85
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Répondant à la question
+Name=R602
+Start=115
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R602_VS1
+Link=80102272
+
+[Item]
+Label=Difficultés lors du dernier accès au service de SSR
+Name=H602B
+Start=116
+Len=1
+Occurrences=9
+OccurrenceLabel=1,Aucun problème
+OccurrenceLabel=2,Distance au service / transport
+OccurrenceLabel=3,Accessibilité du service
+OccurrenceLabel=4,Attitude du personnel
+OccurrenceLabel=5,Communication avec soignant
+OccurrenceLabel=6,Attente / Présence d’un soignant
+OccurrenceLabel=7,Coût
+OccurrenceLabel=8,Autre
+OccurrenceLabel=9,Ne sait plus
+
+[Item]
+Label=Niveau de satisfaction du dernier service de SSR
+Name=H603
+Start=125
+Len=2
+
+[ValueSet]
+Label=Niveau de satisfaction du dernier service de SSR
+Name=H603_VS1
+Value=0:10;Valide
+
+[Item]
+Label=Répondant à la question
+Name=R603
+Start=127
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R603_VS1
+Link=80102272
+
+[Item]
+Label=Moyens d'amélioration du dernier service de SSR
+Name=H604
+Start=128
+Len=15
+DataType=Alpha
+
+[ValueSet]
+Label=Moyens d'amélioration du dernier service de SSR
+Name=H604_VS1
+Value='1              ';Soignant femme
+Value='2              ';Soignant homme
+Value='3              ';Proximité de ma maison
+Value='4              ';Transport facile
+Value='5              ';Aide pour communiquer
+Value='6              ';Traitement moins cher
+Value='7              ';Accès physique amélioré
+Value='8              ';Rendez-vous plus flexibles
+Value='9              ';Attente plus courte
+Value='A              ';Avoir une aide
+Value='B              ';Docteur plus agréable(gentil)
+Value='C              ';Personnel plus aidant
+Value='D              ';Rien
+Value='E              ';Autre
+Value='F              ';Ne sait pas
+
+[Item]
+Label=Autre moyen d'amélioration du dernier service de SSR
+Name=H604A
+Start=143
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Moyens d'amélioration du dernier service de SSR
+Name=H604B
+Start=173
+Len=1
+Occurrences=15
+OccurrenceLabel=1,Soignant femme
+OccurrenceLabel=2,Soignant homme
+OccurrenceLabel=3,Proximité de ma maison
+OccurrenceLabel=4,Transport facile
+OccurrenceLabel=5,Aide pour communiquer
+OccurrenceLabel=6,Traitement moins cher
+OccurrenceLabel=7,Accès physique amélioré
+OccurrenceLabel=8,Rendez-vous plus flexibles
+OccurrenceLabel=9,Attente plus courte
+OccurrenceLabel=10,Avoir une aide
+OccurrenceLabel=11,Docteur plus agréable(gentil)
+OccurrenceLabel=12,Personnel plus aidant
+OccurrenceLabel=13,Rien
+OccurrenceLabel=14,Autre
+OccurrenceLabel=15,Ne sait pas
+
+[ValueSet]
+Label=Moyens d'amélioration du dernier service de SSR
+Name=H604B_VS1
+Link=162401224
+
+[Item]
+Label=Répondant à la question
+Name=R604
+Start=188
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R604_VS1
+Link=80102272
+
+[Record]
+Label=Origine du handicap
+Name=ORIGINE_HANDICAP
+RecordTypeValue='J'
+Required=No
+RecordLen=56
+
+[Item]
+Label=Période d'apparution du handicap
+Name=H700
+Start=18
+Len=1
+
+[ValueSet]
+Label=Période d'apparution du handicap
+Name=H700_VS1
+Value=1;Naissance
+Value=2;Enfance (0 – 10 ans)
+Value=3;Après 10 ans
+
+[Item]
+Label=Répondant à la question
+Name=R700
+Start=19
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R700_VS1
+Link=80102272
+
+[Item]
+Label=Causes du handicap
+Name=H701
+Start=20
+Len=2
+
+[ValueSet]
+Label=Causes du handicap
+Name=H701_VS1
+Value=1;De naissance/congénital
+Value=2;Accident de la voie publique (de la route)
+Value=3;Autre accident
+Value=4;Brûlure
+Value=5;Maladie de longue durée
+Value=6;Séquelle de maladie
+Value=7;Violence par un membre de la famille
+Value=8;Violence par une personne extérieure à la famille
+Value=9;Lié à la guerre
+Value=10;Lié à un animal
+Value=11;Lié au stress (anxiété, angoisse)
+Value=12;Sorcellerie
+Value=13;Autre
+Value=14;Ne sait pas ou ne souhaite pas répondre
+
+[Item]
+Label=Autre cause du handicap
+Name=H701A
+Start=22
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Répondant à la question
+Name=R701
+Start=52
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R701_VS1
+Link=80102272
+
+[Item]
+Label=A connaissance d'au moins une organisation de personnes handicapées
+Name=H702
+Start=53
+Len=1
+
+[ValueSet]
+Label=A connaissance d'au moins une organisation de personnes handicapées
+Name=H702_VS1
+Link=155209248
+Value=1;Oui
+Value=2;Non
+Value=3;Ne sait pas
+
+[Item]
+Label=Répondant à la question
+Name=R702
+Start=54
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R702_VS1
+Link=80102272
+
+[Item]
+Label=Membre d'organisation(s) de personnes handicapées
+Name=H703
+Start=55
+Len=1
+
+[ValueSet]
+Label=Membre d'organisation(s) de personnes handicapées
+Name=H703_VS1
+Link=155209248
+
+[Item]
+Label=Répondant à la question
+Name=R703
+Start=56
+Len=1
+
+[ValueSet]
+Label=Répondant à la question
+Name=R703_VS1
+Link=80102272
+
+[Record]
+Label=Auxiliaire
+Name=H_AUXILIAIRE
+RecordTypeValue='R'
+Required=No
+RecordLen=77
+
+[Item]
+Label=ID device
+Name=H_DEVICEID
+Start=18
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Nom utilisateur tablette
+Name=H_USERNAME
+Start=48
+Len=30
+DataType=Alpha

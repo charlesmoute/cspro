@@ -1,0 +1,1609 @@
+﻿[Dictionary]
+Version=CSPro 7.0
+Label=Dictionnaire éligibilité
+Name=ELIGIBILITE_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=Questionnaire éligibilité
+Name=ELIGIBILITE_QUEST
+
+[IdItems]
+
+[Item]
+Label=Commune
+Name=ELIG_COMMUNE
+Start=2
+Len=1
+ZeroFill=Yes
+
+[ValueSet]
+Label=Commune
+Name=ELIG_COMMUNE_VS1
+Value=1;Muha
+Value=2;Mukaza
+Value=3;Ntahangwa
+
+[Item]
+Label=Zone
+Name=ELIG_ZONE
+Start=3
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Zone
+Name=ELIG_ZONE_VS1
+Value=1;Kanyosha
+Value=2;Kinindo
+Value=3;Musaga
+
+[ValueSet]
+Label=Zone
+Name=ELIG_ZONE_VS2
+Value=4;Buyenzi
+Value=5;Bwiza
+Value=6;Nyakabiga
+Value=7;Rohero
+
+[ValueSet]
+Label=Zone
+Name=ELIG_ZONE_VS3
+Value=8;Buterere
+Value=9;Cibitoke
+Value=10;Gihosha
+Value=11;Kamenge
+Value=12;Kinama
+Value=13;Ngagara
+
+[ValueSet]
+Label=Zone
+Name=ELIG_ZONE_VS4
+Value=1;Kanyosha
+Value=2;Kinindo
+Value=3;Musaga
+Value=4;Buyenzi
+Value=5;Bwiza
+Value=6;Nyakabiga
+Value=7;Rohero
+Value=8;Buterere
+Value=9;Cibitoke
+Value=10;Gihosha
+Value=11;Kamenge
+Value=12;Kinama
+Value=13;Ngagara
+
+[Item]
+Label=Colline
+Name=ELIG_COLLINE
+Start=5
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Colline
+Name=ELIG_COLLINE_VS1
+Value=1;Gisyo Nyabaranda
+Value=2;Kajiji
+Value=3;Kizingwe Bihara
+Value=4;Musama
+Value=5;Nkenga Busoro
+Value=6;Nyabugete
+Value=7;Ruziba
+
+[ValueSet]
+Label=Colline
+Name=ELIG_COLLINE_VS2
+Value=8;KIBENGA
+Value=9;KINANIRA I ET II
+Value=10;KINANIRA III
+Value=11;KININDO
+Value=12;OUA ZEIMET
+
+[ValueSet]
+Label=Colline
+Name=ELIG_COLLINE_VS3
+Value=13;GASEKEBUYE
+Value=14;GITARAMUKA
+Value=15;KAMESA
+Value=16;KINANIRA I
+Value=17;KINANIRA II
+
+[ValueSet]
+Label=Colline
+Name=ELIG_COLLINE_VS4
+Value=18;Q I
+Value=19;Q II
+Value=20;Q III
+Value=21;Q IV
+Value=22;Q V
+Value=23;Q VI
+Value=24;Q VII
+
+[ValueSet]
+Label=Colline
+Name=ELIG_COLLINE_VS5
+Value=25;QI
+Value=26;Q II
+Value=27;Q III
+Value=28;QIV
+Value=29;Q V
+Value=30;Q VI
+Value=31;Q VII
+
+[ValueSet]
+Label=Colline
+Name=ELIG_COLLINE_VS6
+Value=32;KIGWATI
+Value=33;NYAKABIGA I
+Value=34;NYAKABIGA II
+Value=35;NYAKABIGA III
+
+[ValueSet]
+Label=Colline
+Name=ELIG_COLLINE_VS7
+Value=36;Asiatique
+Value=37;Centre Ville
+Value=38;INSS
+Value=39;Kabondo
+Value=40;Kiriri Vugizo
+Value=41;Mutanga sud Sororezo Mugoboka
+Value=42;RoheroIGatoke
+Value=43;RoheroII
+
+[ValueSet]
+Label=Colline
+Name=ELIG_COLLINE_VS8
+Value=44;Buterere I
+Value=45;Buterere IIA
+Value=46;BUTERERE IIB
+Value=47;Kabusa
+Value=48;Kiyange I
+Value=49;Kiyange II
+Value=50;Maramvya
+Value=51;Mubone
+Value=52;Mugaruro
+
+[ValueSet]
+Label=Colline
+Name=ELIG_COLLINE_VS9
+Value=53;Q I
+Value=54;Q II
+Value=55;Q III
+Value=56;Q IV
+Value=57;Q V
+Value=58;Q VI
+Value=59;Q VII
+
+[ValueSet]
+Label=Colline
+Name=ELIG_COLLINE_VS10
+Value=60;Gihosha
+Value=61;Gikungu I
+Value=62;Gikungu II
+Value=63;Gikungu Gihosha Rural
+Value=64;Muyaga
+Value=65;Nyabagere
+Value=66;Taba
+Value=67;Winterekwa
+
+[ValueSet]
+Label=Colline
+Name=ELIG_COLLINE_VS11
+Value=68;Gikizi
+Value=69;Gituro
+Value=70;Heha
+Value=71;Kavumu
+Value=72;Mirango I
+Value=73;Mirango II
+Value=74;Songa
+Value=75;Teza
+Value=76;Twinyoni
+
+[ValueSet]
+Label=Colline
+Name=ELIG_COLLINE_VS12
+Value=77;Bubanza
+Value=78;Buhinyuza
+Value=79;Bukirasazi I
+Value=80;Bukirasazi II
+Value=81;Bururi
+Value=82;Carama
+Value=83;Gitega
+Value=84;Kanga
+Value=85;Muramvya
+Value=86;Muyinga
+Value=87;Ngozi
+Value=88;Ruyigi
+Value=89;Socarti
+
+[ValueSet]
+Label=Colline
+Name=ELIG_COLLINE_VS13
+Value=90;Q I
+Value=91;Q II
+Value=92;Q III
+Value=93;Q IV
+Value=94;Q V
+Value=95;Q VI
+Value=96;Q VII
+Value=97;Q VIII
+Value=98;Q IX
+Value=99;Q INDUSTRIEL
+
+[ValueSet]
+Label=Colline
+Name=ELIG_COLLINE_VS14
+Value=1;Gisyo Nyabaranda
+Value=2;Kajiji
+Value=3;Kizingwe Bihara
+Value=4;Musama
+Value=5;Nkenga Busoro
+Value=6;Nyabugete
+Value=7;Ruziba
+Value=8;KIBENGA
+Value=9;KINANIRA I ET II
+Value=10;KINANIRA III
+Value=11;KININDO
+Value=12;OUA ZEIMET
+Value=13;GASEKEBUYE
+Value=14;GITARAMUKA
+Value=15;KAMESA
+Value=16;KINANIRA I
+Value=17;KINANIRA II
+Value=18;Q I
+Value=19;Q II
+Value=20;Q III
+Value=21;Q IV
+Value=22;Q V
+Value=23;Q VI
+Value=24;Q VII
+Value=25;QI
+Value=26;Q II
+Value=27;Q III
+Value=28;QIV
+Value=29;Q V
+Value=30;Q VI
+Value=31;Q VII
+Value=32;KIGWATI
+Value=33;NYAKABIGA I
+Value=34;NYAKABIGA II
+Value=35;NYAKABIGA III
+Value=36;Asiatique
+Value=37;Centre Ville
+Value=38;INSS
+Value=39;Kabondo
+Value=40;Kiriri Vugizo
+Value=41;Mutanga sud Sororezo Mugoboka
+Value=42;RoheroIGatoke
+Value=43;RoheroII
+Value=44;Buterere I
+Value=45;Buterere IIA
+Value=46;BUTERERE IIB
+Value=47;Kabusa
+Value=48;Kiyange I
+Value=49;Kiyange II
+Value=50;Maramvya
+Value=51;Mubone
+Value=52;Mugaruro
+Value=53;Q I
+Value=54;Q II
+Value=55;Q III
+Value=56;Q IV
+Value=57;Q V
+Value=58;Q VI
+Value=59;Q VII
+Value=60;Gihosha
+Value=61;Gikungu I
+Value=62;Gikungu II
+Value=63;Gikungu Gihosha Rural
+Value=64;Muyaga
+Value=65;Nyabagere
+Value=66;Taba
+Value=67;Winterekwa
+Value=68;Gikizi
+Value=69;Gituro
+Value=70;Heha
+Value=71;Kavumu
+Value=72;Mirango I
+Value=73;Mirango II
+Value=74;Songa
+Value=75;Teza
+Value=76;Twinyoni
+Value=77;Bubanza
+Value=78;Buhinyuza
+Value=79;Bukirasazi I
+Value=80;Bukirasazi II
+Value=81;Bururi
+Value=82;Carama
+Value=83;Gitega
+Value=84;Kanga
+Value=85;Muramvya
+Value=86;Muyinga
+Value=87;Ngozi
+Value=88;Ruyigi
+Value=89;Socarti
+Value=90;Q I
+Value=91;Q II
+Value=92;Q III
+Value=93;Q IV
+Value=94;Q V
+Value=95;Q VI
+Value=96;Q VII
+Value=97;Q VIII
+Value=98;Q IX
+Value=99;Q INDUSTRIEL
+
+[Item]
+Label=Numéro ZD
+Name=ELIG_ZD
+Start=7
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro ZD
+Name=ELIG_ZD_VS1
+Value=1:999;Valide
+
+[Item]
+Label=Numéro structure
+Name=ELIG_STRUCTURE
+Start=10
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro structure
+Name=ELIG_STRUCTURE_VS1
+Value=1:999;Valide
+
+[Item]
+Label=Numéro ménage
+Name=ELIG_NUMMENAGE
+Start=13
+Len=3
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro ménage
+Name=ELIG_NUMMENAGE_VS1
+Value=1:999;Valide
+
+[Item]
+Label=Numéro d'ordre individu
+Name=ELIG_NUMINDIVIDU
+Start=16
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Numéro d'ordre individu
+Name=ELIG_NUMINDIVIDU_VS1
+Value=1:99;Valide
+
+[Record]
+Label=Interview
+Name=INTERVIEW_REC
+RecordTypeValue='3'
+RecordLen=48
+
+[Item]
+Label=Code agent enquêteur
+Name=ELIG_AGENT
+Start=18
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Code agent enquêteur
+Name=ELIG_AGENT_VS1
+Value=0:99;Valide
+
+[Item]
+Label=Code agent assignee
+Name=ELIG_AGENT02
+Start=20
+Len=2
+ZeroFill=Yes
+
+[ValueSet]
+Label=Code agent assignee
+Name=ELIG_AGENT02_VS1
+Value=0:99;Valide
+
+[Item]
+Label=Date d'ouverture du questionnaire
+Name=ELIG_STARTDATE
+Start=22
+Len=8
+
+[Item]
+Label=Année d'ouverture du questionnaire
+Name=ELIG_STARTYEAR
+Start=22
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année d'ouverture du questionnaire
+Name=ELIG_STARTYEAR_VS1
+Value=2017:2018;Valide
+
+[Item]
+Label=Mois d'ouverture du questionnaire
+Name=ELIG_STARTMONTH
+Start=26
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois d'ouverture du questionnaire
+Name=ELIG_STARTMONTH_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Aôut
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+
+[Item]
+Label=Jour d'ouverture du questionnaire
+Name=ELIG_STARTDAY
+Start=28
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour d'ouverture du questionnaire
+Name=ELIG_STARTDAY_VS1
+Value=1;1
+Value=2;2
+Value=3;3
+Value=4;4
+Value=5;5
+Value=6;6
+Value=7;7
+Value=8;8
+Value=9;9
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+Value=21;21
+Value=22;22
+Value=23;23
+Value=24;24
+Value=25;25
+Value=26;26
+Value=27;27
+Value=28;28
+Value=29;29
+Value=30;30
+Value=31;31
+
+[Item]
+Label=Date
+Name=ELIG_DATE
+Start=30
+Len=8
+
+[Item]
+Label=Année
+Name=ELIG_YEAR
+Start=30
+Len=4
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Année
+Name=ELIG_YEAR_VS1
+Value=2017:2018;Valide
+
+[Item]
+Label=Mois
+Name=ELIG_MONTH
+Start=34
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Mois
+Name=ELIG_MONTH_VS1
+Value=1;Janvier
+Value=2;Février
+Value=3;Mars
+Value=4;Avril
+Value=5;Mai
+Value=6;Juin
+Value=7;Juillet
+Value=8;Aôut
+Value=9;Septembre
+Value=10;Octobre
+Value=11;Novembre
+Value=12;Décembre
+
+[Item]
+Label=Jour
+Name=ELIG_DAY
+Start=36
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Jour
+Name=ELIG_DAY_VS1
+Value=1;1
+Value=2;2
+Value=3;3
+Value=4;4
+Value=5;5
+Value=6;6
+Value=7;7
+Value=8;8
+Value=9;9
+Value=10;10
+Value=11;11
+Value=12;12
+Value=13;13
+Value=14;14
+Value=15;15
+Value=16;16
+Value=17;17
+Value=18;18
+Value=19;19
+Value=20;20
+Value=21;21
+Value=22;22
+Value=23;23
+Value=24;24
+Value=25;25
+Value=26;26
+Value=27;27
+Value=28;28
+Value=29;29
+Value=30;30
+Value=31;31
+
+[Item]
+Label=Heure de début
+Name=ELIG_STARTTIME
+Start=38
+Len=4
+
+[Item]
+Label=Heure
+Name=ELIG_STARTHOUR
+Start=38
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Heure
+Name=ELIG_STARTHOUR_VS1
+Value=0:23;Valide
+
+[Item]
+Label=Minute
+Name=ELIG_STARTMINUTE
+Start=40
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Minute
+Name=ELIG_STARTMINUTE_VS1
+Value=0:59;Valide
+
+[Item]
+Label=Heure de fin
+Name=ELIG_ENDTIME
+Start=42
+Len=4
+
+[Item]
+Label=Heure
+Name=ELIG_ENDHOUR
+Start=42
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Heure
+Name=ELIG_ENDHOUR_VS1
+Value=0:23;Valide
+
+[Item]
+Label=Minute
+Name=ELIG_ENDMINUTE
+Start=44
+Len=2
+ItemType=SubItem
+ZeroFill=Yes
+
+[ValueSet]
+Label=Minute
+Name=ELIG_ENDMINUTE_VS1
+Value=0:59;Valide
+
+[Item]
+Label=Durée de l'interview en minutes
+Name=ELIG_SURVEYDURATION
+Start=46
+Len=3
+
+[Record]
+Label=Eligibilité personne handicapée
+Name=HANDICAP_REC
+RecordTypeValue='1'
+Required=No
+RecordLen=112
+
+[Item]
+Label=Port de lunettes médicales pour mieux voir de loin
+Name=H002
+Start=18
+Len=1
+
+[ValueSet]
+Label=Port de lunettes médicales pour mieux voir de loin
+Name=H002_VS1
+Link=162578648
+Value=1;Oui
+Value=2;Non
+Value=3;Ne répond pas
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V002
+Start=19
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V002_VS1
+Link=162577680
+Value=1;Personne concernée
+Value=2;Avec aide
+Value=3;Tierce personne
+
+[Item]
+Label=Difficultés à voir de loin depuis plus d’un an avec lunettes médicales
+Name=H002A
+Start=20
+Len=1
+
+[ValueSet]
+Label=Difficultés à voir de loin depuis plus d’un an avec lunettes médicales
+Name=H002A_VS1
+Link=162578120
+Value=1;Pas de difficultés
+Value=2;Quelques difficultés
+Value=3;Beaucoup de difficultés
+Value=4;Ne peut pas le faire du tout
+Value=9;Ne répond pas
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V002A
+Start=21
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V002A_VS1
+Link=162577680
+
+[Item]
+Label=Difficultés à voir de loin depuis plus d’un an
+Name=H002B
+Start=22
+Len=1
+
+[ValueSet]
+Label=Difficultés à voir de loin depuis plus d’un an
+Name=H002B_VS1
+Link=162578120
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V002B
+Start=23
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V002B_VS1
+Link=162577680
+
+[Item]
+Label=Port de lunettes pour mieux voir de près
+Name=H003
+Start=24
+Len=1
+
+[ValueSet]
+Label=Port de lunettes pour mieux voir de près
+Name=H003_VS1
+Link=162578648
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V003
+Start=25
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V003_VS1
+Link=162577680
+
+[Item]
+Label=Difficultés à voir de près depuis plus d’un an avec lunettes médicales
+Name=H003A
+Start=26
+Len=1
+
+[ValueSet]
+Label=Difficultés à voir de près depuis plus d’un an avec lunettes médicales
+Name=H003A_VS1
+Link=162578120
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V003A
+Start=27
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V003A_VS1
+Link=162577680
+
+[Item]
+Label=Difficultés à voir de près depuis plus d’un an avec
+Name=H003B
+Start=28
+Len=1
+
+[ValueSet]
+Label=Difficultés à voir de près depuis plus d’un an avec
+Name=H003B_VS1
+Link=162578120
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V003B
+Start=29
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V003B_VS1
+Link=162577680
+
+[Item]
+Label=Difficultés depuis plus d'un an pour entendre une personne
+Name=H004
+Start=30
+Len=1
+
+[ValueSet]
+Label=Difficultés depuis plus d'un an pour entendre une personne
+Name=H004_VS1
+Link=162578120
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V004
+Start=31
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V004_VS1
+Link=162577680
+
+[Item]
+Label=Difficultés depuis plus d'un an à vous déplacer
+Name=H005A
+Start=32
+Len=1
+
+[ValueSet]
+Label=Difficultés depuis plus d'un an à vous déplacer
+Name=H005A_VS1
+Link=162578120
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V005A
+Start=33
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V005A_VS1
+Link=162577680
+
+[Item]
+Label=Difficultés depuis plus d'un an à sortir de votre maison sans aide
+Name=H005B
+Start=34
+Len=1
+
+[ValueSet]
+Label=Difficultés depuis plus d'un an à sortir de votre maison sans aide
+Name=H005B_VS1
+Link=162578120
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V005B
+Start=35
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V005B_VS1
+Link=162577680
+
+[Item]
+Label=Difficultés depuis plus d'un an pour marcher de longues distances sans aide
+Name=H005C
+Start=36
+Len=1
+
+[ValueSet]
+Label=Difficultés depuis plus d'un an pour marcher de longues distances sans aide
+Name=H005C_VS1
+Link=162578120
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V005C
+Start=37
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V005C_VS1
+Link=162577680
+
+[Item]
+Label=Difficultés depuis plus d'un an pour utiliser vos mains et vos doigts
+Name=H005D
+Start=38
+Len=1
+
+[ValueSet]
+Label=Difficultés depuis plus d'un an pour utiliser vos mains et vos doigts
+Name=H005D_VS1
+Link=162578120
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V005D
+Start=39
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V005D_VS1
+Link=162577680
+
+[Item]
+Label=Utilisation d'aides pour se déplacer
+Name=H005E
+Start=40
+Len=8
+DataType=Alpha
+
+[ValueSet]
+Label=Utilisation d'aides pour se déplacer
+Name=H005E_FR
+Value='1       ';Canne ou bâton
+Value='2       ';Cadre de marche
+Value='3       ';Béquilles
+Value='4       ';Fauteuil roulant ou tricycle
+Value='5       ';Prothèse de jambe, de pied, de bras ou de main
+Value='6       ';L’aide d’une personne
+Value='7       ';Autre
+Value='8       ';Aucune aide
+
+[ValueSet]
+Label=Murifashisha ibi bikwirikira ?
+Name=H005E_RN
+Value='1       ';inkoni
+Value='2       ';Ikigendesho co kubashigikira ntimutembe
+Value='3       ';ibekiye
+Value='4       ';intebe y’amapine/ikinga y’abagendana ubumuga
+Value='5       ';Iproteze
+Value='6       ';umuntu abafasha
+Value='7       ';Autre
+Value='8       ';Aucune aide
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V005E
+Start=48
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V005E_VS1
+Link=162577680
+
+[Item]
+Label=Utilisation d'aides pour se déplacer
+Name=H005E_01
+Start=49
+Len=1
+Occurrences=8
+OccurrenceLabel=1,Canne ou bâton
+OccurrenceLabel=2,Cadre de marche
+OccurrenceLabel=3,Béquilles
+OccurrenceLabel=4,Fauteuil roulant ou tricycle
+OccurrenceLabel=5,Prothèse de jambe, de pied, de bras ou de main
+OccurrenceLabel=6,L’aide d’une personne
+OccurrenceLabel=7,Autre
+OccurrenceLabel=8,Aucune aide
+
+[Item]
+Label=Autre aide utilisée pour se déplacer
+Name=H005E_02
+Start=57
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Difficultés à se concentrer depuis plus d'un an
+Name=H006A
+Start=87
+Len=1
+
+[ValueSet]
+Label=Difficultés à se concentrer depuis plus d'un an
+Name=H006A_VS1
+Link=162578120
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V006A
+Start=88
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V006A_VS1
+Link=162577680
+
+[Item]
+Label=Difficultés à se rappeler  depuis plus d'un an
+Name=H006B
+Start=89
+Len=1
+
+[ValueSet]
+Label=Difficultés à se rappeler  depuis plus d'un an
+Name=H006B_VS1
+Link=162578120
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V006B
+Start=90
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V006B_VS1
+Link=162577680
+
+[Item]
+Label=Difficultés à se laver tout seul depuis plus d'un an
+Name=H007A
+Start=91
+Len=1
+
+[ValueSet]
+Label=Difficultés à se laver tout seul depuis plus d'un an
+Name=H007A_VS1
+Link=162578120
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V007A
+Start=92
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V007A_VS1
+Link=162577680
+
+[Item]
+Label=Difficultés à s'habiller tout seul depuis plus d'un an
+Name=H007B
+Start=93
+Len=1
+
+[ValueSet]
+Label=Difficultés à s'habiller tout seul depuis plus d'un an
+Name=H007B_VS1
+Link=162578120
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V007B
+Start=94
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V007B_VS1
+Link=162577680
+
+[Item]
+Label=Difficultés à comprendre les autres depuis plus d'un an
+Name=H008A
+Start=95
+Len=1
+
+[ValueSet]
+Label=Difficultés à comprendre les autres depuis plus d'un an
+Name=H008A_VS1
+Link=162578120
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V008A
+Start=96
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V008A_VS1
+Link=162577680
+
+[Item]
+Label=Difficultés à commencer et entretenir une conversation depuis plus d'un an
+Name=H008B
+Start=97
+Len=1
+
+[ValueSet]
+Label=Difficultés à commencer et entretenir une conversation depuis plus d'un an
+Name=H008B_VS1
+Link=162578120
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V008B
+Start=98
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V008B_VS1
+Link=162577680
+
+[Item]
+Label=Difficultés à se faire comprendre des autres depuis plus d'un an
+Name=H008C
+Start=99
+Len=1
+
+[ValueSet]
+Label=Difficultés à se faire comprendre des autres depuis plus d'un an
+Name=H008C_VS1
+Link=162578120
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V008C
+Start=100
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V008C_VS1
+Link=162577680
+
+[Item]
+Label=Difficultés à apprendre de nouvelles choses depuis plus d'un an
+Name=H009
+Start=101
+Len=1
+
+[ValueSet]
+Label=Difficultés à apprendre de nouvelles choses depuis plus d'un an
+Name=H009_VS1
+Link=162578120
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V009
+Start=102
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V009_VS1
+Link=162577680
+
+[Item]
+Label=Difficultés à analyser et trouver des solutions
+Name=H010
+Start=103
+Len=1
+
+[ValueSet]
+Label=Difficultés à analyser et trouver des solutions
+Name=H010_VS1
+Link=162578120
+
+[Item]
+Label=Personne ayant répondu à la question précédente
+Name=V010
+Start=104
+Len=1
+
+[ValueSet]
+Label=Personne ayant répondu à la question précédente
+Name=V010_VS1
+Link=162577680
+
+[Item]
+Label=Incapacité mineure
+Name=H011
+Start=105
+Len=1
+Occurrences=8
+OccurrenceLabel=1,VISION
+OccurrenceLabel=2,AUDITION
+OccurrenceLabel=3,MOBILITE
+OccurrenceLabel=4,MEMOIRE ET CONCENTRATION
+OccurrenceLabel=5,PRENDRE SOIN DE SOIN
+OccurrenceLabel=6,COMMUNICATION
+OccurrenceLabel=7,APPRENTISSAGE
+OccurrenceLabel=8,ANALYSE
+
+[ValueSet]
+Label=Incapacité mineure
+Name=H011_VS1
+Value=1;Oui
+Value=2;Non
+
+[Record]
+Label=Eligibilité témoin
+Name=TEMOIN_REC
+RecordTypeValue='2'
+Required=No
+RecordLen=29
+
+[Item]
+Label=Port des lunettes médicales
+Name=T02
+Start=18
+Len=1
+
+[ValueSet]
+Label=Port des lunettes médicales
+Name=T02_VS1
+Link=162578648
+
+[Item]
+Label=Difficultés à voir même avec vos lunettes médicales depuis plus d'un an
+Name=T03A
+Start=19
+Len=1
+
+[ValueSet]
+Label=Difficultés à voir même avec vos lunettes médicales depuis plus d'un an
+Name=T03A_VS1
+Link=162578120
+
+[Item]
+Label=Difficultés à voir depuis plus d'un an
+Name=T03B
+Start=20
+Len=1
+
+[ValueSet]
+Label=Difficultés à voir depuis plus d'un an
+Name=T03B_VS1
+Link=162578120
+
+[Item]
+Label=Port d'appareils auditifs
+Name=T04
+Start=21
+Len=1
+
+[ValueSet]
+Label=Port d'appareils auditifs
+Name=T04_VS1
+Link=162578648
+
+[Item]
+Label=Difficultés à mieux entendre même avec vos appareils depuis plus d'un an
+Name=T05A
+Start=22
+Len=1
+
+[ValueSet]
+Label=Difficultés à mieux entendre même avec vos appareils depuis plus d'un an
+Name=T05A_VS1
+Link=162578120
+
+[Item]
+Label=Difficultés à entendre depuis plus d'un an
+Name=T05B
+Start=23
+Len=1
+
+[ValueSet]
+Label=Difficultés à entendre depuis plus d'un an
+Name=T05B_VS1
+Link=162578120
+
+[Item]
+Label=Difficultés à marcher depuis plus d'un an
+Name=T06
+Start=24
+Len=1
+
+[ValueSet]
+Label=Difficultés à marcher depuis plus d'un an
+Name=T06_VS1
+Link=162578120
+
+[Item]
+Label=Difficultés à se rappeler de quelque chose depuis plus d'un an
+Name=T07
+Start=25
+Len=1
+
+[ValueSet]
+Label=Difficultés à se rappeler de quelque chose depuis plus d'un an
+Name=T07_VS1
+Link=162578120
+
+[Item]
+Label=Difficultés à prendre soin de soi-même depuis plus d'un an
+Name=T08
+Start=26
+Len=1
+
+[ValueSet]
+Label=Difficultés à prendre soin de soi-même depuis plus d'un an
+Name=T08_VS1
+Link=162578120
+
+[Item]
+Label=Difficultés à communiquer depuis plus d'un an
+Name=T09
+Start=27
+Len=1
+
+[ValueSet]
+Label=Difficultés à communiquer depuis plus d'un an
+Name=T09_VS1
+Link=162578120
+
+[Item]
+Label=Difficultés à apprendre de nouvelles choses depuis plus d'un an
+Name=T10
+Start=28
+Len=1
+
+[ValueSet]
+Label=Difficultés à apprendre de nouvelles choses depuis plus d'un an
+Name=T10_VS1
+Link=162578120
+
+[Item]
+Label=Difficultés à analyser et trouver des solutions depuis plus d'un an
+Name=T11
+Start=29
+Len=1
+
+[ValueSet]
+Label=Difficultés à analyser et trouver des solutions depuis plus d'un an
+Name=T11_VS1
+Link=162578120
+
+[Record]
+Label=Auxiliaire
+Name=AUXILIAIRE_REC
+RecordTypeValue='4'
+Required=No
+RecordLen=185
+
+[Item]
+Label=Catégorie du sujet
+Name=CATEGORIE
+Start=18
+Len=1
+
+[ValueSet]
+Label=Catégorie du sujet
+Name=CATEGORIE_VS1
+Value=1;PH
+Value=2;PT
+
+[Item]
+Label=Identifiant du sujet
+Name=CASEID01
+Start=19
+Len=16
+DataType=Alpha
+
+[Item]
+Label=Numéro du sujet
+Name=ID01
+Start=35
+Len=4
+
+[ValueSet]
+Label=Numéro du sujet
+Name=ID01_VS1
+Value=1:9999;Valide
+
+[Item]
+Label=Label numéro du sujet:
+Name=IDLAB01
+Start=39
+Len=5
+DataType=Alpha
+
+[Item]
+Label=Initiales du sujet
+Name=INITIALES01
+Start=44
+Len=4
+DataType=Alpha
+
+[Item]
+Label=Année de naissance du sujet
+Name=H001
+Start=48
+Len=4
+
+[ValueSet]
+Label=Année de naissance du sujet
+Name=H001_VS1
+Value=1900:2018;Valide
+
+[Item]
+Label=Age à l’année de la collecte
+Name=ELIG_AGE
+Start=52
+Len=2
+
+[Item]
+Label=Handicap mineur
+Name=NB_HANDICAPMINEUR
+Start=54
+Len=2
+
+[Item]
+Label=Handicap majeur
+Name=NB_HANDICAPMAJEUR
+Start=56
+Len=2
+
+[Item]
+Label=Critères du Washington Group
+Name=H012
+Start=58
+Len=1
+
+[ValueSet]
+Label=Critères du Washington Group
+Name=H012_VS1
+Link=88827928
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Eligibilité âge
+Name=H013
+Start=59
+Len=1
+
+[ValueSet]
+Label=Eligibilité âge
+Name=H013_VS1
+Link=88827928
+
+[Item]
+Label=Personne disponible pour répondre
+Name=H014
+Start=60
+Len=1
+
+[ValueSet]
+Label=Personne disponible pour répondre
+Name=H014_VS1
+Link=88827928
+
+[Item]
+Label=Personne éligible
+Name=H015A
+Start=61
+Len=1
+
+[ValueSet]
+Label=Personne éligible
+Name=H015A_VS1
+Link=88827928
+
+[Item]
+Label=Raison de la non-éligibilité
+Name=H015B
+Start=62
+Len=1
+
+[ValueSet]
+Label=Raison de la non-éligibilité
+Name=H015B_VS1
+Value=1;Refus
+Value=2;Non joignable
+Value=3;Ne répond pas aux critères du WG
+Value=4;N’a pas entre 15 et 49 ans
+Value=5;Vous pensez que la personne est en incapacité de répondre à au moins une partie de l’enquête
+Value=6;Autre (précisez)
+
+[Item]
+Label=Autre raison de la non-éligibilité
+Name=H015B_06
+Start=63
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Feuille de consentement signée
+Name=H016
+Start=93
+Len=1
+
+[ValueSet]
+Label=Feuille de consentement signée
+Name=H016_VS1
+Value=1;Oui
+Value=2;Non
+
+[Item]
+Label=Identifiant individu apparié
+Name=CASEID02
+Start=94
+Len=16
+DataType=Alpha
+
+[Item]
+Label=Numéro de l'individu apparié
+Name=ID02
+Start=110
+Len=4
+
+[ValueSet]
+Label=Numéro de l'individu apparié
+Name=ID02_VS1
+Value=1:9999;Valide
+
+[Item]
+Label=Label numéro de l'individu apparié
+Name=IDLAB02
+Start=114
+Len=5
+DataType=Alpha
+
+[Item]
+Label=Initiales de l'individu apparié
+Name=INITIALES02
+Start=119
+Len=5
+DataType=Alpha
+
+[Item]
+Label=Statut dans le handicap
+Name=STATUT_HANDICAP
+Start=124
+Len=1
+
+[ValueSet]
+Label=Statut dans le handicap
+Name=STATUT_HANDICAP_VS1
+Value=1;PH
+Value=2;PT
+Value=3;Standby
+Value=4;Inéligible
+
+[ValueSet]
+Label=Statut dans le handicap
+Name=STATUT_HANDICAP_VS2
+Value=1;PH
+Value=3;Standby
+Value=4;Inéligible
+
+[ValueSet]
+Label=Statut dans le handicap
+Name=STATUT_HANDICAP_VS3
+Value=2;PT
+Value=3;Standby
+Value=4;Inéligible
+
+[Item]
+Label=Statut du dénombrement
+Name=STATUT_DENOMBREMENT
+Start=125
+Len=1
+
+[ValueSet]
+Label=Statut du dénombrement
+Name=STATUT_DENOMBREMENT_VS1
+Value=1;Enquêté(e)
+Value=2;Apparié(e)
+Value=3;Encours
+Value=4;Refus
+
+[Item]
+Label=ID device
+Name=ELIG_DEVICEID
+Start=126
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Nom utilisateur tablette
+Name=ELIG_USERNAME
+Start=156
+Len=30
+DataType=Alpha
+
+[Record]
+Label=Contrôle
+Name=CONTROLE_REC
+RecordTypeValue='5'
+Required=No
+RecordLen=21
+
+[Item]
+Label=Incohérence signalée
+Name=INCOHERENCE_SIGNALEE
+Start=18
+Len=2
+
+[Item]
+Label=Incohérence détectée
+Name=INCOHERENCE_DETECTEE
+Start=20
+Len=2

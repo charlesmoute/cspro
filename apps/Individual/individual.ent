@@ -1,0 +1,33 @@
+﻿[CSPro Application]
+Version=CSPro 7.0
+Label=INDIVIDUAL
+Name=INDIVIDUAL
+AppType=DataEntry
+OperatorID=No
+PartialSave=Yes
+CAPI=Yes
+CAPIFont1=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont2=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont1Color=0
+CAPIFont2Color=16711680
+CaseTree=Always
+CenterForms=Yes
+CreateListing=No
+CreateLog=No
+ShowFieldLabels=No
+ShowErrorMessageNumbers=No
+[External Dictionaries]
+File=..\Household\Dico\household.dcf
+File=.\Dico\eligibilite.dcf
+[AppCode]
+File=.\individual.ent.apc
+[Message]
+File=.\individual.ent.mgf
+[Help]
+File=.\individual.ent.qsf
+[Forms]
+File=.\individual.fmf
+[Dictionary Types]
+Dict-Type=..\Household\Dico\household.dcf,External
+Dict-Type=.\Dico\individual.dcf,Input,.\individual.fmf
+Dict-Type=.\Dico\eligibilite.dcf,External

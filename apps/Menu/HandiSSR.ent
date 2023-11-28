@@ -1,0 +1,39 @@
+﻿[CSPro Application]
+Version=CSPro 7.0
+Label=Menu
+Name=HandiSSR
+AppType=DataEntry
+OperatorID=No
+ShowEndCaseDialog=No
+CAPI=Yes
+CAPIFont1=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont2=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont1Color=0
+CAPIFont2Color=16711680
+CaseTree=Always
+CenterForms=Yes
+CreateListing=No
+CreateLog=No
+ShowFieldLabels=No
+ShowErrorMessageNumbers=No
+[External Dictionaries]
+File=..\Household\Dico\household.dcf
+File=..\Individual\Dico\eligibilite.dcf
+File=..\Individual\Dico\individual.dcf
+[AppCode]
+File=.\HandiSSR.ent.apc
+[Message]
+File=.\HandiSSR.ent.mgf
+[Help]
+File=.\HandiSSR.ent.qsf
+[Forms]
+File=.\HandiSSR.fmf
+[Dictionary Types]
+Dict-Type=..\Individual\Dico\individual.dcf,External
+Dict-Type=.\HandiSSR.dcf,Input,.\HandiSSR.fmf
+Dict-Type=..\Household\Dico\household.dcf,External
+Dict-Type=..\Individual\Dico\eligibilite.dcf,External
+[Sync]
+Server=ftp://iford-cm.org/
+Direction=Both
+AppDownloadPath=/handiSSR

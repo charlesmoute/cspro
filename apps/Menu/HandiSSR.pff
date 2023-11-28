@@ -1,0 +1,32 @@
+﻿[Run Information]
+Version=CSPro 7.0
+AppType=Entry
+
+[DataEntryInit]
+StartMode=Add
+Lock=Delete,Verify,Stats
+FullScreen=YES
+AutoAdd=NO
+Interactive=Ask
+Language=FRANCAIS
+
+[Files]
+Application=.\HandiSSR.ent
+InputData=|NONE
+
+[ExternalFiles]
+ELIGIBILITE_DICT=..\Individual\Data\eligibilite.csdb|CSPRODB
+HOUSEHOLD_DICT=..\Household\Data\household.csdb|CSPRODB
+INDIVIDUAL_DICT=..\Individual\Data\individual.csdb|CSPRODB
+
+[UserFiles]
+PFFFILE=
+TEMPFILE=
+
+[Parameters]
+ENDDATE=20181231
+ENDTIME=1730
+LOGIN=
+STARTDATE=20170720
+STARTTIME=0730
+

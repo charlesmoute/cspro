@@ -1,0 +1,27 @@
+﻿Application     C:\Users\charles\AppData\Local\Temp\CSExpRun3464.bch
+Type            BATCH
+Input Data      <<CSPro DB>> \\Mac\Home\Documents\My Biz\HandiVIH\handiSSR\individual\Data\eligibilite.csdb                                                                                                                                                                                                                 
+<File>          CSPRO_EXPORT_FILE_VAR_F=
+
+Date            Aug 15, 2017
+Start Time      10:03:51
+End Time        10:03:51
+
+CSPRO Process Summary
+          +-----------------------------------------------------+
+          |       4 Records Read ( 100% of input file)          |
+          |       0 Ignored (       0 unknown,        0 erased) |
+          |       0 Messages (       0 U,       0 W,       0 E) |
+          +---------+--------------+--------------+-------------+
+          |  Level  |  Input Case  |  Bad Struct  |  Level Post |
+          +---------+--------------+--------------+-------------+
+          |     1   |          1   |          0   |          1  |
+          +---------+--------------+--------------+-------------+                                                     
+                                                                                
+                                                                                
+                                                                                
+
+Process Messages
+
+CSPRO Executor Normal End
+--------------------------------------------------------------------------------

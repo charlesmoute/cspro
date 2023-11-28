@@ -1,0 +1,55 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 7.0
+
+[LANGUAGES]
+ENG=English
+
+[QUESTION]
+Field=HANDISSR_DICT.CHOOSE_HOUSEHOLD
+ENG={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+ENG={\colortbl ;\red0\green0\blue0;\red48\green48\blue48;}
+ENG={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\fs24 S\cf2\f1\fs26\'e9lectionnez le m\'e9nage et validez votre choix\par
+ENG=}
+
+[QUESTION]
+Field=HANDISSR_DICT.CHOOSE_PH
+ENG={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+ENG={\colortbl ;\red0\green0\blue0;\red48\green48\blue48;}
+ENG={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\fs24 S\cf2\f1\fs26\'e9lectionnez la personne handicap\'e9e et validez votre choix\cf1\f0\fs24\par
+ENG=}
+
+[QUESTION]
+Field=HANDISSR_DICT.CHOOSE_PT
+ENG={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+ENG={\colortbl ;\red0\green0\blue0;\red48\green48\blue48;}
+ENG={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\fs24 S\cf2\f1\fs26\'e9lectionnez le t\'e9moin et validez votre choix\cf1\f0\fs24\par
+ENG=}
+
+[QUESTION]
+Field=HANDISSR_DICT.INTERVIEWER_MENU
+ENG={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+ENG={\colortbl ;\red0\green0\blue0;\red48\green48\blue48;}
+ENG={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\fs24 S\cf2\f1\fs26\'e9lectionnez l'option appropri\'e9e et validez votre choix\cf1\lang1036\f0\fs24\par
+ENG=}
+
+[QUESTION]
+Field=HANDISSR_DICT.LOGIN
+ENG={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+ENG={\colortbl ;\red0\green0\blue0;}
+ENG={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\fs24 Saisir votre code agent pour vous connecter \cf0\f1\'e0 l'application\cf1\f0\par
+ENG=}
+
+[QUESTION]
+Field=HANDISSR_DICT.SUMMARY_REPORTS
+ENG={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+ENG={\colortbl ;\red0\green0\blue0;\red48\green48\blue48;}
+ENG={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\fs24 S\cf2\f1\fs26\'e9lectionnez l'option appropri\'e9e et validez votre choix\cf1\f0\fs24\par
+ENG=}
+
+[QUESTION]
+Field=HANDISSR_DICT.SUPERVISOR_MENU
+ENG={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+ENG={\colortbl ;\red0\green0\blue0;\red48\green48\blue48;}
+ENG={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\fs24 S\cf2\f1\fs26\'e9lectionnez l'option appropri\'e9e et validez votre choix\cf1\f0\fs24\par
+ENG=}
+

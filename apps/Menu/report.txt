@@ -1,0 +1,31 @@
+﻿Rapport sur l'ensemble de la population 31/08/2017
+---------------------------------------------------
+          << Agent 1 >>
+Homme: 1
+Femme: 0
+Total: 1
+
+---
+Homme handicapé: 1
+Femme handicapée: 0
+Total personne handicapée: 1
+
+---
+Homme atteint d'au moins un handicap majeur: 1
+Femme atteinte d'au moins un handicap majeur: 0
+Total personne atteinte d'au moins un handicap majeur: 1
+
+---
+Homme atteint d'au moins un handicap mineur: 1
+Femme atteinte d'au moins un handicap mineur: 0
+Total personne atteinte d'au moins un handicap mineur: 1
+
+---
+Homme susceptible d'être atteint d'un handicap: 0
+Femme susceptible d'être atteinte d'un handicap: 0
+Total personne susceptible d'être atteinte d'un handicap: 0
+
+---
+Potentiel témoin de sexe masculin : 0
+Potentiel témoin de sexe féminin : 0
+Total de potentiel témoin: 0

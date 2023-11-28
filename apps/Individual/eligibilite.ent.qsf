@@ -1,0 +1,906 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 7.0
+
+[LANGUAGES]
+FR=Francais
+RN=Kirundi
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.CATEGORIE
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, s\'e9lectionnez le statut dans le handicap du sujet\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, s\'e9lectionnez le statut dans le handicap du sujet\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.ELIG_AGE
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Age atteint au cours de l'ann\cf0\i0\f1\'e9e\cf1\i\f0  de la collecte de donn\cf0\i0\f1\'e9e\cf1\i\f0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Age atteint au cours de l'ann\cf0\f1\'e9e\cf1\f0  de la collecte de donn\cf0\f1\'e9e\cf1\f0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.ELIG_COLLINE
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 S\'e9lectionnez la colline\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 S\'e9lectionnez la colline\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.ELIG_COMMUNE
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 S\'e9lectionnez la commune\lang1036\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 S\'e9lectionnez la commune\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.ELIG_NUMINDIVIDU
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez le num\'e9ro de l'individu\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez le num\'e9ro de l'individu\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.ELIG_NUMMENAGE
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez le num\'e9ro du m\'e9nage\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez le num\'e9ro du m\'e9nage\b\i0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.ELIG_STRUCTURE
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez le num\'e9ro de la structure\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez le num\'e9ro de la structure\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.ELIG_ZD
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez le num\'e9ro de ZD\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez le num\'e9ro de ZD\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.ELIG_ZONE
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 S\'e9lectionnez la zone\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 S\'e9lectionnez la zone\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H001
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez l'ann\'e9e de naissance du sujet\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez l'ann\'e9e de naissance du sujet\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H002
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q02 : Est-ce que vous utilisez des lunettes m\'e9dicales (verres optiques, verres correcteurs) pour mieux voir de loin ?\b0\i\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q02 : Mbe murakoresha amarori yo k wa muganga kugira mubone kure ?\b0\i\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H002A
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q02a : Depuis plus de 1 an, avez-vous des difficult\'e9s pour voir ou reconnaitre une personne quand elle est de l\rquote autre c\'f4t\'e9 d\rquote une grande pi\'e8ce (par ex une \'e9glise) quand vous portez vos lunettes m\'e9dicales pour voir de loin (verres optiques, verres correcteurs) ?\b0\i\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q02a : Mu kiringo kirenga umwaka, mwoba mufise ingorane zo kubona canke kumenya umuntu ari nka hariya ( kw\rquote ivuriro, kw\rquote isengero.......) igihe mwambaye amarori yo kwa muganga kugira mubone kure ?\b0\i\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H002B
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q02b : Depuis plus de 1 an, avez-vous des difficult\'e9s pour voir ou reconnaitre une personne quand elle est de l\rquote autre c\'f4t\'e9 d\rquote une grande pi\'e8ce (par ex une \'e9glise)?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q02b : Mukiringo kirenga umwaka, mwoba mwaragize ingorane yo kubona canke kumenya umuntu ari nka hariya (isengero, ivuriro....) ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H003
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q03 : Est-ce que vous utilisez des lunettes m\'e9dicales (verres optiques, verres correcteurs) pour mieux voir de pr\'e8s ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q03 : Mbe murakoresha amarori yo kwa muganga (afasha kubona neza) kugira mubone ibintu bibegereye ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H003A
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q03a : Depuis plus de 1 an, avez-vous des difficult\'e9s pour voir l\rquote image sur une pi\'e8ce de monnaie quand vous portez vos lunettes m\'e9dicales (verres optiques, verres correcteurs) ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q03a : Mu kiringo kirenga umwaka, mwoba mufise ingorane yo kubona ishusho iri nko ku kingorongoro igihe mwambaye amarori yo kwa muganga (afasha kubona neza)\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H003B
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q03b : Depuis plus de 1 an, avez-vous des difficult\'e9s pour voir l\rquote image sur une pi\'e8ce de monnaie ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q03b : Mu kiringo kirenga umwaka, mwoba mufise ingorane zo kubona ishusho iri ku kingorongoro ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H004
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q04 : Depuis plus de 1 an, avez-vous des difficult\'e9s pour entendre une personne parler avec une voix normale dans une pi\'e8ce calme [m\'eame avec vos appareils auditifs (si la personne en porte)] ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q04 : Mu kiringo kirenga umwaka, mwoba mufise ingorane zo kumva umuntu avuga nijwi risanzwe ari mu cumba (naho mwoba mwambaye ako kuma kabafasha kumva) ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H005A
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q05a : Depuis plus de 1 an, avez-vous des difficult\'e9s \'e0 vous d\'e9placer dans votre maison sans aide (cannes, b\'e9quilles, personne, etc...) ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q05a : Mu kiringo kirenga umwaka, mwoba mwaragize ingorane yo gutambuka muri munzu ataco mwifadikije(inkoni, umuntu, bekiye...) ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H005B
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q05b : Depuis plus de 1 an, avez-vous des difficult\'e9s \'e0 sortir de votre maison sans aide (cannes, b\'e9quilles, personne, etc...) ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q05b : Mu kiringo kirenga umwaka, mwoba mwaragize ingorane zo gusohoka munzu yanyu ataco mwifadikije(inkoni, umuntu, bekiye...) ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H005C
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q05c : Mu kiringo kirenga umwaka, mwoba mwaragize ingorane zo gutambuka ahantu harehare nko ku kilometero ataco mwifadikije(inkoni, umuntu, bekiye...) ?\par
+RN=}
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q05c : Depuis plus de 1 an, avez-vous des difficult\'e9s pour marcher de longues distances comme par exemple 1 kilom\'e8tre sans aide(cannes, b\'e9quilles, personne, etc...) ?\b0\i\par
+FR=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H005D
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q05d : Depuis plus de 1 an, avez-vous des difficult\'e9s pour utiliser vos mains et vos doigts, comme pour attraper des petits objets ou pour ouvrir ou fermer des boites sans aide?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q05d : Mu kiringo kirenga umwaka, mwoba mwaragize ingorane zo gukoresha iminwe, intoke, nko gufata utuntu dutoduto, nko kugurura no kwugara ibikopo atawubafashije ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H005E
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q05e : Utilisez-vous les aides suivantes : \par
+FR=\b0\i Agent %codeAgent%, Lire chaque item. S\'e9lectionnez la/les r\'e9ponse(s) positive(s). Plusieurs r\'e9ponses possibles\b\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q05e : Murifashisha ibi bikwirikira :\par
+RN=\b0\i Agent %codeAgent%, Lire chaque item. S\'e9lectionnez la/les r\'e9ponse(s) positive(s). Plusieurs r\'e9ponses possibles\b\i0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H006A
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q06a : Depuis plus de 1 an, avez-vous des difficult\'e9s \'e0 vous concentrer \'e0 faire quelque chose pendant 10 minutes ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q06a : Mu kiringo kirenga umwaka, mwoba mwaragize ingorane zo gukora ikintu mutekanye nk\rquote iminota cumi (10) ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H006B
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q06b : Depuis plus de 1 an, avez-vous des difficult\'e9s \'e0 vous rappeler de faire des choses\ul  importantes\ulnone  dans votre vie de tous les jours et/ou \'e0 vous rappeler des noms de personnes ou de lieux que vous connaissez bien ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q06b : Mu kiringo kirenga umwaka, mwoba mwaragize ingorane zo kwibuka gukora ibintu bikomeye mubuzima bwanyu bwa minsi yose/ canke kwibuka amazina y\rquote abantu muzi canke ahantu muzi ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H007A
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q07a : Depuis plus de 1 an, avez-vous des difficult\'e9s \'e0 laver tout votre corps tout seul? \b0\i (y compris la t\'eate, les pieds, le dos)\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q07a : Mu kiringo kirenga umwaka, mwoba mwaragize ingorane zo kwiyoga mwenyene \b0\i (harimwo koga mu mutwe, ku birenge, mu mugongo) ?\b\i0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H007B
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q07b : Depuis plus de 1 an, avez-vous des difficult\'e9s \'e0 vous habiller tout seul? \b0\i (y compris attraper les habits sur l\rquote\'e9tag\'e8re, mettre les boutons, les fermetures \'e9clair, les bijoux si vous en avez, etc...)\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q07b : Mu kiringo kirenga umwaka, mwoba mwaragize ingorane zo kwiyambika mwenyene\b0\i  ( harimwo kwiha impuzu aho zimanitse, gufunga ibipesi, gufunga imashini, imigufu canke amahereni.....) ?\b\i0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H008A
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q08a : Depuis plus de 1 an, dans votre langage habituel, avez-vous des difficult\'e9s \'e0 comprendre ce que les gens vous disent \b0\i (\'e0 suivre ce que les autres veulent) ?\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q08a : Mu kiringo kirenga umwaka, mwoba mwaragize ingorane zijanye nuko musanzwe muvuga canke kumva ivyo abandi bavuze \b0\i (kumva ico abandi bifuza) ?\par
+RN=\b\i0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H008B
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q08b : Depuis plus de 1 an, avez-vous des difficult\'e9s \'e0 commencer et entretenir une conversation (une discussion) ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q08b : Mu kiringo kirenga umwaka, mwoba mwaragize ingorane zo kubahuka gutangura kuganiriza abantu canke kuremesha ikiyago ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H008C
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q08c : Depuis plus de 1 an, est-ce que les autres ont g\'e9n\'e9ralement des difficult\'e9s \'e0 vous comprendre (\'e0 comprendre/suivre ce que vous leur dites) ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q08c : Mu kiringo kirenga umwaka, mwoba mwaragize ingorane yuko abandi badashobora kubatahura /kumva ico mubabwiye ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H009
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q09 : Avez-vous des difficult\'e9s \'e0 apprendre de nouvelles choses par exemple apprendre \'e0 aller \'e0 un nouveau lieu? \b0\i Autre exemple : apprendre une nouvelle activit\'e9 (une recette de cuisine, une langue, les r\'e8gles d\rquote un nouveau sport)\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q09 : Murafise ingorane yo kwiga ibintu bishasha, nko kwijana ahantu hashasha ? nko gukora ikintu gishasha (Kwiga gukinjika, kwiga ururimi rushasha, kwiga amategeko y\rquote urukino rushasha) ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H010
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q10 : Avez-vous des difficult\'e9s \'e0 analyser et trouver des solutions aux probl\'e8mes que vous rencontrez dans la vie de tous les jours?\b0\i\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q10 : Murafise ingorane yo guca irya n\rquote ino ibibagoye canke ingorane muhura mubuzima bwa minsi yose no kubitorera inyishu ?\b0\i\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H011
+Occurrences=1:8
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 INCAPACITE MINEURE : %getocclabel%\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 INCAPACITE MINEURE :  %getocclabel%\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H012
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q12 : Crit\'e8res du Washington Group \par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q12 : Crit\'e8res du Washington Group \par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H013
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q13 : \'e2ge inclus entre 15 et 49 ans\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q13 : \'e2ge inclus entre 15 et 49 ans\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H014
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Q14 : Agent %codeAgent%, pensez-vous que la personne ou une personne proche d\rquote elle peut r\'e9pondre \'e0 au moins une partie de l\rquote enqu\'eate\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Q14 : Agent %codeAgent%, pensez-vous que la personne ou une personne proche d\rquote elle peut r\'e9pondre \'e0 au moins une partie de l\rquote enqu\'eate\b\i0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H015A
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q15 : La personne est-elle \'e9ligible ?\b0\i\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q15 : La personne est-elle \'e9ligible ?\b0\i\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H015B
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, s\'e9lectionnez la raison de sa non-\'e9ligibilit\'e9\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, s\'e9lectionnez la raison de sa non-\'e9ligibilit\'e9\b\i0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.H016
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, la personne (ou son tuteur) a-t-elle \b consenti et sign\cf0\i0\f1\'e9\cf1\i\f0  \b0 la feuille de consentement ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, la personne (ou son tuteur) a-t-elle \b consenti et sign\cf0\i0\f1\'e9\cf1\b0\i\f0  la feuille de consentement ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.ID01
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez le num\'e9ro du sujet\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez le num\'e9ro du sujet\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.INITIALES01
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez les initiales du sujet\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Saisissez les initiales du sujet\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.STATUT_HANDICAP
+Condition=CATEGORIE=1
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, la personne n\rquote est pas \'e9ligible comme personne handicap\'e9e. \b Contactez le superviseur et un des responsables de l\rquote\'e9tude pour confirmer sa non-\'e9ligibilit\'e9.\b0\i0  \cf2\b\i Lisez la note d'aide pour plus amples informations.\cf1\b0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, la personne n\rquote est pas \'e9ligible comme personne handicap\'e9e. \b Contactez le superviseur et un des responsables de l\rquote\'e9tude pour confirmer sa non-\'e9ligibilit\'e9.\b0\i0  \cf2\b\i Lisez la note d'aide pour plus amples informations.\cf1\b0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.STATUT_HANDICAP
+Condition=CATEGORIE=2
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %ELIG_AGENT%, la personne n\rquote est pas \'e9ligible comme t\'e9moin. \b Contactez le superviseur et un des responsables de l\rquote\'e9tude pour confirmer sa non-\'e9ligibilit\'e9.\b0\i0  \cf2\b\i Lisez la note d'aide pour plus amples informations.\cf1\b0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;\red255\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %ELIG_AGENT%, la personne n\rquote est pas \'e9ligible comme t\'e9moin. \b Contactez le superviseur et un des responsables de l\rquote\'e9tude pour confirmer sa non-\'e9ligibilit\'e9.\b0\i0  \cf2\b\i Lisez la note d'aide pour plus amples informations.\cf1\b0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.T02
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q02 : Portez-vous des lunettes m\'e9dicales ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q02 : Murambara amarori yo kwa muganga kugira mubone neza ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.T03A
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q03a : Depuis plus de 1 an, Avez-vous des difficult\'e9s \'e0 voir m\'eame avec vos lunettes m\'e9dicales ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q03a : Mu kiringo kirenga umwaka, mwoba mufise ingorane zo kubona mwambaye amarori yanyu yo kwa muganga ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.T03B
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q03b :  Depuis plus de 1 an, Avez-vous des difficult\'e9s \'e0 voir ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q03b : Mu kiringo kirenga umwaka, mwoba mufise ingorane zo kubona ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.T04
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q04 : Portez-vous des appareils auditifs qui vous aident \'e0 mieux entendre ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q04 : Mwoba mukoresha utwuma tubafasha kumva neza ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.T05A
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q05a : Depuis plus de 1 an, avez-vous des difficult\'e9s \'e0 mieux entendre m\'eame avec vos appareils?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q05a : Mu kiringo kirenga umwaka , mwoba mwaragize ingorane zo kwumva neza naho mwoba mwari mwambaye utwuma tubafasha kwumva neza ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.T05B
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q05b : Depuis plus de 1 an, avez-vous des difficult\'e9s \'e0 entendre ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q05b : Mu kiringo kirenga umwaka, mwoba mufise ingorane zo kwumva neza ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.T06
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q06 : Depuis plus de 1 an, Avez-vous des difficult\'e9s \'e0 marcher ou \'e0 monter des marches sans aide (cannes, b\'e9quilles, etc...) ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q06 : Mu kiringo kirenga umwaka, mwaba mwaragize ingorane yo gutambuka canke kudunga ingazi zo munzu atakigufashije (inkoni, umuntu, bekiye...) ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.T07
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q07 : Depuis plus de 1 an, Avez-vous des difficult\'e9s \'e0 vous rappeler de quelque chose ou \'e0 vous concentrer ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q07 : Mu kiringo kirenga umwaka, mwoba mwaragize ingorane zo kwibuka ikintu canke zo kwitwararika ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.T08
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q08 : Depuis plus de 1 an, Avez-vousdes difficult\'e9s \'e0 prendre soin de vous-m\'eame, par exemple \'e0 vous laver ou \'e0 vous habiller tout(e) seul(e) ?(m\'eame la t\'eate, m\'eame les pieds?)\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q08 : Mu kiringo kirenga umwaka, mwoba mwaragize ingorane zo kwiyoza mwenyene canke kwiyambika \b0\i (harimwo koza mu mutwe, ku birenge, mu mugongo) \b\i0 ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.T09
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q09 : Depuis plus de 1 an, Dans votre langage habituel, avez-vous des difficult\'e9s \'e0 communiquer, par exemple \'e0 comprendre ou \'e0 vous faire comprendre? C\rquote est-\'e0-dire \'ab \'e0 comprendre ce que les autres veulent ou \'e0 faire comprendre aux autres ce que vous voulez ? \'bb\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q09 : Mu kiringo kirenga umwaka, mwoba mwaragize ingorane zijanye nuko musanzwe muvuga nko gutahura ico abandi bavuze canke gutahurwa n\rquote abandi kuvyo wavuze ? Ni kuvuga gutahura ico abandi hashaka canke gusigurira abandi ico wifuza.\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.T10
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q10 : Depuis plus de 1 an, Avez-vous des difficult\'e9s \'e0 apprendre de nouvelles choses par exemple apprendre \'e0 aller \'e0 un nouveau lieu? \b0\i Autre exemple : apprendre une nouvelle activit\'e9 (une recette de cuisine, les r\'e8gles d\rquote un nouveau sport, de la couture)\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q10 : Mu kiringo kirenza umwaka, mwoba mwaragize ingorane yo kwiga ibintu bishasha, nko kwijana ahantu hashasha ? nko gukora ikintu gishasha (kwiga ururimi rushasha, kwiga amategeko y\rquote urukino rushasha)\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.T11
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q11 : Depuis plus de 1 an, Avez-vous des difficult\'e9s \'e0 analyser et trouver des solutions aux probl\'e8mes que vous rencontrez dans la vie de tous les jours? \par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\b\fs24 Q11 : Mu kiringo kirenga umwaka, mwoba mwaragize ingorane yo guca irya n\rquote ino ingorane muhura mubuzima bwa minsi yose no kuzitorera umuti ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V002
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\b\i0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V002A
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\b\i0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V002B
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\b\i0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V003
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\b\i0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V003A
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\b\i0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V003B
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V004
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\b\i0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V005A
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\b\i0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V005B
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\b\i0\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V005C
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V005D
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V005E
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V006A
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V006B
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V007A
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V007B
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V008A
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V008B
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V008C
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V009
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+RN=}
+
+[QUESTION]
+Field=ELIGIBILITE_DICT.V010
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, qui a r\'e9pondu \'e0 la question pr\'e9c\'e9dente ?\par
+RN=}
+
+[HELP]
+Field=ELIGIBILITE_DICT.H003A
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 AGENT %codeAgent%, vous pouvez montrer au bout de son bras une pi\'e8ce de monnaie ou une autre petite image pour qu\rquote il/elle comprenne\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 AGENT %codeAgent%, vous pouvez montrer au bout de son bras une pi\'e8ce de monnaie ou une autre petite image pour qu\rquote il/elle comprenne\b\i0\par
+RN=}
+
+[HELP]
+Field=ELIGIBILITE_DICT.H003B
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, vous pouvez montrer une pi\'e8ce de monnaie ou une autre petite image pour qu\rquote il/elle comprenne\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, vous pouvez montrer une pi\'e8ce de monnaie ou une autre petite image pour qu\rquote il/elle comprenne\b\i0\par
+RN=}
+
+[HELP]
+Field=ELIGIBILITE_DICT.H005E
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, Lire chaque item. S\'e9lectionnez la/les r\'e9ponse(s) positive(s). Plusieurs r\'e9ponses possibles\b\i0\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, Lire chaque item. S\'e9lectionnez la/les r\'e9ponse(s) positive(s). Plusieurs r\'e9ponses possibles\b\i0\par
+RN=}
+
+[HELP]
+Field=ELIGIBILITE_DICT.H001
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Si l'enqu\'eat\'e9 ne sait pas, demandez son \'e2ge et calculez l\rquote ann\'e9e de naissance correspondante.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Si l'enqu\'eat\'e9 ne sait pas, demandez son \'e2ge et calculez l\rquote ann\'e9e de naissance correspondante.\par
+RN=}
+
+[HELP]
+Field=ELIGIBILITE_DICT.STATUT_HANDICAP
+Condition=CATEGORIE=1
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, si la non-\'e9ligibilit\'e9 est confirm\'e9e et valid\'e9e par un responsable de l\rquote\'e9tude, s\'e9lectionnez \cf0\b\f1 In\'e9ligible\b0\i0 . Sinon \cf1\i\f0 s\'e9lectionnez \b PH\b0 . Dans le cas o\'f9 vous n'avez pu joindre un responsable,  s\'e9lectionnez \b Standby \b0 et plus tard revenez pour s\'e9lectionner la bonne r\'e9ponse.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, si la non-\'e9ligibilit\'e9 est confirm\'e9e et valid\'e9e par un responsable de l\rquote\'e9tude, s\'e9lectionnez \cf0\b\f1 In\'e9ligible\b0\i0 . Sinon \cf1\i\f0 s\'e9lectionnez \b PH\b0 . Dans le cas o\'f9 vous n'avez pu joindre un responsable,  s\'e9lectionnez \b Standby \b0 et plus tard revenez pour s\'e9lectionner la bonne r\'e9ponse.\par
+RN=}
+
+[HELP]
+Field=ELIGIBILITE_DICT.STATUT_HANDICAP
+Condition=CATEGORIE=2
+FR={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+FR={\colortbl ;\red0\green0\blue0;}
+FR={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, si la non-\'e9ligibilit\'e9 est confirm\'e9e et valid\'e9e par un responsable de l\rquote\'e9tude, s\'e9lectionnez \cf0\b\f1 In\'e9ligible\b0\i0 . Sinon \cf1\i\f0 s\'e9lectionnez \b PT\b0 . Dans le cas o\'f9 vous n'avez pu joindre un responsable,  s\'e9lectionnez \b Standby \b0 et plus tard revenez pour s\'e9lectionner la bonne r\'e9ponse.\par
+FR=}
+RN={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset0 HelveticaNeue;}}
+RN={\colortbl ;\red0\green0\blue0;}
+RN={\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\cf1\lang1033\i\fs24 Agent %codeAgent%, si la non-\'e9ligibilit\'e9 est confirm\'e9e et valid\'e9e par un responsable de l\rquote\'e9tude, s\'e9lectionnez \cf0\b\f1 In\'e9ligible\b0\i0 . Sinon \cf1\i\f0 s\'e9lectionnez \b PH\b0 . Dans le cas o\'f9 vous n'avez pu joindre un responsable,  s\'e9lectionnez \b Standby \b0 et plus tard revenez pour s\'e9lectionner la bonne r\'e9ponse.\par
+RN=}
+
